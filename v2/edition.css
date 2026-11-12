@@ -21,3 +21,13 @@ dialog{width:min(760px,94vw);padding:24px}.dialog-head{display:flex;justify-cont
 /* 案件阅读与图像校正 */
 .portrait-frame img.focus-xiaoqing{object-position:77% 25%}.portrait-frame img.focus-xiaoqingfang{object-position:18% 25%}.case-progress{list-style:none;padding:0;margin:0}.case-progress li{display:flex;gap:22px;margin-top:25px}.case-progress li>span{font:26px var(--display);color:#ab8061;border-right:1px solid #d1d5c5;padding-right:20px}.case-progress h3{font-size:20px;margin-bottom:8px}.case-progress p{font-size:14px}.paper-section summary{cursor:pointer;font:24px var(--display);color:#854838}.paper-section summary span{font:12px var(--body);color:#788272;margin-left:15px}#cast,#revisit{scroll-margin-top:110px}.hero-portraits img{loading:eager}.quiz-container [data-correct=true]{background:#2f6456}.quiz-container [data-correct=false]{background:#8a4c3d}.skip:focus{z-index:100}select:focus-visible{outline:2px solid #ce7754;outline-offset:3px}
 @media(max-width:600px){.quiz-container .clue-list{grid-template-columns:1fr!important}.case-progress li{gap:13px}.paper-section summary span{display:block;margin:5px 0}.brand small{font-size:8px}.hero-portraits figcaption small a{display:none}}
+
+.portrait-pending{display:block;margin-top:7px;color:#854838;font-size:11px}
+.source-pending,.review-note{color:#794b36}
+.review-note{border-left:3px solid #b58b66;padding:10px 14px;background:#e4e5d8;font-size:13px;margin-top:22px}
+.person-spoiler{margin-top:22px}
+.person-spoiler p{margin:16px 0 0}
+.person-spoiler .faction{font-size:13px;color:#6c5947}
+.person-sources{overflow-wrap:anywhere}
+.dark-section .portrait-pending{color:#e4c19c}
+#main{scroll-margin-top:106px}

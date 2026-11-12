@@ -1,0 +1,2863 @@
+{
+  "reviewedOn": "2026-11-12",
+  "method": "逐项对照百度系列／分部演员表、维基分部演员表，人物详情另查所列个人条目；冲突保留说明。",
+  "sources": {
+    "one": [
+      "https://baike.baidu.com/item/神探狄仁杰/576",
+      "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+      "https://zh.wikipedia.org/wiki/神探狄仁杰"
+    ],
+    "two": [
+      "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+      "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+    ],
+    "three": [
+      "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+      "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+    ],
+    "four": [
+      "https://baike.baidu.com/item/神断狄仁杰/8708283",
+      "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+    ]
+  },
+  "originalEntries": [
+    {
+      "id": "di",
+      "canonicalId": "di",
+      "oldName": "狄仁杰",
+      "oldActor": "梁冠华"
+    },
+    {
+      "id": "yuanfang",
+      "canonicalId": "yuanfang",
+      "oldName": "李元芳",
+      "oldActor": "张子健"
+    },
+    {
+      "id": "wu",
+      "canonicalId": "wu",
+      "oldName": "武则天",
+      "oldActor": "吕中"
+    },
+    {
+      "id": "zengtai",
+      "canonicalId": "zengtai",
+      "oldName": "曾泰",
+      "oldActor": "须乾"
+    },
+    {
+      "id": "dichun",
+      "canonicalId": "dichun",
+      "oldName": "狄春",
+      "oldActor": "赵志刚"
+    },
+    {
+      "id": "ruyan",
+      "canonicalId": "ruyan",
+      "oldName": "如燕",
+      "oldActor": "姜昕言／曲栅栅"
+    },
+    {
+      "id": "jinghui",
+      "canonicalId": "jinghui",
+      "oldName": "虎敬晖",
+      "oldActor": "祝延平"
+    },
+    {
+      "id": "qingxia",
+      "canonicalId": "qingxia",
+      "oldName": "李青霞",
+      "oldActor": "彭丹"
+    },
+    {
+      "id": "wang",
+      "canonicalId": "wang",
+      "oldName": "王孝杰",
+      "oldActor": "严燕生"
+    },
+    {
+      "id": "sharhan",
+      "canonicalId": "sharhan",
+      "oldName": "沙尔汗",
+      "oldActor": "傅隽"
+    },
+    {
+      "id": "fangqian",
+      "canonicalId": "fangqian",
+      "oldName": "方谦",
+      "oldActor": "严燕生"
+    },
+    {
+      "id": "wuyizhi",
+      "canonicalId": "wuyizhi",
+      "oldName": "吴益之",
+      "oldActor": ""
+    },
+    {
+      "id": "jili",
+      "canonicalId": "jili",
+      "oldName": "吉利可汗",
+      "oldActor": "姜晓贝／徐晓贝／李俊琪"
+    },
+    {
+      "id": "liuchali",
+      "canonicalId": "liuchali",
+      "oldName": "刘查礼",
+      "oldActor": "李士龙"
+    },
+    {
+      "id": "liuchuanlin",
+      "canonicalId": "liuchuanlin",
+      "oldName": "刘传林",
+      "oldActor": "徐飞廉"
+    },
+    {
+      "id": "yingyu",
+      "canonicalId": "yingyu",
+      "oldName": "莹玉",
+      "oldActor": "蒋欣"
+    },
+    {
+      "id": "xushide",
+      "canonicalId": "xushide",
+      "oldName": "许世德",
+      "oldActor": "钱雁秋"
+    },
+    {
+      "id": "liuda",
+      "canonicalId": "liuda",
+      "oldName": "刘大",
+      "oldActor": "赵军凯"
+    },
+    {
+      "id": "lixian",
+      "canonicalId": "lixian",
+      "oldName": "李显",
+      "oldActor": "王心圣"
+    },
+    {
+      "id": "heyun",
+      "canonicalId": "heyun",
+      "oldName": "何云",
+      "oldActor": ""
+    },
+    {
+      "id": "xugu",
+      "canonicalId": "xugu",
+      "oldName": "虚谷子",
+      "oldActor": ""
+    },
+    {
+      "id": "jianxiaolang",
+      "canonicalId": "jianxiaolang",
+      "oldName": "简小郎",
+      "oldActor": ""
+    },
+    {
+      "id": "gaorujin",
+      "canonicalId": "jianxiaolang",
+      "oldName": "高如进",
+      "oldActor": ""
+    },
+    {
+      "id": "likai",
+      "canonicalId": "likai",
+      "oldName": "李楷固",
+      "oldActor": "蒋昌义"
+    },
+    {
+      "id": "zhaowen",
+      "canonicalId": "zhaowen",
+      "oldName": "赵文翙",
+      "oldActor": "宋楚炎"
+    },
+    {
+      "id": "qiujing",
+      "canonicalId": "qiujing",
+      "oldName": "丘静",
+      "oldActor": "张呈祥"
+    },
+    {
+      "id": "xiaoqingfang",
+      "canonicalId": "xiaoqingfang",
+      "oldName": "肖清芳",
+      "oldActor": "乔红"
+    },
+    {
+      "id": "yuantiangang",
+      "canonicalId": "yuantiangang",
+      "oldName": "袁天罡",
+      "oldActor": "邵万林"
+    },
+    {
+      "id": "huiwenzhong",
+      "canonicalId": "huiwenzhong",
+      "oldName": "虺文忠",
+      "oldActor": "淳于珊珊"
+    },
+    {
+      "id": "xiaomei",
+      "canonicalId": "xiaomei",
+      "oldName": "小梅",
+      "oldActor": "舒砚"
+    },
+    {
+      "id": "xiaofeng",
+      "canonicalId": "xiaofeng",
+      "oldName": "小凤",
+      "oldActor": "舒砚"
+    },
+    {
+      "id": "lucheng",
+      "canonicalId": "lucheng",
+      "oldName": "鲁成",
+      "oldActor": "李士龙"
+    },
+    {
+      "id": "xueqinglin",
+      "canonicalId": "xueqinglin",
+      "oldName": "薛青麟",
+      "oldActor": "赵军凯"
+    },
+    {
+      "id": "jinniang",
+      "canonicalId": "jinniang",
+      "oldName": "锦娘",
+      "oldActor": "谢梓彬"
+    },
+    {
+      "id": "linyongzhong",
+      "canonicalId": "linyongzhong",
+      "oldName": "林永忠",
+      "oldActor": "龙沐雪"
+    },
+    {
+      "id": "wenkai",
+      "canonicalId": "wenkai",
+      "oldName": "温开",
+      "oldActor": "鲍玉成"
+    },
+    {
+      "id": "duer",
+      "canonicalId": "duer",
+      "oldName": "杜二",
+      "oldActor": "杨明"
+    },
+    {
+      "id": "xiaoyun",
+      "canonicalId": "xiaoyun",
+      "oldName": "小云",
+      "oldActor": "杨斯"
+    },
+    {
+      "id": "fengwanchun",
+      "canonicalId": "fengwanchun",
+      "oldName": "冯万春",
+      "oldActor": "齐景斌"
+    },
+    {
+      "id": "xiaotao",
+      "canonicalId": "xiaotao",
+      "oldName": "小桃",
+      "oldActor": "苑冉"
+    },
+    {
+      "id": "weier",
+      "canonicalId": "weier",
+      "oldName": "薇儿",
+      "oldActor": "关悦"
+    },
+    {
+      "id": "wangkai",
+      "canonicalId": "wangkai",
+      "oldName": "王锴",
+      "oldActor": "傅隽"
+    },
+    {
+      "id": "wangqiang",
+      "canonicalId": "wangqiang",
+      "oldName": "王蔷",
+      "oldActor": "宋楚炎"
+    },
+    {
+      "id": "fangzhe",
+      "canonicalId": "fangzhe",
+      "oldName": "房哲",
+      "oldActor": ""
+    },
+    {
+      "id": "liaowenqing",
+      "canonicalId": "liaowenqing",
+      "oldName": "廖文清",
+      "oldActor": "赵超"
+    },
+    {
+      "id": "xiaoqing",
+      "canonicalId": "xiaoqing",
+      "oldName": "小清（葛亚清）",
+      "oldActor": "董璇"
+    },
+    {
+      "id": "yungu",
+      "canonicalId": "yungu",
+      "oldName": "云姑（葛亚云）",
+      "oldActor": "董璇"
+    },
+    {
+      "id": "getianba",
+      "canonicalId": "getianba",
+      "oldName": "葛天霸",
+      "oldActor": "韩振华"
+    },
+    {
+      "id": "lujiying",
+      "canonicalId": "lujiying",
+      "oldName": "鲁吉英",
+      "oldActor": "张树平"
+    },
+    {
+      "id": "lihan",
+      "canonicalId": "lihan",
+      "oldName": "李翰",
+      "oldActor": ""
+    },
+    {
+      "id": "ningshi",
+      "canonicalId": "ningshi",
+      "oldName": "宁氏",
+      "oldActor": "曲栅栅（原名曲虹霓）"
+    },
+    {
+      "id": "hezhiqi",
+      "canonicalId": "hezhiqi",
+      "oldName": "何五奇",
+      "oldActor": "赵军凯"
+    },
+    {
+      "id": "hefu",
+      "canonicalId": "hefu",
+      "oldName": "何夫人",
+      "oldActor": "乔红"
+    },
+    {
+      "id": "zongzhu",
+      "canonicalId": "zongzhu",
+      "oldName": "宗主",
+      "oldActor": ""
+    },
+    {
+      "id": "wuyuanmin",
+      "canonicalId": "wuyuanmin",
+      "oldName": "武元敏",
+      "oldActor": "苑冉"
+    },
+    {
+      "id": "wuyoude",
+      "canonicalId": "wuyoude",
+      "oldName": "武攸德",
+      "oldActor": "李士龙"
+    },
+    {
+      "id": "zhongwuniang",
+      "canonicalId": "zhongwuniang",
+      "oldName": "钟五娘",
+      "oldActor": "刘蕾"
+    },
+    {
+      "id": "helu",
+      "canonicalId": "helu",
+      "oldName": "贺鲁",
+      "oldActor": "王心圣"
+    },
+    {
+      "id": "lihui",
+      "canonicalId": "lihui",
+      "oldName": "有则理惠",
+      "oldActor": "铃木美妃"
+    },
+    {
+      "id": "wulezhi",
+      "canonicalId": "wulezhi",
+      "oldName": "乌勒质",
+      "oldActor": "杨增元"
+    },
+    {
+      "id": "nalu",
+      "canonicalId": "nalu",
+      "oldName": "娜鲁",
+      "oldActor": "李羲儿"
+    },
+    {
+      "id": "chachi",
+      "canonicalId": "chachi",
+      "oldName": "差斥",
+      "oldActor": "张宏震"
+    }
+  ],
+  "people": [
+    {
+      "id": "di",
+      "name": "狄仁杰",
+      "cases": [
+        "envoy",
+        "blue",
+        "eagle",
+        "border",
+        "snake",
+        "river",
+        "black",
+        "canal",
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰",
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yuanfang",
+      "name": "李元芳",
+      "cases": [
+        "envoy",
+        "blue",
+        "eagle",
+        "border",
+        "snake",
+        "river",
+        "black",
+        "canal",
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰",
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wu",
+      "name": "武则天",
+      "cases": [
+        "envoy",
+        "eagle",
+        "border",
+        "snake",
+        "black",
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰",
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zengtai",
+      "name": "曾泰",
+      "cases": [
+        "blue",
+        "eagle",
+        "border",
+        "snake",
+        "black",
+        "canal",
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰",
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "dichun",
+      "name": "狄春",
+      "cases": [
+        "border",
+        "snake",
+        "black",
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "ruyan",
+      "name": "如燕",
+      "cases": [
+        "border",
+        "snake",
+        "river",
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "jinghui",
+      "name": "虎敬晖",
+      "cases": [
+        "envoy"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "qingxia",
+      "name": "李青霞",
+      "cases": [
+        "envoy"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wang",
+      "name": "王孝杰",
+      "cases": [
+        "border",
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "sharhan",
+      "name": "沙尔汗",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "fangqian",
+      "name": "方谦",
+      "cases": [
+        "envoy"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/刘金/58950175",
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wuyizhi",
+      "name": "吴益之",
+      "cases": [
+        "envoy"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/吴益之/58634716",
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "jili",
+      "name": "吉利可汗",
+      "cases": [
+        "envoy",
+        "border",
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰",
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": "第一部汇总表记姜晓贝，第二部表记徐晓贝；部分资料记徐贝贝，演员名异写待片尾交叉确认。神断为李俊琪。"
+    },
+    {
+      "id": "liuchali",
+      "name": "刘查礼",
+      "cases": [
+        "blue"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "liuchuanlin",
+      "name": "刘传林",
+      "cases": [
+        "blue"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yingyu",
+      "name": "莹玉",
+      "cases": [
+        "blue"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xushide",
+      "name": "许世德",
+      "cases": [
+        "blue"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "liuda",
+      "name": "刘大",
+      "cases": [
+        "blue"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "lixian",
+      "name": "李显",
+      "cases": [
+        "blue",
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰",
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": "第一部记王心圣；第二部维基演员表记王新胜，百度演员表记王心圣，第二部演员名待片尾确认。"
+    },
+    {
+      "id": "heyun",
+      "name": "何云",
+      "cases": [
+        "eagle"
+      ],
+      "sources": [
+        "https://ent.sina.cn/tv/2008-01-21/detail-icczmvun3670466.d.html",
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xugu",
+      "name": "虚谷子",
+      "cases": [
+        "eagle"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": "道士身份与旧案关系可核，演员未有可靠交叉确认，不猜填。"
+    },
+    {
+      "id": "jianxiaolang",
+      "name": "简小郎",
+      "cases": [
+        "eagle"
+      ],
+      "sources": [
+        "https://jingyan.baidu.com/article/27fa7326a1b1d307f8271fb9.html",
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "likai",
+      "name": "李楷固",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhaowen",
+      "name": "赵文翙",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "qiujing",
+      "name": "丘静",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xiaoqingfang",
+      "name": "肖清芳",
+      "cases": [
+        "border",
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yuantiangang",
+      "name": "袁天罡",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "huiwenzhong",
+      "name": "虺文忠",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xiaomei",
+      "name": "小梅",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": "演员舒砚另见舒燕写法，采用其常用名舒砚。"
+    },
+    {
+      "id": "xiaofeng",
+      "name": "小凤",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": "演员舒砚另见舒燕写法，采用其常用名舒砚。"
+    },
+    {
+      "id": "lucheng",
+      "name": "鲁成",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": "演员名另见李世龙写法，采用百度演员资料的李士龙。"
+    },
+    {
+      "id": "xueqinglin",
+      "name": "薛青麟",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "jinniang",
+      "name": "锦娘",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": "演员名另见谢紫彬写法，采用百度剧集表中的谢梓彬。"
+    },
+    {
+      "id": "linyongzhong",
+      "name": "林永忠",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wenkai",
+      "name": "温开",
+      "cases": [
+        "snake",
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": "演员名存在异记：维基第二部表记鲍玉成，百度第二部表记刘保成，待片尾字幕进一步核对。"
+    },
+    {
+      "id": "duer",
+      "name": "杜二",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xiaoyun",
+      "name": "小云",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "fengwanchun",
+      "name": "冯万春",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xiaotao",
+      "name": "小桃",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "weier",
+      "name": "薇儿",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wangkai",
+      "name": "王锴",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wangqiang",
+      "name": "王蔷",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "fangzhe",
+      "name": "房哲",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "liaowenqing",
+      "name": "廖文清",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xiaoqing",
+      "name": "小清（葛亚清）",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yungu",
+      "name": "云姑（葛亚云）",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "getianba",
+      "name": "葛天霸",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "lujiying",
+      "name": "鲁吉英",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "lihan",
+      "name": "李翰",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": "名字有李翰、李瀚异写；与宁无双的夫妻关系可核，演员待确认。"
+    },
+    {
+      "id": "ningshi",
+      "name": "宁氏",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "hezhiqi",
+      "name": "何五奇",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "hefu",
+      "name": "何夫人",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": "角色本名李紫君；演员资料有乔红、乔于庭两种姓名，保留两来源供核对。"
+    },
+    {
+      "id": "zongzhu",
+      "name": "宗主",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wuyuanmin",
+      "name": "武元敏",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wuyoude",
+      "name": "武攸德",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/武攸德/9581681",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhongwuniang",
+      "name": "钟五娘",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "helu",
+      "name": "贺鲁",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "lihui",
+      "name": "有则理惠",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wulezhi",
+      "name": "乌勒质",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/乌勒质/8990053",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "nalu",
+      "name": "娜鲁",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "chachi",
+      "name": "差斥",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/差斥/9585980",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wangwu",
+      "name": "王五",
+      "cases": [
+        "blue"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": "与张春相关的狱中情节归蓝衫记，非幽州线；仅凭系列汇总表不能推定登场单元。"
+    },
+    {
+      "id": "yufeng",
+      "name": "于风",
+      "cases": [
+        "envoy"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "ludayou",
+      "name": "陆大有",
+      "cases": [
+        "envoy"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhanglaosi",
+      "name": "张老四",
+      "cases": [
+        "envoy"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhangjianzhi",
+      "name": "张柬之",
+      "cases": [
+        "envoy",
+        "eagle",
+        "border",
+        "snake",
+        "black",
+        "canal",
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰",
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": "不同部演员分别列出；案件关联包含朝廷层面的相关事务，不表示每集均出场。"
+    },
+    {
+      "id": "wusansi",
+      "name": "武三思",
+      "cases": [
+        "envoy",
+        "eagle",
+        "border",
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰",
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "ligui",
+      "name": "李规",
+      "cases": [
+        "blue"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhangchun",
+      "name": "张春",
+      "cases": [
+        "blue"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": "与王五相关的狱中情节归蓝衫记，非幽州线；现有演员表未充分注明其职务。"
+    },
+    {
+      "id": "taiping",
+      "name": "太平公主",
+      "cases": [
+        "eagle"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wangzhiyuan",
+      "name": "王知远",
+      "cases": [
+        "eagle"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "pangjiugong",
+      "name": "庞九公",
+      "cases": [
+        "eagle"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "chunxiang",
+      "name": "春香",
+      "cases": [
+        "eagle"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": "演员另见陈瑞、陈燃写法，待片尾字幕核对。"
+    },
+    {
+      "id": "quanshancai",
+      "name": "权善才",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhanghuan",
+      "name": "张环",
+      "cases": [
+        "border",
+        "snake",
+        "black",
+        "canal",
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "lilang",
+      "name": "李朗",
+      "cases": [
+        "border",
+        "snake",
+        "black",
+        "canal",
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": "第二、三、四部演员表对演员名和异名有分歧，所列姓名保留来源差异，不合并同演员的其他角色。"
+    },
+    {
+      "id": "yangfang",
+      "name": "杨方",
+      "cases": [
+        "border",
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "renkuo",
+      "name": "仁阔",
+      "cases": [
+        "border",
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "mochuo",
+      "name": "默啜",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "huangzhen",
+      "name": "黄真",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": "百度记丛林，维基记丛山，演员姓名待片尾复核。"
+    },
+    {
+      "id": "lichanghe",
+      "name": "李昌鹤",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "suhonghui",
+      "name": "苏宏晖",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "harile",
+      "name": "哈日勒",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "daleha",
+      "name": "达勒哈",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "songwuji",
+      "name": "宋无极",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "sunfujiang",
+      "name": "孙副将",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wuqishi",
+      "name": "乌骑施",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhufeng",
+      "name": "朱风",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": "高鹏、高朋为参考表中的异写，待片尾核对。"
+    },
+    {
+      "id": "wangtiehan",
+      "name": "王铁汉",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": "百度记陈奕霖，维基记陈磊，演员姓名待片尾核对。"
+    },
+    {
+      "id": "huangshengyan",
+      "name": "黄胜彦",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "jingkong",
+      "name": "静空",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "suxianer-double",
+      "name": "苏显儿替身",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wuxiang",
+      "name": "吴祥",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "huanbin",
+      "name": "桓斌",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xiaohui",
+      "name": "小慧",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "hanguang-abbot",
+      "name": "寒光寺方丈",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhangyi",
+      "name": "张义",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhangxiangong",
+      "name": "张贤拱",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "gebin",
+      "name": "葛斌",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wushun",
+      "name": "吴顺",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "huangwenyue",
+      "name": "黄文越",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "lanxiang",
+      "name": "兰香",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": "维基第二部表有此名，详细身份、亲缘及场景待核。"
+    },
+    {
+      "id": "lichangshi",
+      "name": "李长史",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xiaojuan",
+      "name": "小娟",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "cuihong-laobao",
+      "name": "翠红院老鸨",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "fengyang",
+      "name": "风扬",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "jiawa",
+      "name": "甲瓦",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "lazha",
+      "name": "拉扎",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "panyue",
+      "name": "潘越",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "qihu",
+      "name": "齐虎",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "shentao",
+      "name": "沈韬",
+      "cases": [
+        "black",
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xiaobao",
+      "name": "肖豹",
+      "cases": [
+        "black",
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wusima",
+      "name": "吴司马",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yaner",
+      "name": "燕儿",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "meixiang",
+      "name": "梅香",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wenqing",
+      "name": "文清",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "cuiliang",
+      "name": "崔亮",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wuwendeng",
+      "name": "吴文登",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "fengkeyan",
+      "name": "封可言",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "hejing",
+      "name": "何竟",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "gebiao",
+      "name": "葛彪",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "dengtong",
+      "name": "邓通",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "sunxiwang",
+      "name": "孙喜望",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yanxiaoyu",
+      "name": "阎小玉",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "longfeng",
+      "name": "龙风",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "fangjiu",
+      "name": "方九",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "pangsi",
+      "name": "庞四",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yangjiucheng",
+      "name": "杨九成",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "pengchun",
+      "name": "彭春",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "jihu",
+      "name": "季虎",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "changmama",
+      "name": "常妈妈",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wutouer",
+      "name": "吴头儿",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xiaolan",
+      "name": "小兰",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "huyun",
+      "name": "虎云",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhangshen",
+      "name": "张伸",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wangzhou",
+      "name": "王周",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yuzhong",
+      "name": "余忠",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "pengqiu",
+      "name": "彭秋",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "guolaolu",
+      "name": "郭老鲁",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yanshoucheng",
+      "name": "严守诚",
+      "cases": [
+        "black"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "hekou-lizhang",
+      "name": "河口镇里长",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "chuner",
+      "name": "春儿",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "fengtuhu",
+      "name": "冯屠户",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yaochong",
+      "name": "姚崇",
+      "cases": [
+        "black",
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "baochong",
+      "name": "豹冲",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "jiaogang",
+      "name": "蛟刚",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": "第三部表记周晓，系列汇总表记刘计划，演员姓名待片尾核对。"
+    },
+    {
+      "id": "houqiang",
+      "name": "犼强",
+      "cases": [
+        "canal"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yaka",
+      "name": "亚喀",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E4%BA%9A%E5%96%80/5527662",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "saiban",
+      "name": "塞班",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%A1%9E%E7%8F%AD/19916047",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhongjie",
+      "name": "忠节",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%BF%A0%E8%8A%82/1162592",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "shabolue",
+      "name": "沙伯略",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E6%B2%99%E4%BC%AF%E7%95%A5/9630420",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhigumalu",
+      "name": "义直古麻吕",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E4%B9%89%E7%9B%B4%E5%8F%A4%E9%BA%BB%E5%90%95/9631593",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "fenghuang",
+      "name": "凤凰",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhaoyongrong",
+      "name": "赵永荣",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E8%B5%B5%E6%B0%B8%E8%8D%A3/9631031",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "chunhong",
+      "name": "春红",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E6%98%A5%E7%BA%A2/62058297",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "take",
+      "name": "塔克",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%A1%94%E5%85%8B/9953241",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "tiele",
+      "name": "铁勒",
+      "cases": [
+        "gold"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E9%93%81%E5%8B%92/10219014",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "tengyuan",
+      "name": "藤原",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E8%97%A4%E5%8E%9F/1067815",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "qige",
+      "name": "齐格",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E9%BD%90%E6%A0%BC/2433858",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "luzheng",
+      "name": "路正",
+      "cases": [
+        "gold"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E8%B7%AF%E6%AD%A3/65490199",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": "百度个人条目记内侍省监，维基演员表记礼部侍郎；不擅自决定其具体职名。"
+    },
+    {
+      "id": "bahanna",
+      "name": "拔汗那",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E6%8B%94%E6%B1%97%E9%82%A3/51049574",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": "百度记杜昊，维基记陈奕霖，演员姓名待片尾核对。"
+    },
+    {
+      "id": "jinyucui",
+      "name": "金玉翠",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E9%87%91%E7%8E%89%E7%BF%A0/22287",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "qiongta",
+      "name": "琼塔",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E7%90%BC%E5%A1%94/9658825",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": "剧集演员表记刘文迪，百度个人条目记刘宣孜，待片尾核对。"
+    },
+    {
+      "id": "weita",
+      "name": "委它",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%A7%94%E5%AE%83/9750053",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "houjichang",
+      "name": "侯寄昌",
+      "cases": [
+        "gold"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E4%BE%AF%E5%AF%84%E6%98%8C/62405350",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "diaochang",
+      "name": "刁常",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%88%81%E5%B8%B8/62422936",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "bushan",
+      "name": "布山",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E5%B8%83%E5%B1%B1/58633939",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "zhaojiu",
+      "name": "赵九",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E8%B5%B5%E4%B9%9D/65511158",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yuee",
+      "name": "月娥",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": "演员表可核，具体身份和亲缘待核，暂作河西段定位。"
+    },
+    {
+      "id": "gaoshier",
+      "name": "高十二",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E9%AB%98%E5%8D%81%E4%BA%8C/64054491",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "jieliedian",
+      "name": "羯列颠",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E7%BE%AF%E5%88%97%E9%A2%A0/58563303",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "xiaogui",
+      "name": "小桂",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "maola",
+      "name": "毛拉",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": "演员和系列归属可核，官职及具体关系待核；不按姓名词义推定宗教身份。"
+    },
+    {
+      "id": "yangguafu",
+      "name": "杨寡妇",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "liaoyin",
+      "name": "了因",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "yuesheng",
+      "name": "月生",
+      "cases": [
+        "gold"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "difu",
+      "name": "狄福",
+      "cases": [
+        "gold",
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/%E7%8B%84%E7%A6%8F/58686179",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "ashina-buzhen",
+      "name": "阿史那步真",
+      "cases": [
+        "trap"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": "维基神断演员表列出此角，百度剧集表未单列，具体场面待核，单元关联仅作系列定位。"
+    },
+    {
+      "id": "liuchenshi",
+      "name": "刘陈氏",
+      "cases": [
+        "gold"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "le-shi",
+      "name": "乐氏",
+      "cases": [
+        "gold"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": "系列汇总演员表有此名，详细场景和亲缘待核，暂作洛阳段定位。"
+    },
+    {
+      "id": "yuhong",
+      "name": "玉红",
+      "cases": [
+        "gold"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": ""
+    },
+    {
+      "id": "shazhanggu",
+      "name": "沙掌固",
+      "cases": [
+        "gold"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ],
+      "note": "系列汇总演员表有此名，详细职责待核，暂作善金局段定位。"
+    },
+    {
+      "id": "fangqian-double",
+      "name": "假方谦",
+      "cases": [
+        "envoy"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/假方谦/64076088",
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": ""
+    },
+    {
+      "id": "modu",
+      "name": "莫度",
+      "cases": [
+        "envoy"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": "演员尚无可靠交叉确认，不据同名角色猜填。"
+    },
+    {
+      "id": "zhaochuanchen",
+      "name": "赵传臣",
+      "cases": [
+        "envoy"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ],
+      "note": "演员尚无可靠交叉确认，不据同名角色猜填。"
+    },
+    {
+      "id": "moling",
+      "name": "魔灵",
+      "cases": [
+        "snake"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "dichun-double",
+      "name": "假狄春",
+      "cases": [
+        "border"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    },
+    {
+      "id": "wuping-xiancheng",
+      "name": "五平县丞",
+      "cases": [
+        "river"
+      ],
+      "sources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ],
+      "note": ""
+    }
+  ],
+  "imageReview": {
+    "candidateImagesCompared": 379,
+    "exactMatches": 0,
+    "note": "原32条搜索页来源中，高如进并入简小郎后为31个独立人物；与四部百度演员表379张候选图片作字节比较，无可确认匹配，统一显示待确认，不假称原图已找到。"
+  }
+}
