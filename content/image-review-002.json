@@ -1,0 +1,1825 @@
+{
+  "date": "2026-11-13",
+  "method": "演员表的角色名与图片关联 → 独立角色条目及别名 → 人工逐图排除生活照、其他剧照、默认头像和标志；采用的文件保存为本地资源并记录精确下载地址与 SHA-256。出处可追溯至资料页，不宣称所有图片来自官方首发。",
+  "replaced": 27,
+  "added": 102,
+  "missing": 29,
+  "images": [
+    {
+      "id": "fangqian",
+      "name": "方谦",
+      "action": "replace",
+      "local": "portraits/checked-fangqian-20261113.jpg",
+      "source": "https://baike.baidu.com/item/刘金/58950175",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/18d8bc3eb13533fa828bb195d789ea1f4134970aed4c",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "d9b1cdfe6dc3508357335d86cd1574fbdc8379d088acc7405a9c621665bcf16b",
+      "downloadSha256": "8b888b995cc192045aedad5ab1537ba17cf3564b7a36e557b5ab452d88f7f7c4",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wuyizhi",
+      "name": "吴益之",
+      "action": "replace",
+      "local": "portraits/checked-wuyizhi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%90%B4%E7%9B%8A%E4%B9%8B/58634716",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/1c950a7b02087bf40ad13ab6408a402c11dfa9ec6160",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "ccebcf3ac4ad1d0da53ea80eee7479cb731068d9e9d1bf64d259baa210c99db3",
+      "downloadSha256": "5939b5b1d534c12f3b66cdaae46618017237e60238ffa3bb8699614357dcf70e",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "jili",
+      "name": "吉利可汗",
+      "action": "replace",
+      "local": "portraits/checked-jili-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%90%89%E5%88%A9%E5%8F%AF%E6%B1%97/8651322",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/smart/472309f790529822720e34fd3a906ccb0a46f21f7ec0-bkimg-process,v_1,rw_2030,rh_1747,maxl_330?x-bce-process=image/format,f_auto",
+      "evidence": "吉利可汗条目图集首张，采用第二部角色画面。",
+      "sha256": "8215c3b4fefceef1278851833bde4d455a087e52a3ecfe7b427662a71e07b5ba",
+      "downloadSha256": "ffa9bf52ab14cf58f5bb28390f90bc861790c095a3e305b74c9e8649d772300e",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "liuchali",
+      "name": "刘查礼",
+      "action": "replace",
+      "local": "portraits/checked-liuchali-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%88%98%E6%9F%A5%E7%A4%BC/6007154",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/cb8065380cd7912397ddb28d936c4e82b2b7d1a22a88",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "3519786d58476c869650f054b1117dd6d2f86fbacf232208f9995a232e7d05ef",
+      "downloadSha256": "42712bb337d9e73afb36c4c6c537f7217a785ccb8c6f728d04fd4f8a7527917a",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "yuantiangang",
+      "name": "袁天罡",
+      "action": "replace",
+      "local": "portraits/checked-yuantiangang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%A2%81%E5%A4%A9%E7%BD%A1/8738964",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/8d5494eef01f3a292df562e4627fab315c6034a8d6dc",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "303179317310bc72d2d0aabbc7796e06284b71ff158c5d7f82dd5b8cfc89fb67",
+      "downloadSha256": "6bce05af04880a6d3c74a0d7dd395c92470e5ed9112ed78f92d847f3cc0fe247",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "lucheng",
+      "name": "鲁成",
+      "action": "replace",
+      "local": "portraits/checked-lucheng-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%B2%81%E6%88%90/7096423",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b17eca8065380cd71c654ed0a244ad3459828190",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "86716d0c54c021147df71730e6d78a80b38fd8e7d6172f0e4fcbd1fd45b27ffe",
+      "downloadSha256": "56282db45cf148a357e33b5ed6b10566e96dcdbd8269bc7397e20789d5a8044a",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "linyongzhong",
+      "name": "林永忠",
+      "action": "replace",
+      "local": "portraits/checked-linyongzhong-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%9E%97%E6%B0%B8%E5%BF%A0/6032633",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11dfa9ec8e24687c75d0f703918f643b",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "90554893928f03bdf74d5426784a4fc9e238dabb3bad78e10604a8b54066c979",
+      "downloadSha256": "a051a20153d8de28b86ab4f8f6ffed1f9729e7db45b9c7a208dfdb65791a095a",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wenkai",
+      "name": "温开",
+      "action": "replace",
+      "local": "portraits/checked-wenkai-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%B8%A9%E5%BC%80/0",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/a8ec8a13632762d0f703271dfdb11ffa513d26976859",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "c5cea4e979f0c0141caf39d4b209e3b507a2fe46f2a19a7b19da4227026f5223"
+    },
+    {
+      "id": "xiaoyun",
+      "name": "小云",
+      "action": "replace",
+      "local": "portraits/checked-xiaoyun-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%B0%8F%E4%BA%91/13579290",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/bba1cd11728b4710b9126816cd95d4fdfc03934585ec",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "005f58de7d1e0cdf149a842c515e399dd019795a5af4d87c4b8902942921bc1d",
+      "downloadSha256": "e4e8459cfc124c30df5707894da8a634aa56514be215b67203e5869162028828",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "fengwanchun",
+      "name": "冯万春",
+      "action": "replace",
+      "local": "portraits/checked-fengwanchun-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%86%AF%E4%B8%87%E6%98%A5/58826826",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/55e736d12f2eb9389b50861674329235e5dde611c18c",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "0c6be772a44fb91303b9cf88d0b4f8a73cbfa8e1d893b45971c382c3a87204cd",
+      "downloadSha256": "6e06c7d057087d668f8d7c0457b163b62ca3390c2c948ed7f766382a6c342b12",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "liaowenqing",
+      "name": "廖文清",
+      "action": "replace",
+      "local": "portraits/checked-liaowenqing-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BB%96%E6%96%87%E6%B8%85/58565370",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/fd039245d688d43f879487aeee46c51b0ef41bd58d6d",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "298a4dd4bfcfd787d8480b5f1223ccb962be313ecc2d91faa59dad7361777f0d",
+      "downloadSha256": "bfc93e49b885c75599bd0e9cf9bbb8ccd9b6f15c8d5c9070a55a8b12d4fdfce6",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "getianba",
+      "name": "葛天霸",
+      "action": "replace",
+      "local": "portraits/checked-getianba-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%91%9B%E5%A4%A9%E9%9C%B8/6147131",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/dbb44aed2e738bd42a8af1fda38b87d6267ff957",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "906fd04484aa547f13f3d6acc17064b12ef5dd6265d8256b5cfcdb2770bd72f7",
+      "downloadSha256": "3dd3c24a8e54c48bf5c367952cb6cd65a57dce1ea7488da97f39975e5149ef40",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "hezhiqi",
+      "name": "何五奇",
+      "action": "replace",
+      "local": "portraits/checked-hezhiqi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E4%BD%95%E4%BA%94%E5%A5%87/19957561",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/2fdda3cc7cd98d1001e9de005b69af0e7bec54e73af1",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "5d88071a8387921f601efd5e2f441087124c40c89c5a1fe0515058fbb712c1f8",
+      "downloadSha256": "c857f7bd9959d3fdfcddd60681aaab07010c0ce372b80968bfcd6a754731cc28",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wuyoude",
+      "name": "武攸德",
+      "action": "replace",
+      "local": "portraits/checked-wuyoude-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%AD%A6%E6%94%B8%E5%BE%B7/9581681",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b3119313b07eca80653833099e7980dda144ac342591",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "f54392af7c3a5b662bdd8ad899b52b3351ace909ee465a57e11ee10c4dbca20c",
+      "downloadSha256": "ee9f393eadab5110ed89eb9ab4ff55e13c5d6177cbd378448290ba0207c55198",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "helu",
+      "name": "贺鲁",
+      "action": "replace",
+      "local": "portraits/checked-helu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%B4%BA%E9%B2%81/17783566",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/8718367adab44aed2e731378ed449001a18b86d64dac",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "27f01af5dc7e4a22d40424d12a47a952fb8d38a864b0e1cbc6efc753e0d87138",
+      "downloadSha256": "ae70851b9d2cce73e7ca79902284d1ebd7191a690aaf5196059062fcc29a5c39",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "lihui",
+      "name": "有则理惠",
+      "action": "replace",
+      "local": "portraits/checked-lihui-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%9C%89%E5%88%99%E7%90%86%E6%83%A0/8863571",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaf97ff00956bd98d1001e937d5",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "adbbd75c7cfb31cea6efff147bd4167e9420f9c3ccb39aabfb0f543043d98d6a",
+      "downloadSha256": "e2173e178ee16ca207fd39ecaee3765ecddc7962627d8fcf82b5ea5be2d3cfa2",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wulezhi",
+      "name": "乌勒质",
+      "action": "replace",
+      "local": "portraits/checked-wulezhi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E4%B9%8C%E5%8B%92%E8%B4%A8/8990053",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/77094b36acaf2edda3cc8eb0e14d16e93901213f356e",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "79f56d64c0994f13505ac91b32bee7db726e9d224a55814a2d928b1b94f60fae",
+      "downloadSha256": "df065ee8fac2b5f703203235d67d81d91fa0fb87b240ec525ae8c8625b54b681",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "nalu",
+      "name": "娜鲁",
+      "action": "replace",
+      "local": "portraits/checked-nalu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%A8%9C%E9%B2%81/9582617",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/6159252dd42a2834349b2fc855efdeea15ce37d311e4",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "a002a9f89c1d733d47f6e5404bb6bfab9bd7aa110f5a033ee16e05a0213b0d94",
+      "downloadSha256": "072a839fbd66c7b0bf5b41b22086a20c27f897b4053af524758459c582690bac",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wangwu",
+      "name": "王五",
+      "action": "add",
+      "local": "portraits/checked-wangwu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E7%8E%8B%E4%BA%94/62181914",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/c83d70cf3bc79f3df8dcbbad84f9da11728b461083ac",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "99fab3683a74da16e1d004e06b4c54186115daf614b31a2516783567c51f640c",
+      "downloadSha256": "e85599d6948db52175ce6592c5af150f961fe6b07df387a3efc7ec7c9aa6da87",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "yufeng",
+      "name": "于风",
+      "action": "add",
+      "local": "portraits/checked-yufeng-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E4%BA%8E%E9%A3%8E/1939945",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9922720e0cf3d7ca38bbf20cf41fbe096b63a97f",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "3eb82f605095a857d864c6b7174e8def0f2f9cba05753e75a33ef20b2b960028",
+      "downloadSha256": "ab19452335d890ebdf8a75ae94c3dfb71aca9d3717fd437740fdd47aebf0597e",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "ludayou",
+      "name": "陆大有",
+      "action": "add",
+      "local": "portraits/checked-ludayou-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%99%86%E5%A4%A7%E6%9C%89/50910712",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/ca1349540923dd54564e13fdd953a4de9c82d158e256",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "c0912f794b81ab5c31a442716e5a7dbd3478628e3302b571d2f1aa64dc7da15d",
+      "downloadSha256": "d8ec31ef1dade8f84a1d1a59b9c4ba8c7de2bb959ede8fdad666f54df4e03100",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "zhanglaosi",
+      "name": "张老四",
+      "action": "add",
+      "local": "portraits/checked-zhanglaosi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BC%A0%E8%80%81%E5%9B%9B/62241841",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/cefc1e178a82b9014a90e9e7b8d4be773912b21b4197",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "3ad0d8e0b918195101b7393a01e5dd753bf7e31d7dd86f648632a9830090cdf1",
+      "downloadSha256": "37cc0eb9fe6a02f7599b9838a9bfd1ebd7c3ef2758ff332ec51f79ba20206d69",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "zhangjianzhi",
+      "name": "张柬之",
+      "action": "add",
+      "local": "portraits/checked-zhangjianzhi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BC%A0%E6%9F%AC%E4%B9%8B/65484885",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/e850352ac65c103853434fa0264c8413b07eca802319",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "50a1564dee545198e5d10ffc7915c63694787c7299da53fd9cb756f3d1da9d52",
+      "downloadSha256": "ddf79a0d0ac3d6f84b06dbca2dc554e0e4a70255d4b98fd7b315db7f32070df4",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wusansi",
+      "name": "武三思",
+      "action": "add",
+      "local": "portraits/checked-wusansi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%AD%A6%E4%B8%89%E6%80%9D/65484894",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/203fb80e7bec54e736d1bd096c618c504fc2d5623c28",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "8b9fc11949bd4beb9947c0bec93a51e6985c1c99969d54793d06bf43d51b66ce",
+      "downloadSha256": "9d666f8c65357d9c601df234fa7e53ca3884f7be73d485c290d548b4ff1e9448",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "ligui",
+      "name": "李规",
+      "action": "add",
+      "local": "portraits/checked-ligui-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%9D%8E%E8%A7%84/53128242",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/faedab64034f78f0f736f050076b1d55b319ebc4b644",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "874463e331fec41eab2908a1f2943f0c2aae13be4188457e832c2d092447f573",
+      "downloadSha256": "dcb18328baeebaa0890385992ad778c0f199bf892543431470778edcafef3ca2",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "zhangchun",
+      "name": "张春",
+      "action": "add",
+      "local": "portraits/checked-zhangchun-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BC%A0%E6%98%A5/62181881",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/241f95cad1c8a786c9171c935951de3d70cf3ac7faac",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "b2ddbecaf851c8209db32e9fc9bb642c6da1ebff420bb040656290ef82746991",
+      "downloadSha256": "2fa0c7d337eece8cec17e99a78fbb868d9bc134de4572d399d3b06d16a2321a2",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "taiping",
+      "name": "太平公主",
+      "action": "add",
+      "local": "portraits/checked-taiping-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%A4%AA%E5%B9%B3%E5%85%AC%E4%B8%BB/62194470",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/6a63f6246b600c3387448ae8d510460fd9f9d72a0bc4",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "5fb3102bba1a6325020df4af9d07940d3d9ffa17cc0a2ab6ab44ab97e9333467",
+      "downloadSha256": "e0331ab24d47057c10cc466e4b0378000653b53ec5dcae30521860f35d4a9b60",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wangzhiyuan",
+      "name": "王知远",
+      "action": "add",
+      "local": "portraits/checked-wangzhiyuan-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E7%8E%8B%E7%9F%A5%E8%BF%9C/10258866",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d1a20cf431adcbef7609c2bf7df339dda3cc7cd9314f",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "0675356904c9493fbe0c08765b2de07cf1bcd9c7e7c1cbdd01e10445838c7131",
+      "downloadSha256": "9ad117fae6ddb617063822b9f1c129e4cfff323694957e4aa54d261cbfaa13f0",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "pangjiugong",
+      "name": "庞九公",
+      "action": "add",
+      "local": "portraits/checked-pangjiugong-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BA%9E%E4%B9%9D%E5%85%AC/58985371",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/c2fdfc039245d688d43f68bb62926a1ed21b0ef48e29",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "ba771e849f0a86b1db99f32cfff9a3415fd3256c0522b0cecaf9bc93fbc63164",
+      "downloadSha256": "3a2521b449b0a3fa8f886e19a306ec242f702667f160b681c9260d056a1b1f2e",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "quanshancai",
+      "name": "权善才",
+      "action": "add",
+      "local": "portraits/checked-quanshancai-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%9D%83%E5%96%84%E6%89%8D/58953421",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0eb30f2442a7d933c8956f07bf11c61373f08202ab37",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "7dc77820aafc9c88f578f63ebd106f9e8ebef5cd8907da5397795701a62fa9c0",
+      "downloadSha256": "1f8b2f5e0fefba4fc3929be0d1831fdeafa658a4b1b571ea135ef337d845f17b",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "zhanghuan",
+      "name": "张环",
+      "action": "add",
+      "local": "portraits/checked-zhanghuan-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BC%A0%E7%8E%AF/8469363",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d50735fae6cd7b899e51c5750e7f55a7d933c995a088",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "bf28d79baf3186c021dbafe9e762e623689981c4da2c0c904c5fcd8a9ecd3a4f",
+      "downloadSha256": "5aba5d51f9fb15169fb9d1eb9ea25f152c62f9962aa060a2d0003c212ec0f0fe",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "lilang",
+      "name": "李朗",
+      "action": "add",
+      "local": "portraits/checked-lilang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%9D%8E%E6%9C%97/4524343",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/3801213fb80e7bec54e779ac3874ae389b504fc23d7e",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "432354e93371dfd28b2a58b60b8567a578864cf6d075a2f32af695aad3468c6a",
+      "downloadSha256": "72bd05c68b532c2c0d547b30db279aa4c710f730b43988d2dbbbd5e1f4a5f42a",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "renkuo",
+      "name": "仁阔",
+      "action": "add",
+      "local": "portraits/checked-renkuo-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E4%BB%81%E9%98%94/8362068",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/8b82b9014a90f603738d166e144fa41bb051f81947de",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "386cb08b277ab449e4c6229da60fd0a94b7f9a35e29a7c1c820a865590d5a731",
+      "downloadSha256": "7591dc58b612a77e4dde315cafe6ee57fe149a2c59a5b19f7243efb04edaae65",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "lichanghe",
+      "name": "李昌鹤",
+      "action": "add",
+      "local": "portraits/checked-lichanghe-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%9D%8E%E6%98%8C%E9%B9%A4/58633576",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/622762d0f703918fa0ec6b65e364319759ee3d6d6e50",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "d7e75a1aa6a123bca8aa3c06622d2d98cffe2fb805bae9d3d788cc3b32b0b485",
+      "downloadSha256": "4088923edf7ac20232480e62290094f14589d57961a61630ac0ff903ec617e9d",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "suhonghui",
+      "name": "苏宏晖",
+      "action": "add",
+      "local": "portraits/checked-suhonghui-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%8B%8F%E5%AE%8F%E6%99%96/58950169",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d62a6059252dd42a2834b69bb46b4cb5c9ea15ce12f8",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "1c3b03782b0d09c56bf4a4f49c8f8d111833457c83986f9d3a160d7ae42de1c3",
+      "downloadSha256": "e6a5c44e9d221ebcb9eab5fcfd9916a1814955ece7c797e08b08e23a2d6d127c",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "harile",
+      "name": "哈日勒",
+      "action": "add",
+      "local": "portraits/checked-harile-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%93%88%E6%97%A5%E5%8B%92/58554852",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/c8ea15ce36d3d539b60033e802d6fe50352ac65c1ac5",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "f1983d9796541a5c08ecf90e0524434163ba98ee1381dcf2eb82a287aef8c8ec",
+      "downloadSha256": "d280435902d4511480d3c41184b182105a28fef84882c072f381af7446ed5416",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wuqishi",
+      "name": "乌骑施",
+      "action": "add",
+      "local": "portraits/checked-wuqishi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E4%B9%8C%E9%AA%91%E6%96%BD/58633471",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f070828388d40847caf99a9014c085460",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "2f8e6aebf4cdb270379b1b18cb7d0fa9f6d0e2626db2bea93cb682985608db12",
+      "downloadSha256": "93907dcbc4e3a842c657d138ab5d14780f6ea4d5735529a458f045c010cb793e",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "huangshengyan",
+      "name": "黄胜彦",
+      "action": "add",
+      "local": "portraits/checked-huangshengyan-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%BB%84%E8%83%9C%E5%BD%A6/58563276",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b999a9014c086e061d95bb4c57586cf40ad162d95d21",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "fbe6d22f37e476ff85c5eff38ac1a4aac63e36bd09672c1914c6049fa1dc07e7",
+      "downloadSha256": "0f210b0c09fa6e33eb6919b0c00f62e7a6903a68b5322be82525f8982f2637b2",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "jingkong",
+      "name": "静空",
+      "action": "add",
+      "local": "portraits/checked-jingkong-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%9D%99%E7%A9%BA/58633562",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/902397dda144ad3459820fbd47f21bf431adcbef2ff2",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "0018cae7aec9ccf6d25a52acf2cb52657fe7478ced35ae78d44421a9a6fcf95e",
+      "downloadSha256": "6570ce3508100f896656e6b566608482dfafb387669b972adc30bfbfd132381b",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wuxiang",
+      "name": "吴祥",
+      "action": "add",
+      "local": "portraits/checked-wuxiang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%90%B4%E7%A5%A5/59013038",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b58f8c5494eef01f3a299b0326ae8e25bc315d60d7ee",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "6ae73c0845859681fa62fa51c5ea8c4161dc59c37a8849b75fc9e342b69909f2",
+      "downloadSha256": "7bf8455f331994528540482b72e080450bb3a7cc4484e8b3f561037a3414e130",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "huanbin",
+      "name": "桓斌",
+      "action": "add",
+      "local": "portraits/checked-huanbin-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%A1%93%E6%96%8C/5809005",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d788d43f8794a4c27d1eeae68ea30cd5ad6edcc493fd",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "658dc604e91518b12dd75e3ec97f6a78f87d49915be8bfb8261bde47c4da243c",
+      "downloadSha256": "88461bddea747b2b9794cca1612f167adde9074f52965e59678a6b59e57460e8",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "xiaohui",
+      "name": "小慧",
+      "action": "add",
+      "local": "portraits/checked-xiaohui-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%B0%8F%E6%85%A7/59008190",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/377adab44aed2e738bd430e6f359b68b87d6267f4cfa",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "e70904b63c388b4e79a0a31d01aff02f097793363fa3f398e7f654b31499cbb7",
+      "downloadSha256": "091e86987ca26e41e0e559a9f1afad929dd4f2a4eb2f12a279fc556fd9ffb707",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "hanguang-abbot",
+      "name": "寒光寺方丈",
+      "action": "add",
+      "local": "portraits/checked-hanguang-abbot-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%AF%92%E5%85%89%E5%AF%BA%E6%96%B9%E4%B8%88/64069388",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/11385343fbf2b21193132d5b64d972380cd7912320d6",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "23b0549e3fbf947d46dba8a1ccd0a7e10e271c6e4040a7ad1ef3148f561e30aa",
+      "downloadSha256": "8a69f955617a1cd8acc61b0c3fa7cce6d3ccf30433240c5c3920bb7c35087c74",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "zhangyi",
+      "name": "张义",
+      "action": "add",
+      "local": "portraits/checked-zhangyi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BC%A0%E4%B9%89/65507884",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/3b87e950352ac65c103833f41caba5119313b17e1cb8",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "7e12244770230eb7bf6a033db35c63d3cc32f467296e3a09b407857dd5dc6391",
+      "downloadSha256": "8d34142d380022347b0cae0d38751d71e45a2138efc630812ba2c50e4178ae97",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "zhangxiangong",
+      "name": "张贤拱",
+      "action": "add",
+      "local": "portraits/checked-zhangxiangong-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BC%A0%E8%B4%A4%E6%8B%B1/58826821",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0dd7912397dda144ad34fbc003e7c7a20cf431ad283a",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "c5e4435d9da34b80ca0d9faaa5fcd1232a7c81b46ec54a6db1780f5e8c4a9885",
+      "downloadSha256": "88fd6c69520f50630d2e02dff63b288352e64698b705f1d9938017f2144d2b11",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "gebin",
+      "name": "葛斌",
+      "action": "add",
+      "local": "portraits/checked-gebin-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%91%9B%E6%96%8C/58820442",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918fd33ba9aa463d269758ee6f81",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "84a8ed15b72795b46648e9a1b0fcff442d81dd9950946665d7ec7f2ec76b11fd",
+      "downloadSha256": "a85a096996b31bf5950a99d9e81d14b3257732bf5f4e7b69c7a34ee857fdec08",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wushun",
+      "name": "吴顺",
+      "action": "add",
+      "local": "portraits/checked-wushun-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%90%B4%E9%A1%BA/58820431",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/cc11728b4710b912c8fccd1862adeb039245d788848f",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "bd465d1e7659a584e2776364b7422ff3a63685c5c9c17b62ec8548d4d9bfe3bd",
+      "downloadSha256": "174049629fd33c412c50e2a5c4c8c4d566178dca386c40dc4f6e11682b437d74",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "huangwenyue",
+      "name": "黄文越",
+      "action": "add",
+      "local": "portraits/checked-huangwenyue-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%BB%84%E6%96%87%E8%B6%8A/58820545",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0823dd54564e9258d109590c3dd2c658ccbf6d81e08a",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "5dbd0caff439f246b92c8bed3863df16875237ec849be1e2a7194e62f177845b",
+      "downloadSha256": "ecb32e7da2a4944b68b28e0bd505ea3620408df841ba75a21164a87c2128cc46",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "lanxiang",
+      "name": "兰香",
+      "action": "add",
+      "local": "portraits/checked-lanxiang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%85%B0%E9%A6%99/65511063",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/77094b36acaf2edda3cc066c694916e93901203f35a6",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "dc5eae783ea26364e6bb69b3f2014bf2ad2f9cc5bc258c8a5beef894b742dbb4",
+      "downloadSha256": "f907bcb8d54e190d83e934a3423ba596be2c2cf8405cfda956a9bdd6a4ab6900",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "lichangshi",
+      "name": "李长史",
+      "action": "add",
+      "local": "portraits/checked-lichangshi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%9D%8E%E9%95%BF%E5%8F%B2/58565422",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/5366d0160924ab18972be236a5a2f1cd7b899e519d20",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "983bceec9d3832879b688ba36346f6897bc42a5598b5175af99fee9862fd2ad3",
+      "downloadSha256": "1fb1e3ed465cebfd847c5268c17ddfe4f39337cfc22b2d539a6f9bdcb437cbf8",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "xiaojuan",
+      "name": "小娟",
+      "action": "add",
+      "local": "portraits/checked-xiaojuan-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%B0%8F%E5%A8%9F/58565443",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/960a304e251f95cad1c8a919584f683e6709c93df45e",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "575bad9bbb9b0ef0006f28ef001c8f6c497fc9dcf58c120b4b260925391cf252",
+      "downloadSha256": "1bab24f2746358f2e4c5236d07c301535af95e03f924834768fd74f6a4d20e43",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "cuihong-laobao",
+      "name": "翠红院老鸨",
+      "action": "add",
+      "local": "portraits/checked-cuihong-laobao-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E7%BF%A0%E7%BA%A2%E9%99%A2%E8%80%81%E9%B8%A8/64117210",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/5fdf8db1cb1349540923e1c81d168558d109b3dedc5d",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "a5b996c4f532478ae9b0cac1629a1c60300f24f69def464f6bb1100a27673168",
+      "downloadSha256": "74b2fd8dab0f241080cd3ad8027eb24917c35b02e60b3512254afb23b8a8663c",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "fengyang",
+      "name": "风扬",
+      "action": "add",
+      "local": "portraits/checked-fengyang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%A3%8E%E6%89%AC/58565356",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0b55b319ebc4b74543a9bbf764a509178a82b801bf83",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "4727090f0ee4ea892533663e13f1af2e54accf0f42ed5470b2e3f5b2e68a2966",
+      "downloadSha256": "6aa52cb6f32470ba27212072ea71586fe5589e620e5d1bef91a792f600652a23",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "jiawa",
+      "name": "甲瓦",
+      "action": "add",
+      "local": "portraits/checked-jiawa-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E7%94%B2%E7%93%A6/58566151",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0b7b02087bf40ad162d98250cc7606dfa9ec8a136077",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "40e210af8f5e63a91879d502dd101d2f7c09fb9262fced9e1fe3c54c847a66c0"
+    },
+    {
+      "id": "lazha",
+      "name": "拉扎",
+      "action": "add",
+      "local": "portraits/checked-lazha-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%8B%89%E6%89%8E/61263548",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/6c224f4a20a4462309f70223087a650e0cf3d7ca7963",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "cab86b93b4c9735011088b2d3fa33d3173341fda5ae0fe427a09d270bd71366c",
+      "downloadSha256": "358b576715507abf595a049a88a788969614f469093931b73a5ac9c291511958",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "panyue",
+      "name": "潘越",
+      "action": "add",
+      "local": "portraits/checked-panyue-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%BD%98%E8%B6%8A/83735",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/7e3e6709c93d70cf3bc76c424b8cc600baa1cd11fd79",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "78d348749ac9ccb1fe4d25a3da7453ec9ec6a49b736e0376e3fdacfdf2bf653a",
+      "downloadSha256": "8710af90c6047736a6f5319b43401d370b97cb40f61f7de7a4166edc17bbc6f1",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "qihu",
+      "name": "齐虎",
+      "action": "add",
+      "local": "portraits/checked-qihu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%BD%90%E8%99%8E/8362660",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918fc16ebbaa463d269759ee6f7a",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "daefc78201e07ec06275de811658cd34ae4028b481944501e23002ed03206bf2",
+      "downloadSha256": "d53c00aacb5b49fa79e349ea4e1826abe55e20dca0e653c33cba8140649ec478",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "xiaobao",
+      "name": "肖豹",
+      "action": "add",
+      "local": "portraits/checked-xiaobao-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%82%96%E8%B1%B9/8362943",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/024f78f0f736afc33d15b83bb119ebc4b7451256",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "3b5a9e771dec389a535759021982326135f899f52c410cbed31a1e569d6e6539",
+      "downloadSha256": "2cc4b22602f9ace2f47c4444cffc0c58f2429872885a9b039a3d34db61559928",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "yaner",
+      "name": "燕儿",
+      "action": "add",
+      "local": "portraits/checked-yaner-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E7%87%95%E5%84%BF/58566251",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/ca1349540923dd54564e6b4b4151a4de9c82d158e2c5",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "276d956f35ca45d2715a6a82b43b9fc477f67cba95a981da4686c08da41a9016",
+      "downloadSha256": "44bc98dfe7442bcdc68d364bf0d723a824f20175c56b0b9a0fd80119c7eed3a7",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "meixiang",
+      "name": "梅香",
+      "action": "add",
+      "local": "portraits/checked-meixiang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%A2%85%E9%A6%99/58566221",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9358d109b3de9c82d158873b2fd9970a19d8bc3ee575",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "02a05c216c4ee403b270762784cf1d215bb7171c3b3ecf0e25d6ae7e89c6e59e",
+      "downloadSha256": "b9daa89bc817f3bc8718f0b4436425b5cf90a6746e167406e4e26b00ccdfd7ba",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wenqing",
+      "name": "文清",
+      "action": "add",
+      "local": "portraits/checked-wenqing-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%96%87%E6%B8%85/12016220",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f6246b60ced8eb19fcf81a4c500f05e0",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "be3c464ff7149e82ba92f61323b51b4be12554ebc745fc1e13582bf07da6ee4f",
+      "downloadSha256": "8b822ba3c217f2f2e10da14590f42d60dc75e1711461fe2f596386a7ce5b0206",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wuwendeng",
+      "name": "吴文登",
+      "action": "add",
+      "local": "portraits/checked-wuwendeng-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%90%B4%E6%96%87%E7%99%BB/19957562",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d009b3de9c82d1584fe17b5d8e0a19d8bd3e42fe",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "37613b1303b6b34f2b1c50f1e993bb89178cc0e5ac4dde7aa7b0bc74f5cc6e4c",
+      "downloadSha256": "692468f60eeb9c630862c8ca632d477116e98ac0e3f68fd7f720c5a96217735e",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "fengkeyan",
+      "name": "封可言",
+      "action": "add",
+      "local": "portraits/checked-fengkeyan-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%B0%81%E5%8F%AF%E8%A8%80/1139655",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b8014a90f603738d67dc0d71b71bb051f919eccb",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "6c3a45459c1281d964978038ad3784c8d184cf82fe15c9982648f49b4ad4108c",
+      "downloadSha256": "004242b43da92a209077aa6d2261c38448342c8e8f1331256bdc3d90c832249e",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "gebiao",
+      "name": "葛彪",
+      "action": "add",
+      "local": "portraits/checked-gebiao-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%91%9B%E5%BD%AA/58608352",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0df3d7ca7bcb0a46f21fd1a9d03ae1246b600c330153",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "1313a264cfa45ef8b77518e47be4e8c701ae427a32285576940803f1a469c7f9",
+      "downloadSha256": "c9580e2955025c0ae1df6e4e5c6b1d574a17a20b75e17c047fbe49863614c705",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "dengtong",
+      "name": "邓通",
+      "action": "add",
+      "local": "portraits/checked-dengtong-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%82%93%E9%80%9A/58608745",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d788d43f8794a4c27d1ecd8797ac0cd5ad6eddc4935d",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "2b6d0ade2bfc94f342a05adbe818d350ebe387adea7499319a11877f433182d9",
+      "downloadSha256": "d8a25841a46984da7065df99cd2e08d92c71816f5993dad7004aaf22ca119449",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "sunxiwang",
+      "name": "孙喜望",
+      "action": "add",
+      "local": "portraits/checked-sunxiwang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%AD%99%E5%96%9C%E6%9C%9B/58593684",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9a504fc2d5628535e5dde5fefcb261c6a7efcf1bc5e5",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "9fd717ff20bccd41ba97d1b2bc26ac270198f515f5fedb7b6dc184c28721432c",
+      "downloadSha256": "bd018f43a30d7a104a7d54a5a9ddbcccdf1eb68bc1e781e9ff9f5fb6c39d63d8",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "yanxiaoyu",
+      "name": "阎小玉",
+      "action": "add",
+      "local": "portraits/checked-yanxiaoyu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%98%8E%E5%B0%8F%E7%8E%89/58608402",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/faedab64034f78f0f736de33156c1d55b319eac4b6e4",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "53eae95351ed691c23d56160bbd31886b961c68581c899ae3513db53cff5ac8e",
+      "downloadSha256": "bc6ba2d9bd0aed71ef5a3c40c98bb47bc687b17048c6e3c6abadc8c51bb5ecd8",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "longfeng",
+      "name": "龙风",
+      "action": "add",
+      "local": "portraits/checked-longfeng-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%BE%99%E9%A3%8E/10447126",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/dbb44aed2e738bd4b31ce6cb36d390d6277f9f2f538a",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "d00b709f05fb236e32eb8eeb133dae746340f0a8afa17f1d879cc5b8513dc711",
+      "downloadSha256": "6002f4cecd7b2621a9169e4964167f4132842108bbe4497b00427ba8f83b1370",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "pangsi",
+      "name": "庞四",
+      "action": "add",
+      "local": "portraits/checked-pangsi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BA%9E%E5%9B%9B/20717706",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0824ab18972bd40735fab5f40ec289510fb30f24a32d",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "ff01b76aec51401ca7a805441e195c6c6f442be7c32db419d81f1781eaa646fd",
+      "downloadSha256": "bae5bf229d4dd4fb5112a3a87a64b193f01a072d92256057920d0f06df956738",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "yangjiucheng",
+      "name": "杨九成",
+      "action": "add",
+      "local": "portraits/checked-yangjiucheng-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%9D%A8%E4%B9%9D%E6%88%90/58564164",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/7a899e510fb30f2442a7480df5c4c643ad4bd113a526",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "4a45a9c4bc3d7a7073f34e0a40472eea7236dac3442cbf6b1e5e845635cee784",
+      "downloadSha256": "5b0856aac79f87c4e0cd1076dab5cfeceb295f50368106501a7e2c4a276ebff5",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "pengchun",
+      "name": "彭春",
+      "action": "add",
+      "local": "portraits/checked-pengchun-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BD%AD%E6%98%A5/58608520",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0ff41bd5ad6eddc451da82688282a1fd5266d0169555",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "f1f15739d675d7d86cfa96c64b381b659a066d245822be6bb28f8c601b529ba7",
+      "downloadSha256": "1e72e444fa546d5c2e305dc69836c51ffe54f58874b21198aa4a5f97c8f096d8",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "jihu",
+      "name": "季虎",
+      "action": "add",
+      "local": "portraits/checked-jihu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%AD%A3%E8%99%8E/58608550",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/ae51f3deb48f8c5494ee144aac713af5e0fe9925d107",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "0bd5cbcf1c8a0bf0d51637aa1cde6c0ebfc61613a9ddddc1ebc8e85d8fbe1e96",
+      "downloadSha256": "79083876c2973229722abc8554fa6f659fd901cbf72fa97860169f9d648fe576",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "changmama",
+      "name": "常妈妈",
+      "action": "add",
+      "local": "portraits/checked-changmama-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%B8%B8%E5%A6%88%E5%A6%88/58608581",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b21bb051f8198618367a5d4426b039738bd4b21c48e7",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "f07c1049b90e8dcca72f8734c38678dcd715f2d2405f419168cfea76cd215e9c",
+      "downloadSha256": "a952b8c4b5de7b20d22759292390a297bddb6d084b4a83b1461ad64292ddfa51",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wutouer",
+      "name": "吴头儿",
+      "action": "add",
+      "local": "portraits/checked-wutouer-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%90%B4%E5%A4%B4%E5%84%BF/58608642",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b2de9c82d158ccbf6c81a4fb7585ab3eb13532faebe7",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "7d4fecd65fb163f530e9a3dd153e409f22e29e9bb308d6aa4eecfdb3be84a5f3",
+      "downloadSha256": "624d152e1d27ca4c26be18e9a69313386cb4d7d120534c103ed4a0a4b53b481f",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "huyun",
+      "name": "虎云",
+      "action": "add",
+      "local": "portraits/checked-huyun-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%99%8E%E4%BA%91/9841139",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/77094b36acaf2edda3cc8f8ee64d16e93901213f351c",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "e0b0ae2017f6a515d94156e56b8b4b61d9def5f2b386682a3e3179046799197d"
+    },
+    {
+      "id": "zhangshen",
+      "name": "张伸",
+      "action": "add",
+      "local": "portraits/checked-zhangshen-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BC%A0%E4%BC%B8/58608716",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d6ca7bcb0a46f21fbe09f9456f7c7c600c33874400d6",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "e00ae10fc7adabac163075befb1a253c3ae5265885885372021f1a670531100c",
+      "downloadSha256": "30b3369698dcd765864ee57f666a5ee4e41de5f1e714055bac85c07baec6a2a7",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wangzhou",
+      "name": "王周",
+      "action": "add",
+      "local": "portraits/checked-wangzhou-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E7%8E%8B%E5%91%A8/58608741",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/f31fbe096b63f6246b609466111cfcf81a4c510f0507",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "53cec682179084a74a738468247248983c982e8922a82fdd87f1b5a1dd0613aa",
+      "downloadSha256": "7ddafbab8f64dd14f7bc8a39bd592668c725786b1e29f7cf34575dee0039ea07",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "pengqiu",
+      "name": "彭秋",
+      "action": "add",
+      "local": "portraits/checked-pengqiu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BD%AD%E7%A7%8B/58608790",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/1f178a82b9014a90f6032119302f2e12b31bb0514044",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "2dd9bb9b654d1c7f82a5eeaf7da4ae2b277642185d644fe3d17fe5a218f1d0bb",
+      "downloadSha256": "952ec6c9566386b8e8a36a80eb32926ae977a098586143f44a954d8624f39cc0",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "guolaolu",
+      "name": "郭老鲁",
+      "action": "add",
+      "local": "portraits/checked-guolaolu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%83%AD%E8%80%81%E9%B2%81/58608831",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/aa64034f78f0f736afc33f85920da419ebc4b645b5a5",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "38e32bce7cf23d6f967ccb2d2c001467d80bd03e2deaae232cbac8fd4cfa5d7b",
+      "downloadSha256": "174c79cffaa60daf6cd6706aae60765ed0b943fb4dc9e58c94e9e019a9dc7789",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "hekou-lizhang",
+      "name": "河口镇里长",
+      "action": "add",
+      "local": "portraits/checked-hekou-lizhang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%B2%B3%E5%8F%A3%E9%95%87%E9%87%8C%E9%95%BF/64504691",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0dd7912397dda144ad34e3f42befc7a20cf431ad2866",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "218da9826620584aecaebb41fb88e54eeac2a47ed3f335884c3ca5a11e327ceb",
+      "downloadSha256": "8a7fc00d80f3756a86a1538b2e2fc7ff195ac926d0ff7260da25c879cd7c55f3",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "chuner",
+      "name": "春儿",
+      "action": "add",
+      "local": "portraits/checked-chuner-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%98%A5%E5%84%BF/58609110",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/2fdda3cc7cd98d1001e9fee3bb67af0e7bec55e73a92",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "93ed103e6482b3c7a166e5a76f12452a441289e592d484c9d08a512080c6609e",
+      "downloadSha256": "8d6efc601fcb8fd160c1da6cd7c92055c67a08de6d88caee96d8f767588b107a",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "fengtuhu",
+      "name": "冯屠户",
+      "action": "add",
+      "local": "portraits/checked-fengtuhu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%86%AF%E5%B1%A0%E6%88%B7/58609140",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/c83d70cf3bc79f3df8dcde1823f9da11728b471083d9",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "e801b384c735c457d57bd032fe4dce2b0e7c83b3556499fe28822c382d3a5cfb",
+      "downloadSha256": "17e2ee673a41e498f6f42130e3dff328c5a07fab2bb99d2a50fbb1d966b2ab6c",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "yaochong",
+      "name": "姚崇",
+      "action": "add",
+      "local": "portraits/checked-yaochong-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%A7%9A%E5%B4%87/61260530",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/023b5bb5c9ea15ce36d347591b592df33a87e9501413",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "382c5ac00e0ac5e3198ae7c803b0c6bd9d28332920ba1741e0552cd4aaa5d5be",
+      "downloadSha256": "565cea816f49a2e8c132cb4a93ac610595503db5b99d5ec68b079e56b7dd153e",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "baochong",
+      "name": "豹冲",
+      "action": "add",
+      "local": "portraits/checked-baochong-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%B1%B9%E5%86%B2/58561437",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/1e30e924b899a9014c081da18ccd1d7b02087af45fa9",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "99e532e718b3cff3e93f6e021c780cc447bc8f792e394e1cc6044d2bcbe2c050",
+      "downloadSha256": "d424c218042e83ccfb37d3e0385c14679d9364e4ea03c7d5b2bc6015d0ed335b",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "jiaogang",
+      "name": "蛟刚",
+      "action": "add",
+      "local": "portraits/checked-jiaogang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%9B%9F%E5%88%9A/58561478",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/f11f3a292df5e0fe9925af59303d23a85edf8db1d46c",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "364d342613d56f9e1a9ba02554b8e4d31e0d284e8b3247269716e9f47c1d9855"
+    },
+    {
+      "id": "houqiang",
+      "name": "犼强",
+      "action": "add",
+      "local": "portraits/checked-houqiang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E7%8A%BC%E5%BC%BA/58561496",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/8718367adab44aed2e7301bcdf419001a18b87d64d6f",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "1bbe3a070509dfb4a799da342cce039bdabb1be9f2eabf4019e4117e7c8f2c5d",
+      "downloadSha256": "36f3cdaddd1fde6c17870c6cdf2d68bb84ee196b44d36ebb585c3eba8217957e",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "yaka",
+      "name": "亚喀",
+      "action": "add",
+      "local": "portraits/checked-yaka-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E4%BA%9A%E5%96%80/5527662",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/caef76094b36acaf2eddeae468839a1001e93901362b",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "e6c2b85c4ae42f5441ed118e409a85a460b7e258232aa37104c374ad7d9f5f80",
+      "downloadSha256": "61356e8af7bd12275b58d7493449e120b84775220f6cac0564c2145bcfc874cf",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "saiban",
+      "name": "塞班",
+      "action": "add",
+      "local": "portraits/checked-saiban-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%A1%9E%E7%8F%AD/19916047",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/08f790529822720e0cf364d508841d46f21fbe097dc6",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "43407e71fd519e2cf7107b457da2e0ccb71bf07c9bf2a9375c14b31fdcac2d55",
+      "downloadSha256": "130ff35a9dac6b33e1a284a7498071ec3c09278647b143fa18fd2b4168b9ddd6",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "zhongjie",
+      "name": "忠节",
+      "action": "add",
+      "local": "portraits/checked-zhongjie-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%BF%A0%E8%8A%82/1162592",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/6f061d950a7b02087bf4e60a7f83e5d3572c10df629f",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "7311ee00754966dfc84bcdd4b8996d74a6bd57c25053286cb40b8d0ce1a878bf",
+      "downloadSha256": "de2850af90fea3ad8506b777a52b4add2a34db77ce18bd020ef4cd5f59603536",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "shabolue",
+      "name": "沙伯略",
+      "action": "add",
+      "local": "portraits/checked-shabolue-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%B2%99%E4%BC%AF%E7%95%A5/9630420",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/7aec54e736d12f2eb938c2165f98c2628535e5ddc209",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "8ef59fa6074cebe0c7e776deebbfa1245c36194ca0b9d428f94304f7eac765c7",
+      "downloadSha256": "1f1513eba0f63d2be46fc87537473805f2bf012b462f2fd85f35fbaf63b96450",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "zhigumalu",
+      "name": "义直古麻吕",
+      "action": "add",
+      "local": "portraits/checked-zhigumalu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E4%B9%89%E7%9B%B4%E5%8F%A4%E9%BA%BB%E5%90%95/9631593",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/14ce36d3d539b6003af30b7ef80a222ac65c113819fa",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "6f5deeb971f56e4d69432b3ad917ba57b0496a9fda8d36a997b1cb9fc9c03de0",
+      "downloadSha256": "7a189011a83d0416895c2e2b6e905259ef2deb173ae58a5dc7d135b1db251b89",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "fenghuang",
+      "name": "凤凰",
+      "action": "add",
+      "local": "portraits/checked-fenghuang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%87%A4%E5%87%B0/5471780",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b219ebc4b74543a98226b691724a9d82b9014a90be63",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "4ea7fa7638f99afee44bd3f96a1e1b4ae939111e93ad2844d792affce5d311a3",
+      "downloadSha256": "7f33ad3b27cae352e6abc831779246e085c9e4572ddef017586730a40dcce87f",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "zhaoyongrong",
+      "name": "赵永荣",
+      "action": "add",
+      "local": "portraits/checked-zhaoyongrong-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%B5%B5%E6%B0%B8%E8%8D%A3/9631031",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/562c11dfa9ec8a136327cd9f955b868fa0ec08fa6a01",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "da35fd2329631f9de977a0d198ffe4693dfb646e601f1356e017259725a7ec4d",
+      "downloadSha256": "5700bb413f6c5c18f484a2f21bffe41366f0cf0c037ae61ce59dc1393f3f37e0",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "chunhong",
+      "name": "春红",
+      "action": "add",
+      "local": "portraits/checked-chunhong-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%98%A5%E7%BA%A2/62058297",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9922720e0cf3d7ca7bcbdf06a147a9096b63f6240330",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "707ce8c26b4fc3198e86b082128c080fe8863aa698c8a497c16b8e0b49535c41",
+      "downloadSha256": "c03b246dac6c9a133d6861c8b392c565c7bf79aae0b533bdbfd7029689d6dfb5",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "take",
+      "name": "塔克",
+      "action": "add",
+      "local": "portraits/checked-take-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%A1%94%E5%85%8B/9953241",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d058ccbf6c81800a19d88db5d06d24fa828ba61ee94a",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "fe31db2732d47ef53ec89af65839ed35d0f34aa1b77d3f0ad538630ab49c51ae",
+      "downloadSha256": "c2269b6c6656f24aa9fdf4e5675b236b9265899a843550a819ea3dce1d5ddfe6",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "tiele",
+      "name": "铁勒",
+      "action": "add",
+      "local": "portraits/checked-tiele-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%93%81%E5%8B%92/10219014",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9d82d158ccbf6c81800a34c1d866a63533fa828bead8",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "7bd9f4c0ef45b3e877f4de9a82cbfa0912aebd51774008ccc2fd488fc57f84c8",
+      "downloadSha256": "354502badc108ff79a37b95d31d1bf13a5212a8580e2bac8cc69b15afb1d4ffc",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "tengyuan",
+      "name": "藤原",
+      "action": "add",
+      "local": "portraits/checked-tengyuan-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%97%A4%E5%8E%9F/1067815",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/7a899e510fb30f2442a7fbc064ccc643ad4bd013a5e5",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "24bfc6dca85d9992cf4fa629d42b19bcb34af41dd12ec77de08ab72a3216bcbe"
+    },
+    {
+      "id": "qige",
+      "name": "齐格",
+      "action": "add",
+      "local": "portraits/checked-qige-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E9%BD%90%E6%A0%BC/2433858",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/e4dde71190ef76c6a7ef2478155deafaaf51f3dec906",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "82c37afdd44e051831297886bb492c210d1efb2465a17855f9b75aeb375d1066",
+      "downloadSha256": "0fcc9d099bc3082965865029931d48ed4099560c7c6ec02be9733ea1275f8ce7",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "luzheng",
+      "name": "路正",
+      "action": "add",
+      "local": "portraits/checked-luzheng-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%B7%AF%E6%AD%A3/65490199",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b0ef4f8d87a37cac451da81cb91ce",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "84859a63aa3e51771fe2469a71f98c540117e9a40edad1b97b7210b106d31277",
+      "downloadSha256": "6aec08857022b842f3b40a8bba9ffa80ea54b82360bf743f74a0f3e688d99e74",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "bahanna",
+      "name": "拔汗那",
+      "action": "add",
+      "local": "portraits/checked-bahanna-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%8B%94%E6%B1%97%E9%82%A3/51049574",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/91529822720e0cf3d7cabe85681ee51fbe096b637c0e",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "18929a6a7d1307fb391e0d7007f35dc6914403b0669378766a63f6e6648e4457",
+      "downloadSha256": "9247bacbb1d006623c8289b0b535bee006f700832bbb253028b1a8d9ca8418cd",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "qiongta",
+      "name": "琼塔",
+      "action": "add",
+      "local": "portraits/checked-qiongta-20261113.jpg",
+      "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/a50f4bfbfbedab64034fb94ced6fb8c379310b55b0bc",
+      "evidence": "神断演员表“刘文迪 饰 琼塔”配图；人工检查原剧王室角色服化。",
+      "sha256": "4e9bbe4563edf2aca0c608b4baaa0e5a780c830a33cba9cec6322d310b6eff28",
+      "downloadSha256": "804ce3334fcd32cb46bddd87535897db1e1fb0d6ee194c44a6488ec0689ff702",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "weita",
+      "name": "委它",
+      "action": "add",
+      "local": "portraits/checked-weita-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%A7%94%E5%AE%83/9750053",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918fc297baa3463d269759ee6f7c",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "dd8b55ea5b69765b0f2b68c42b8773b405568d148be3a24159ff88ebdd891e94",
+      "downloadSha256": "e726901e210721976612d281d92ec7e1b88133b67022e03f095c28ef39672ab3",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "houjichang",
+      "name": "侯寄昌",
+      "action": "add",
+      "local": "portraits/checked-houjichang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E4%BE%AF%E5%AF%84%E6%98%8C/62405350",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/6a600c338744ebf81a4ca553e7a1c02a6059252d091c",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "b9983a45d55d354a00291858514309278c700695ce96eef13ca3a4a6ae0a0d2d",
+      "downloadSha256": "06201a94709a4faffaa0467a4f89f9dbe7e41c7ccdd7c84eb09739d74379b84d",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "diaochang",
+      "name": "刁常",
+      "action": "add",
+      "local": "portraits/checked-diaochang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%88%81%E5%B8%B8/62422936",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/5366d0160924ab18972b5cbd0ba2f1cd7b899f519dbb",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "98d9da52ddc100cc9c7185a548f5680a008ee4acd8b785519fefcf65faac3b40",
+      "downloadSha256": "12cc3187acc4225b93891a43312115392f0b9a901360dad428c1c46ce25ba910",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "bushan",
+      "name": "布山",
+      "action": "add",
+      "local": "portraits/checked-bushan-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%B8%83%E5%B1%B1/58633939",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/29381f30e924b899a901256ff45e0a950a7b02085869",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "bcc4d5197cbf118d040565613d1a5436ec775ab824caf73beae7e374a8e73720",
+      "downloadSha256": "81223af9ec227a5f394fa37759d885cc1c60ab46064b19446d3efbdabc2c0120",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "zhaojiu",
+      "name": "赵九",
+      "action": "add",
+      "local": "portraits/checked-zhaojiu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E8%B5%B5%E4%B9%9D/65511158",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b151f8198618367adab45a90ca2a9cd4b31c87014f7e",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "9ddb28be71cf7f5bcd5fd692a2e7f0f35232d3e91074c8993e25afb0a27efe8d",
+      "downloadSha256": "be5b731f1f2e6b991ee45f0b7fafd7cb61922333ff28ed8ee28b90ce57c31d00",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "yuee",
+      "name": "月娥",
+      "action": "add",
+      "local": "portraits/checked-yuee-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%9C%88%E5%A8%A5/65514038",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/a08b87d6277f9e2f07082719f069fe24b899a90155d2",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "d82bc3dd93464181a806569c7100210790edd3e08bc64bbac0e296d60dcddeb3",
+      "downloadSha256": "6d7fca43bee9ca5560d9b2ea31e93432a8fca9305159780d7ef4513dc0922505",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "jieliedian",
+      "name": "羯列颠",
+      "action": "add",
+      "local": "portraits/checked-jieliedian-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E7%BE%AF%E5%88%97%E9%A2%A0/58563303",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9358d109b3de9c82d158358ff9d9970a19d8bc3ee520",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "962129551020d28f474414b1b92d5e26b9442c95c94e65b06e32a6a7d676e4e8",
+      "downloadSha256": "646d1dfae9a260fd5b09378f646429d3b5ab785dedb451f9f93ee09303553a05",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "xiaogui",
+      "name": "小桂",
+      "action": "add",
+      "local": "portraits/checked-xiaogui-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%B0%8F%E6%A1%82/65514033",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11dfa9ecae78887e75d0f703918f646c",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "d9c1a61c7731a73dbd75ae1d0f14e275f234bc5a5ef87c0bf0362385d089509b",
+      "downloadSha256": "0ba9eeece0b3c5428688b987a7deb8c1f282f014ba9cc3020d6dd69798b95cfb",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "liaoyin",
+      "name": "了因",
+      "action": "add",
+      "local": "portraits/checked-liaoyin-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E4%BA%86%E5%9B%A0/62059668",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9e3df8dcd100baa1cd1134f52245ae12c8fcc3ce807a",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "062257de9cb715ce55c28ec82d9902e842bd34b58406d1c8db07240119841d8f",
+      "downloadSha256": "8a2a3dc996b8dd9c139472a0c93387acb41a8041edb4bb108efd2cb91c9ccbe5",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "difu",
+      "name": "狄福",
+      "action": "add",
+      "local": "portraits/checked-difu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E7%8B%84%E7%A6%8F/58686179",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d6ca7bcb0a46f21fbe09edd4537d7c600c33864400b8",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "4419ff976cc7bd68251961fc4a184f10416563dc2d43b6669e81bd69e6687c7e",
+      "downloadSha256": "78107c68967811592d58ce6af64700940916d802cf603d611730109e8ee26f4a",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "liuchenshi",
+      "name": "刘陈氏",
+      "action": "add",
+      "local": "portraits/checked-liuchenshi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E5%88%98%E9%99%88%E6%B0%8F/65515424",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/4610b912c8fcc3cec3fd3e227d1cc188d43f87948ad2",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "cb6ab85b1b6ae32b45e0002a29d8b1200dba0a93c1c8646cb1755a980e48867d",
+      "downloadSha256": "dd9dcd9618fc2ddaaf2f5b0fb193d72be7156a92d96314ace594fdd3d099d053",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "yuhong",
+      "name": "玉红",
+      "action": "add",
+      "local": "portraits/checked-yuhong-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E7%8E%89%E7%BA%A2/62417638",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d000baa1cd11728b47100ae732a9d4cec3fdfd0386e2",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "3e679ae79796251277d71048e18f11a35f50acedb4082b988ce46e90cb52de34",
+      "downloadSha256": "d47bc1fab5714f814ba00e33a6624831848488f7832a3939728c1ca1dd35a567",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "shazhanggu",
+      "name": "沙掌固",
+      "action": "add",
+      "local": "portraits/checked-shazhanggu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/%E6%B2%99%E6%8E%8C%E5%9B%BA/65667261",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f070828389fb6967eaf99a9014c085448",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "9efc5c0669f1e3fda97549c9bd5095c66ae5d8abdcb157c99d5f1b16eeef28fd",
+      "downloadSha256": "1ac302fb8c8d4da4a90d34615066d186902950a1f43ab8a4dffc80da9c1395a5",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "fangqian-double",
+      "name": "假方谦",
+      "action": "add",
+      "local": "portraits/checked-fangqian-double-20261113.jpg",
+      "source": "https://baike.baidu.com/item/假方谦/64076088",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/8435e5dde71190ef76c68af48a438a16fdfaaf51cada",
+      "evidence": "独立角色条目主图，条目说明限定本剧人物；逐图检查原剧服化与画面。",
+      "sha256": "9a68673ebedf95efeaa947a62ecd280ea840e1ccd935391b84bd71db768c1e84",
+      "downloadSha256": "c1e0d4061e78192c09b9ae341c7b597afce93858e5303e0c896b260914c233a4",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "qingxia",
+      "name": "李青霞",
+      "action": "replace",
+      "local": "portraits/checked-qingxia-20261113.jpg",
+      "source": "https://baike.baidu.com/item/金木兰/10187494",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d50735fae6cd7b899e5182d2317c55a7d933c895a010",
+      "evidence": "独立角色条目主图；逐图检查原剧人物画面，含别名对应。",
+      "sha256": "8d7b61e3780d42cb21d2aafa4ffac1f722698aeea9c80095731acc64adec5b8f",
+      "downloadSha256": "5c5824395857e2d2c73692d9385849f1ecabbba454418e1b09d9456cad359e0a",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wang",
+      "name": "王孝杰",
+      "action": "replace",
+      "local": "portraits/checked-wang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/王孝杰/51050006",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/eaf81a4c510fd9f9d72ab5554575c32a2834349b0ecc",
+      "evidence": "独立角色条目主图；逐图检查原剧人物画面，含别名对应。",
+      "sha256": "ed50611a09ba9a2d5aebd3e4d53d2824f7f62c5e35469109f9dff426503dc180",
+      "downloadSha256": "a2619463fd8633caaf903d49e4c6fa3d6aea0247743c7c7492c2c8966bf1104b",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "liuda",
+      "name": "刘大",
+      "action": "replace",
+      "local": "portraits/checked-liuda-20261113.jpg",
+      "source": "https://baike.baidu.com/item/刘大/14083224",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/55e736d12f2eb9389b501411da389235e5dde611c184",
+      "evidence": "独立角色条目主图；逐图检查原剧人物画面，含别名对应。",
+      "sha256": "160f4647fe14c10a45cb0aab9b53cd134e8730bc068990f905839fa7e4c64569",
+      "downloadSha256": "846cdf4f9f8e5c3b0e694542976ad3bfbeb63147a3c9a045738ea97020f7df86",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wangkai",
+      "name": "王锴",
+      "action": "replace",
+      "local": "portraits/checked-wangkai-20261113.jpg",
+      "source": "https://baike.baidu.com/item/王锴/19396965",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/3ac79f3df8dcd100baa1d650fdc15010b912c8fc8122",
+      "evidence": "独立角色条目主图；逐图检查原剧人物画面，含别名对应。",
+      "sha256": "a518900f766fc614d187a505a42bd9ed41b51546a9ac08d00eb15b57f987e7cc",
+      "downloadSha256": "5ae5faf1a83127b95210db8bcb5e6eac4ed9faa9e8252cface19149a36f8eace",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "wangqiang",
+      "name": "王蔷",
+      "action": "replace",
+      "local": "portraits/checked-wangqiang-20261113.jpg",
+      "source": "https://baike.baidu.com/item/王蔷/16381074",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/8b13632762d0f703918f09e163a7463d269759ee6fc2",
+      "evidence": "独立角色条目主图；逐图检查原剧人物画面，含别名对应。",
+      "sha256": "d0ae9701e42dba3eca9f075eba6a996388d5b829ab2c05d5df4a32875ca38396",
+      "downloadSha256": "b928dc55a8c3a8a6b402659e1c02b699b9c33b9c632ee7ed69ea269ef9fb0188",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "fangzhe",
+      "name": "房哲",
+      "action": "replace",
+      "local": "portraits/checked-fangzhe-20261113.jpg",
+      "source": "https://baike.baidu.com/item/房哲/58554842",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/7acb0a46f21fbe096b63fa6c4b3a1b338744ebf8070b",
+      "evidence": "独立角色条目主图；逐图检查原剧人物画面，含别名对应。",
+      "sha256": "4e2841660c0d1e2db78b8b772725655aab8079080fb16347596ea6a98754478c",
+      "downloadSha256": "fa89ab2b4099a37310dbfbd7ef72e6c47c8c1d8c24e512d8def160f51f7f6cd0",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "ningshi",
+      "name": "宁氏",
+      "action": "replace",
+      "local": "portraits/checked-ningshi-20261113.jpg",
+      "source": "https://baike.baidu.com/item/宁无双/8644735",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d043ad4bd11373f08202a9ce465e5cfbfbedab64ae1a",
+      "evidence": "独立角色条目主图；逐图检查原剧人物画面，含别名对应。",
+      "sha256": "da7a3753373ae87060d02e3449204ba26d1990124d9f80d4d84eff81cf2d801a",
+      "downloadSha256": "f4709ceef4b368f715280a04451076ea62500970e0b6b419a56deff61a2e0da3",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "hefu",
+      "name": "何夫人",
+      "action": "replace",
+      "local": "portraits/checked-hefu-20261113.jpg",
+      "source": "https://baike.baidu.com/item/李紫君",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b2de9c82d158ccbf6c81a4e47585ab3eb13532faebe2",
+      "evidence": "独立角色条目主图；逐图检查原剧人物画面，含别名对应。",
+      "sha256": "dadfe82571d6001bba5ff26e745943790915f2d707eaf40816fca1738791552f",
+      "downloadSha256": "84c65fefe54e2765cc5ca8b7a53eb8f07f3b422f8d732e085828b46e2d244a90",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "heyun",
+      "name": "何云",
+      "action": "replace",
+      "local": "portraits/checked-heyun-20261113.jpg",
+      "source": "https://baike.baidu.com/item/神探狄仁杰/576",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/8644ebf81a4c510fd9f9febb6b00322dd42a28340f43",
+      "evidence": "系列演员表“夏志平 饰 何云”配图；人工检查为原剧角色服化，未采用其他演员生活照。",
+      "sha256": "111befcfe300b880d62eee9df09e34bdd194b2cc66f4c4c02b476b91038fbdaf",
+      "downloadSha256": "8d734d42db55bae04247d72e1178b5d42a777371b716d137281b8066b50f8209",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "daleha",
+      "name": "达勒哈",
+      "action": "add",
+      "local": "portraits/checked-daleha-20261113.jpg",
+      "source": "https://baike.baidu.com/item/神探狄仁杰第二部",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/902397dda144ad3460a68026d2a20cf431ad8571",
+      "evidence": "分部演员表角色名关联的图片，逐图检查本剧角色服化；排除演员现代照片。",
+      "sha256": "14a789782253ed69d1e4847d2e2766b1808f27eb55d675afb54e396da156e57a",
+      "downloadSha256": "931b38524d971972bfd2e3f0efded67b0a168bb3ddaaadbc637a6c5aff6c6b8b",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "songwuji",
+      "name": "宋无极",
+      "action": "add",
+      "local": "portraits/checked-songwuji-20261113.jpg",
+      "source": "https://baike.baidu.com/item/神探狄仁杰第二部",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/96dda144ad345982b2b706d773a926adcbef76092e7a",
+      "evidence": "分部演员表角色名关联的图片，逐图检查本剧角色服化；排除演员现代照片。",
+      "sha256": "17c921b6bbad71c318b2e4f9bffc6017408beb237121369be649af536e09f5d6",
+      "downloadSha256": "8e0c34be68600aa46c1b315ff1dc4208996aa6676b41ac7d9cc473f5ca9d2456",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "yuzhong",
+      "name": "余忠",
+      "action": "add",
+      "local": "portraits/checked-yuzhong-20261113.jpg",
+      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/f7246b600c338744ebf803a64956cef9d72a61590aea",
+      "evidence": "分部演员表角色名关联的图片，逐图检查本剧角色服化；排除演员现代照片。",
+      "sha256": "a352ba102e79822b9cc30fce51421c23ea012a69b50f1ed655b886c4e68875cb",
+      "downloadSha256": "2bda8576723941632e2e858e313cb1d9bbe6826c978fbd4b019e9d915a41adf2",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "yanshoucheng",
+      "name": "严守诚",
+      "action": "add",
+      "local": "portraits/checked-yanshoucheng-20261113.jpg",
+      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3eb1351108f0d6b11ea8d3fc1fefe6",
+      "evidence": "分部演员表角色名关联的图片，逐图检查本剧角色服化；排除演员现代照片。",
+      "sha256": "7a5275c382d125d49bac48485624bb91f6dfd2352d0a370b41ce56299bf92d8d",
+      "downloadSha256": "12e7c1b6f2d234908299b6f59d7502954eba65eea61afdc116eb07c04f06b895",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    },
+    {
+      "id": "jinyucui",
+      "name": "金玉翠",
+      "action": "add",
+      "local": "portraits/checked-jinyucui-20261113.jpg",
+      "source": "https://baike.baidu.com/item/神探狄仁杰/576",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/aec379310a55b319ebc47ca054f09526cffc1f17b997",
+      "evidence": "分部演员表角色名关联的图片，逐图检查本剧角色服化；排除演员现代照片。",
+      "sha256": "7aacdc2844ff8664817de34ef3dceb333977372a0ec270129c3ac0917893c89f",
+      "downloadSha256": "f792b5ba0c0d6e84972263231f32491314f4c34e88289c8a03ec15598abacd59",
+      "encoding": "JPEG quality 0.84, longest edge ≤960px; preserve the complete frame"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "lixian",
+      "name": "李显",
+      "reason": "演员表只有王心圣生活照；历史人物李显条目涉及多个影视版本，当前取得的页面无可定位到本剧的图片文件，不能混用。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰",
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ]
+    },
+    {
+      "id": "xugu",
+      "name": "虚谷子",
+      "reason": "演员身份仍缺可靠确认；系列资料及公开检索未找到可核实为虚谷子的角色照，旧搜索图无法追溯。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ]
+    },
+    {
+      "id": "jianxiaolang",
+      "name": "简小郎",
+      "reason": "已检索简小郎／江小郎／高如进等名称，找到剧情文字但没有可核实的对应角色图；旧搜索图无法追溯。",
+      "reviewedSources": [
+        "https://jingyan.baidu.com/article/27fa7326a1b1d307f8271fb9.html",
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ]
+    },
+    {
+      "id": "lihan",
+      "name": "李翰",
+      "reason": "角色条目及案件资料主要记述死亡与密信线索，未取得可确认的李翰本人画面，不能拿其他官员图替代。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ]
+    },
+    {
+      "id": "chunxiang",
+      "name": "春香",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ]
+    },
+    {
+      "id": "yangfang",
+      "name": "杨方",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ]
+    },
+    {
+      "id": "mochuo",
+      "name": "默啜",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ]
+    },
+    {
+      "id": "huangzhen",
+      "name": "黄真",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ]
+    },
+    {
+      "id": "sunfujiang",
+      "name": "孙副将",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ]
+    },
+    {
+      "id": "zhufeng",
+      "name": "朱风",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ]
+    },
+    {
+      "id": "wangtiehan",
+      "name": "王铁汉",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ]
+    },
+    {
+      "id": "suxianer-double",
+      "name": "苏显儿替身",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ]
+    },
+    {
+      "id": "shentao",
+      "name": "沈韬",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ]
+    },
+    {
+      "id": "wusima",
+      "name": "吴司马",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ]
+    },
+    {
+      "id": "cuiliang",
+      "name": "崔亮",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ]
+    },
+    {
+      "id": "hejing",
+      "name": "何竟",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ]
+    },
+    {
+      "id": "fangjiu",
+      "name": "方九",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ]
+    },
+    {
+      "id": "xiaolan",
+      "name": "小兰",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+      ]
+    },
+    {
+      "id": "gaoshier",
+      "name": "高十二",
+      "reason": "独立角色条目的主图是百度百科标志，并非角色图片；演员表对应资源下载失败，未找到可用剧照。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/%E9%AB%98%E5%8D%81%E4%BA%8C/64054491",
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ]
+    },
+    {
+      "id": "maola",
+      "name": "毛拉",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ]
+    },
+    {
+      "id": "yangguafu",
+      "name": "杨寡妇",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ]
+    },
+    {
+      "id": "yuesheng",
+      "name": "月生",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ]
+    },
+    {
+      "id": "ashina-buzhen",
+      "name": "阿史那步真",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ]
+    },
+    {
+      "id": "le-shi",
+      "name": "乐氏",
+      "reason": "演员表对应图片经检查为演员生活照、其他作品照片或默认头像；独立角色页未提供可确认的本剧图片。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神断狄仁杰/8708283",
+        "https://zh.wikipedia.org/wiki/神斷狄仁傑"
+      ]
+    },
+    {
+      "id": "modu",
+      "name": "莫度",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ]
+    },
+    {
+      "id": "zhaochuanchen",
+      "name": "赵传臣",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰/576",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰"
+      ]
+    },
+    {
+      "id": "moling",
+      "name": "魔灵",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ]
+    },
+    {
+      "id": "dichun-double",
+      "name": "假狄春",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ]
+    },
+    {
+      "id": "wuping-xiancheng",
+      "name": "五平县丞",
+      "reason": "已查四部演员表及可定位的独立角色条目，未获得能确认本剧角色身份的可用图片；不以演员生活照或其他剧照代替。",
+      "reviewedSources": [
+        "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+      ]
+    }
+  ],
+  "sponsor": {
+    "copiedFrom": "../xunlongce/public/assets/wechat-sponsor-qr.jpg",
+    "local": "assets/wechat-sponsor-qr.jpg",
+    "sha256": "983f55bacf086b55d5864a160f81a7c7bd6c0818f14db1329e33062fc2d22425"
+  }
+}

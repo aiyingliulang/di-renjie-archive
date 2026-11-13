@@ -36,10 +36,11 @@ const base = process.env.BASE_URL || 'http://127.0.0.1:8765/';
         assert.equal(await page.locator('main h1').textContent(), person.name);
         assert.equal(await page.locator('.person-spoiler').getAttribute('open'), null);
         assert.equal(await page.locator('.person-spoiler p').first().isVisible(), false);
-        if (person.photoSourceStatus === 'pending') assert(await page.locator('.source-pending').isVisible());
+
       } else if (cid) {
         assert.equal(await page.locator('main h1').textContent(), d.cases.find(c => c.id === cid).title);
       }
+      assert(!(await page.locator('body').innerText()).includes('图片出处待确认'), route);
       const broken = await page.evaluate(async () => {
         await Promise.all([...document.images].map(async img => {
           img.loading = 'eager';
@@ -68,6 +69,15 @@ const base = process.env.BASE_URL || 'http://127.0.0.1:8765/';
         assert.equal(await page.evaluate(() => document.activeElement.id), 'main');
       }
     }
+    for (const entry of ['', 'v2/']) {
+      await page.goto(base + entry);
+      assert(await page.locator('.footer-signature').getByText('艾影流浪', { exact: true }).isVisible());
+      await page.locator('#sponsor').click();
+      assert(await page.locator('#dialog').isVisible());
+      assert(await page.locator('.sponsor-qr').evaluate(async img => { await img.decode(); return img.naturalWidth > 0; }));
+      await page.keyboard.press('Escape');
+      assert(!(await page.locator('#dialog').isVisible()));
+    }
     await page.goto(base + '#person/chachi');
     await page.locator('.person-spoiler summary').click();
     assert(await page.locator('.person-spoiler p').first().isVisible());
@@ -88,7 +98,7 @@ const base = process.env.BASE_URL || 'http://127.0.0.1:8765/';
         assert(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), `${width} ${route}`);
       }
     }
-    const images = ['assets/seal.svg', ...['portraits', 'stills'].flatMap(dir =>
+    const images = ['assets/seal.svg', 'assets/wechat-sponsor-qr.jpg', ...['portraits', 'stills'].flatMap(dir =>
       fs.readdirSync(path.join(root, 'v2', dir)).map(f => 'v2/' + dir + '/' + f))];
     const brokenFiles = await page.evaluate(async files => (await Promise.all(files.map(async file => {
       const img = new Image(); img.src = new URL(file, location.origin + '/').href;
@@ -98,6 +108,6 @@ const base = process.env.BASE_URL || 'http://127.0.0.1:8765/';
     assert.deepEqual(errors, []);
     assert.deepEqual(failed, []);
     assert.deepEqual(bad, []);
-    console.log(`PASS: ${routes.length} routes; both entries; aliases, spoiler folding, keyboard skip, search, bookmarks; ${images.length} images; 320/390/768px; no page errors or failed resources.`);
+    console.log(`PASS: ${routes.length} routes; signature and sponsor dialog in both entries; both entries; aliases, spoiler folding, keyboard skip, search, bookmarks; ${images.length} images; 320/390/768px; no page errors or failed resources.`);
   } finally { await browser.close(); }
 })().catch(e => { console.error(e); process.exitCode = 1; });
