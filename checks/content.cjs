@@ -54,7 +54,22 @@ assert.equal(person('linyongzhong').role, '江州长史');
 assert.equal(person('heyun').actor, '夏志平');
 assert(person('heyun').text.includes('男性'));
 assert(person('wuyoude').spoiler.includes('南山'));
-assert.equal(d.people.filter(p => p.photoSourceStatus === 'pending').length, 31);
+assert.equal(d.people.filter(p => p.photoSourceStatus === 'pending').length, 0);
+const imageReview = JSON.parse(fs.readFileSync(path.join(root, 'content/image-review-002.json')));
+const crypto = require('node:crypto');
+assert.equal(imageReview.images.filter(x => x.action === 'replace').length, 27);
+assert.equal(imageReview.images.filter(x => x.action === 'add').length, 102);
+assert.equal(imageReview.unresolved.length, 29);
+assert.deepEqual(imageReview.unresolved.map(x => x.id).sort(), [...people.values()].filter(p => !p.photo).map(p => p.id).sort());
+for (const entry of imageReview.images) {
+  const p = people.get(entry.id);
+  assert.equal(p.photo, entry.local);
+  assert.equal(p.photoSource, entry.source);
+  assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root, 'v2', entry.local))).digest('hex'), entry.sha256);
+  assert(!/image.baidu.com|search|placeholder/.test(entry.imageUrl));
+}
+assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root, imageReview.sponsor.local))).digest('hex'), imageReview.sponsor.sha256);
+assert(!fs.readFileSync(path.join(root, 'v2/edition.js'), 'utf8').includes('图片出处待确认'));
 assert.equal(d.contentReview.originalSearchImageSources, 32);
 assert(!JSON.stringify(d).includes('image.baidu.com/search'));
 for (const entry of ['index.html', 'v2/index.html']) {
@@ -65,4 +80,4 @@ for (const entry of ['index.html', 'v2/index.html']) {
   assert(!html.includes('portrait-supplement.js'));
   assert(!html.includes('portrait-corrections-20261112.js'));
 }
-console.log('PASS: 188 people; 127 added; 62 original IDs preserved; every biography ≥100 Han characters; 10 cases and reciprocal links; 32 search sources retired (31 people after merge); local assets and both entries valid.');
+console.log('PASS: 188 people; 127 added; 62 original IDs preserved; every biography ≥100 Han characters; 10 cases and reciprocal links; 27 portraits replaced; 102 added; 29 documented gaps; image hashes, sponsor and both entries valid.');

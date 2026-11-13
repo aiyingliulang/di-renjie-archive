@@ -31,3 +31,5 @@ dialog{width:min(760px,94vw);padding:24px}.dialog-head{display:flex;justify-cont
 .person-sources{overflow-wrap:anywhere}
 .dark-section .portrait-pending{color:#e4c19c}
 #main{scroll-margin-top:106px}
+
+.site-footer{display:grid;justify-content:center;justify-items:center;gap:14px;border-top:1px solid #53635a;text-align:center;line-height:1.8}.site-footer p{margin:0}.footer-signature{display:flex;align-items:center;gap:12px;text-align:left}.footer-signature strong,.footer-signature small{display:block}.footer-signature strong{color:#e3c994;font:20px var(--display);letter-spacing:.08em}.footer-signature small{color:#a8b9aa;font-size:10px}.footer-seal{display:grid;place-items:center;width:38px;height:38px;border:1px solid #b66f5c;color:#d3927d;font:24px var(--display);transform:rotate(-4deg)}.sponsor-button{padding:9px 16px;border:1px solid #ac8d5a;background:transparent;color:#e3c994;font:inherit;cursor:pointer}.sponsor-button span{margin-right:8px;color:#d3927d}.sponsor-content{text-align:center}.sponsor-content p{margin-bottom:18px}.sponsor-qr{display:block;width:min(320px,100%);height:auto;margin:0 auto 15px}.sponsor-content small{color:#53695e}
