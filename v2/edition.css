@@ -36,3 +36,5 @@ dialog{width:min(760px,94vw);padding:24px}.dialog-head{display:flex;justify-cont
 
 /* 003: keep the named person visible in full-frame stills. */
 .portrait-frame img.focus-yangfang{object-position:88% 20%}.portrait-frame img.focus-shentao{object-position:84% 20%}.portrait-frame img.focus-xiaolan{object-position:80% 70%}.portrait-frame img.focus-gaoshier{object-position:9% 20%}.portrait-frame img.focus-yuesheng{object-position:13% 40%}.portrait-frame img.focus-le-shi{object-position:13% 20%}
+
+.site-footer .sister-sites a{color:inherit;white-space:nowrap}.site-footer .sister-sites a:hover{text-decoration:underline}
