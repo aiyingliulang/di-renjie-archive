@@ -1,0 +1,954 @@
+{
+  "date": "2026-11-17",
+  "scope": "仅补齐基线29位缺图人物；不替换原159位的图片，不修改人物正文、演员名或案件关联。",
+  "baseline": {
+    "commit": "a65f9aa",
+    "people": 188,
+    "pictured": 159,
+    "missing": 29,
+    "missingIds": [
+      "lixian",
+      "xugu",
+      "jianxiaolang",
+      "lihan",
+      "chunxiang",
+      "yangfang",
+      "mochuo",
+      "huangzhen",
+      "sunfujiang",
+      "zhufeng",
+      "wangtiehan",
+      "suxianer-double",
+      "shentao",
+      "wusima",
+      "cuiliang",
+      "hejing",
+      "fangjiu",
+      "xiaolan",
+      "gaoshier",
+      "maola",
+      "yangguafu",
+      "yuesheng",
+      "ashina-buzhen",
+      "le-shi",
+      "modu",
+      "zhaochuanchen",
+      "moling",
+      "dichun-double",
+      "wuping-xiancheng"
+    ]
+  },
+  "method": "逐名及异写公开检索；复查百度独立角色条目/图集和分部演员表，电视猫、快懂百科、搜狐/新浪报道与哔哩哔哩/爱奇艺/YouTube线索；可访问的央视及公开分集视频抽帧，以台词、人物服饰、具体情节及独立条目确认身份。搜索命中、文字介绍、演员照片不等于角色图；不能确认的继续留空。",
+  "added": 23,
+  "pictured": 182,
+  "missing": 6,
+  "images": [
+    {
+      "id": "lixian",
+      "name": "李显",
+      "kind": "frame",
+      "source": "https://tv.cctv.com/2010/01/07/VIDE1354264504140931.shtml",
+      "videoTitle": "神探狄仁杰一 滴血雄鹰 第5集",
+      "captureSeconds": 1610.0,
+      "requestedSeconds": 1610,
+      "segment": {
+        "start": 1603.7199999999996,
+        "duration": 9.2,
+        "url": "https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/a7e779b0805744fe8cc8c2ba30bbad7c/160.ts"
+      },
+      "segmentSha256": "932c42544f51f1b7c3a45e0062697e57db74026e89f63e05aed6a4dac87c993b",
+      "evidence": "央视第一部《滴血雄鹰》第5集（全卷27集）26:50，宫中太子李显与狄公对话；以王心圣面貌、太子服饰及上下文核对，未使用第二部太子替身。",
+      "originalDimensions": [
+        480,
+        360
+      ],
+      "action": "add",
+      "local": "portraits/checked-lixian-20261117.jpg",
+      "downloadSha256": "0f7e7fcfae87e9cf74bcaceb9feebf625b176b817f8cb9e1ffcb9a21ce6d0748",
+      "sha256": "799ad616a0d2d683b5a19ead287f654d8723e8cb58cea6f69942044626a1b710",
+      "dimensions": [
+        480,
+        360
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "李显 神探狄仁杰 剧照",
+        "李显 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/李显/56173",
+        "可访问分集正片抽帧，并核对台词与情节：https://tv.cctv.com/2010/01/07/VIDE1354264504140931.shtml"
+      ]
+    },
+    {
+      "id": "jianxiaolang",
+      "name": "简小郎",
+      "kind": "still",
+      "source": "https://www.baike.com/wikiid/3328870958139814094",
+      "imageUrl": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/5e1e2956f0784aa49656dde96a4070eb~tplv-xv4ileqgde-resize-w:360.image",
+      "evidence": "快懂百科独立简小郎条目原剧画面；与百度简小郎10306735图集、第一部27集指认旧案的白发老人互证。",
+      "originalFile": "jianimg.raw",
+      "originalDimensions": [
+        360,
+        314
+      ],
+      "action": "add",
+      "local": "portraits/checked-jianxiaolang-20261117.jpg",
+      "downloadSha256": "1304176778c112d7eebe11aa186b871256d4778c31e999ff50f901c332c8f856",
+      "sha256": "678faa6edc92f30bc2f6cc379e91054cd71fcd1d18515d66b72e76327c48f5ec",
+      "dimensions": [
+        360,
+        314
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "简小郎 神探狄仁杰 剧照",
+        "简小郎 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/简小郎/10306735",
+        "公开图片条目原图及剧情／演员资料核对：https://www.baike.com/wikiid/3328870958139814094"
+      ]
+    },
+    {
+      "id": "chunxiang",
+      "name": "春香",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/春香/62181765",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/4610b912c8fcc3cec3fdf8023f1cc188d43f87948af3",
+      "evidence": "春香独立角色条目概述图，宫女服饰；与第一部滴血雄鹰宫中投药及雷雨前后情节核对。",
+      "originalFile": "candidate-春香-1.jpg",
+      "originalDimensions": [
+        2468,
+        1656
+      ],
+      "action": "add",
+      "local": "portraits/checked-chunxiang-20261117.jpg",
+      "downloadSha256": "c28910e92299d576cf6c4c5918815b6e29a865018a661e55d350212d0eebaf16",
+      "sha256": "9446f90f5d253de64651d4a5bbe5a50c2e81ee9ba9389e039998320b67c87479",
+      "dimensions": [
+        960,
+        644
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "春香 神探狄仁杰 剧照",
+        "春香 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/春香/62181765",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/春香/62181765"
+      ]
+    },
+    {
+      "id": "yangfang",
+      "name": "杨方",
+      "kind": "frame",
+      "source": "https://tv.cctv.com/2009/12/18/VIDE1355687010356117.shtml",
+      "videoTitle": "神探狄仁杰 第二部 第5集",
+      "captureSeconds": 1110.0,
+      "requestedSeconds": 1110,
+      "segment": {
+        "start": 1100.280000000001,
+        "duration": 12.32,
+        "url": "https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/9425de84e6874da305ba49949397da66/110.ts"
+      },
+      "segmentSha256": "0ae3197be54cb3296553f3f0a7d69a316e745c06521753b367b61189dc22b12a",
+      "evidence": "央视第二部第5集18:30，张环喊“杨方”，右侧白领灰衣军头应答；紧接着押送被俘朱风。只采用此本人行动场景，不把同演员饰演的动灵真容当杨方。",
+      "originalDimensions": [
+        480,
+        360
+      ],
+      "action": "add",
+      "local": "portraits/checked-yangfang-20261117.jpg",
+      "downloadSha256": "146933883845369fc40ced30b7120a54ae5c14be785e56f22fe8a2dfbf4589c1",
+      "sha256": "ea4be118840e787aad8664bda52bf8c2c6e5cd8b6a3e49dedcde95070dcf0ecb",
+      "dimensions": [
+        480,
+        360
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "cardFocus": "88% 20%",
+      "searchQueries": [
+        "杨方 神探狄仁杰 剧照",
+        "杨方 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/杨方/56134",
+        "可访问分集正片抽帧，并核对台词与情节：https://tv.cctv.com/2009/12/18/VIDE1355687010356117.shtml"
+      ]
+    },
+    {
+      "id": "mochuo",
+      "name": "默啜",
+      "kind": "frame",
+      "source": "https://tv.cctv.com/2010/01/08/VIDE1355687041093667.shtml",
+      "videoTitle": "神探狄仁杰 第二部 第12集",
+      "captureSeconds": 855.0,
+      "requestedSeconds": 855,
+      "segment": {
+        "start": 850.8000000000009,
+        "duration": 9.48,
+        "url": "https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/6d76777eb3dd463249f9c5a6d0ca65db/85.ts"
+      },
+      "segmentSha256": "a97d0b328ce673a76642de45145bbcbe750ec0662dedbb23755defa0f0d2950f",
+      "evidence": "央视第二部第12集14:15，突厥叛乱被揭露后默啜向吉利可汗供认与哈日勒定计；与其披裘戴帽前后扮相、邓卫演员身份互证，非吉利或哈日勒。",
+      "originalDimensions": [
+        480,
+        360
+      ],
+      "action": "add",
+      "local": "portraits/checked-mochuo-20261117.jpg",
+      "downloadSha256": "d3c7649c9477501959a5547d140d70890e2d36b28d09d2c443a97e1af28a1275",
+      "sha256": "a0dda77696eaad336abe7cd407954a91c301acf48829960cebb431e25e44121f",
+      "dimensions": [
+        480,
+        360
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "默啜 神探狄仁杰 剧照",
+        "默啜 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/默啜可汗/6184235",
+        "可访问分集正片抽帧，并核对台词与情节：https://tv.cctv.com/2010/01/08/VIDE1355687041093667.shtml"
+      ]
+    },
+    {
+      "id": "huangzhen",
+      "name": "黄真",
+      "kind": "frame",
+      "source": "https://tv.cctv.com/2009/12/18/VIDE1355686967625888.shtml",
+      "videoTitle": "神探狄仁杰 第二部 第9集",
+      "captureSeconds": 1539.66,
+      "requestedSeconds": 1540,
+      "segment": {
+        "start": 1530.7599999999984,
+        "duration": 9.6,
+        "url": "https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/34853c4fd8d84f70938e18b0eb5c2927/153.ts"
+      },
+      "segmentSha256": "1b158fbb48056a0ed58e1793cd339012ccdc72d9c72b3146810426ccbc38e643",
+      "evidence": "央视第二部第9集25:40，获救后说明替赵文翙率军的经过；前10秒狄公明确称“黄真”，该镜头中本人回答“末将带军卫队一路截杀”。",
+      "originalDimensions": [
+        480,
+        360
+      ],
+      "action": "add",
+      "local": "portraits/checked-huangzhen-20261117.jpg",
+      "downloadSha256": "514a77f13597ca611040cbe27d89d7b3284090ecf50c6a07d73f07c84c553800",
+      "sha256": "026bf4163c519d77d14738a5c002a38fad0b3338de2d7c5754157ff5fcb7dba4",
+      "dimensions": [
+        480,
+        360
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "黄真 神探狄仁杰 剧照",
+        "黄真 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/黄真/3481051",
+        "可访问分集正片抽帧，并核对台词与情节：https://tv.cctv.com/2009/12/18/VIDE1355686967625888.shtml"
+      ]
+    },
+    {
+      "id": "sunfujiang",
+      "name": "孙副将",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/孙副将/58633654",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/dbb44aed2e738bd4b31cb5fa67db90d6277f9f2f53e5",
+      "evidence": "独立孙副将条目概述图；第二部军中夜间画面、袁鹏角色对应，非王孝杰或苏宏晖。",
+      "originalFile": "candidate-孙副将-1.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "action": "add",
+      "local": "portraits/checked-sunfujiang-20261117.jpg",
+      "downloadSha256": "99ca0507b1dad5cf6491b4d74e86cf5d5c6c8212e585dab023239a71ef05003b",
+      "sha256": "05dea95cd4492375e7da553ea74da7052e691b3d27189dbd9d6653ecccf89a80",
+      "dimensions": [
+        960,
+        540
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "孙副将 神探狄仁杰 剧照",
+        "孙副将 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/孙副将/58633654",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/孙副将/58633654"
+      ]
+    },
+    {
+      "id": "zhufeng",
+      "name": "朱风",
+      "kind": "frame",
+      "source": "https://tv.cctv.com/2009/12/18/VIDE1355687010356117.shtml",
+      "videoTitle": "神探狄仁杰 第二部 第5集",
+      "captureSeconds": 1426.0,
+      "requestedSeconds": 1426,
+      "segment": {
+        "start": 1423.3599999999997,
+        "duration": 9.6,
+        "url": "https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/9425de84e6874da305ba49949397da66/142.ts"
+      },
+      "segmentSha256": "5805c9f5f11d2b32208c6536e8c1ea94ce32c53ed4f5c1937bfb72fe8a1441bd",
+      "evidence": "央视第二部第5集23:46，下窑洼战斗后受审的朱风交代冒充土匪屠村；片中本人在前景带伤，背后为看守军头。",
+      "originalDimensions": [
+        480,
+        360
+      ],
+      "action": "add",
+      "local": "portraits/checked-zhufeng-20261117.jpg",
+      "downloadSha256": "2c4264ef3e7e27654f34fcb8c27d5f7862885111c10c1abd223c34b200d9ca41",
+      "sha256": "4342f864a9acf307ec97d9fce7a39b3f85bd989c0f16c7a79e69adcfbd72073e",
+      "dimensions": [
+        480,
+        360
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "朱风 神探狄仁杰 剧照",
+        "朱风 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/朱风/50360090",
+        "可访问分集正片抽帧，并核对台词与情节：https://tv.cctv.com/2009/12/18/VIDE1355687010356117.shtml"
+      ]
+    },
+    {
+      "id": "suxianer-double",
+      "name": "苏显儿替身",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/假苏显儿/64054499",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/c2cec3fdfc039245d6889ddbecc9b3c27d1ed31b8fe8",
+      "evidence": "独立假苏显儿角色条目原剧概述图，白衣白纱蒙面，第二部东柳林镇替身扮相；不是姜昕言或曲栅栅饰演的如燕。",
+      "originalFile": "candidate-假苏显儿-1.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "action": "add",
+      "local": "portraits/checked-suxianer-double-20261117.jpg",
+      "downloadSha256": "a9d702e23902d518c7d49c6992fb95b4090cd48fdda4d658cc00837aef0de180",
+      "sha256": "4eec6d946508d3e9d138ecadcb0ca6dd8cf1b747f17f2f6b5fa466965cdd1cb0",
+      "dimensions": [
+        960,
+        540
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "苏显儿替身 神探狄仁杰 剧照",
+        "苏显儿替身 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/假苏显儿/64054499",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/假苏显儿/64054499"
+      ]
+    },
+    {
+      "id": "shentao",
+      "name": "沈韬",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/沈韬/2435944",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d31b0ef41bd5ad6eff77e3b483cb39dbb7fd3ce5",
+      "evidence": "沈韬独立角色条目概述图；右侧持刀护卫为李卓林，画面保留第三部台标与剧名，未用第四部李朗照片。",
+      "originalFile": "candidate-沈韬-1.jpg",
+      "originalDimensions": [
+        1000,
+        562
+      ],
+      "action": "add",
+      "local": "portraits/checked-shentao-20261117.jpg",
+      "downloadSha256": "033beabc15f4493e128778b968063647fc782a59d67931f07d885c28e9c49c74",
+      "sha256": "7c010feb21e38f96ccfb753d9bc8cd7144bf9fb4aa8189b4a2737023d0e32ac7",
+      "dimensions": [
+        960,
+        540
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "cardFocus": "84% 20%",
+      "searchQueries": [
+        "沈韬 神探狄仁杰 剧照",
+        "沈韬 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/沈韬/2435944",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/沈韬/2435944"
+      ]
+    },
+    {
+      "id": "cuiliang",
+      "name": "崔亮",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/崔亮/16399413",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b219ebc4b74543a982268844804a9d82b9014b90bebc",
+      "evidence": "崔亮独立角色图集，选红袍官服的扬州刺史扮相；区别王心圣饰演的李显、贺鲁。",
+      "originalFile": "candidate-崔亮-2.jpg",
+      "originalDimensions": [
+        742,
+        632
+      ],
+      "action": "add",
+      "local": "portraits/checked-cuiliang-20261117.jpg",
+      "downloadSha256": "6c39f7538c9eb9d51f531bb4d7a2a2d43cd25b4883e28d3b3ac2acec6526b65c",
+      "sha256": "839ae9f2e8a2917045913ec12bc1f039e08ff5c49fb7afb97ed14ae11f76991a",
+      "dimensions": [
+        742,
+        632
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "崔亮 神探狄仁杰 剧照",
+        "崔亮 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/崔亮/16399413",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/崔亮/16399413"
+      ]
+    },
+    {
+      "id": "hejing",
+      "name": "何竟",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/何竟/58563317",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/a08b87d6277f9e2f07082de2e66afe24b899a801559c",
+      "evidence": "何竟独立角色条目概述图；于连伟的何府管家扮相，非梁凯饰演的张环；搜狐766747079_121349081的演员辨误用于排除混淆。",
+      "originalFile": "candidate-何竟-1.jpg",
+      "originalDimensions": [
+        2560,
+        1440
+      ],
+      "action": "add",
+      "local": "portraits/checked-hejing-20261117.jpg",
+      "downloadSha256": "5ffe10192f21e1f5e20beff64de380dfec79856d9a4a097564fa64a06e10db78",
+      "sha256": "b787309a6d47600ab4d864603236471f337a256d924a8f0bc2461a4d685f11a6",
+      "dimensions": [
+        960,
+        540
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "何竟 神探狄仁杰 剧照",
+        "何竟 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/何竟/58563317",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/何竟/58563317"
+      ]
+    },
+    {
+      "id": "fangjiu",
+      "name": "方九",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/方九/58608513",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/a044ad345982b2b7d0a2cca1a7f5dcef76094b362d07",
+      "evidence": "方九独立角色条目明确标注第三部方九；与央视第三部19集诉说纤户遭遇、携女会见狄公的灰衣短须本人互证。",
+      "originalFile": "candidate-方九-1.jpg",
+      "originalDimensions": [
+        1014,
+        828
+      ],
+      "action": "add",
+      "local": "portraits/checked-fangjiu-20261117.jpg",
+      "downloadSha256": "0eac745d7285269a0966a062e0e5852dc9c100f71cd46adf8a2deac7d848feb3",
+      "sha256": "d2d52a763f4b2e44361b4ead1a3353cda8ccf37284fcac2071c51629946aa4ab",
+      "dimensions": [
+        960,
+        784
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "方九 神探狄仁杰 剧照",
+        "方九 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/方九/58608513",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/方九/58608513"
+      ]
+    },
+    {
+      "id": "xiaolan",
+      "name": "小兰",
+      "kind": "frame",
+      "source": "https://tv.cctv.com/2010/01/08/VIDE1355678961918230.shtml",
+      "videoTitle": "神探狄仁杰 第三部 第19集",
+      "captureSeconds": 1830.0,
+      "requestedSeconds": 1830,
+      "segment": {
+        "start": 1821.839999999997,
+        "duration": 9.6,
+        "url": "https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/c1d02960b723472aa3a30d8e11b5d587/182.ts"
+      },
+      "segmentSha256": "a41a2f304bc5124d55b11082335d1aaaaca5e5fe4c5fa3cba2106af69c43e3d6",
+      "evidence": "央视第三部第19集30:30，方九携女在狄公身旁；红衣小女孩为小兰。百度小兰58608679人物关系、该集父女获保护上下文交叉核对。",
+      "originalDimensions": [
+        640,
+        480
+      ],
+      "action": "add",
+      "local": "portraits/checked-xiaolan-20261117.jpg",
+      "downloadSha256": "689faee8e1d32e84adaa5f73d954debf045c17c7eaaf1306fbbaf91554a248a4",
+      "sha256": "69a8d8ff86a5c79b1310ee2055a53c75b8db6d5d11543ebb039b4bbc5f551029",
+      "dimensions": [
+        640,
+        480
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "cardFocus": "80% 70%",
+      "searchQueries": [
+        "小兰 神探狄仁杰 剧照",
+        "小兰 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/小兰/58608679",
+        "可访问分集正片抽帧，并核对台词与情节：https://tv.cctv.com/2010/01/08/VIDE1355678961918230.shtml"
+      ]
+    },
+    {
+      "id": "gaoshier",
+      "name": "高十二",
+      "kind": "frame",
+      "source": "https://www.ganjingworld.com/video/1gkt7aq65op4pfhHamveoBhd412k1c",
+      "videoTitle": "神断狄仁杰第29集",
+      "captureSeconds": 1290.0,
+      "requestedSeconds": 1290,
+      "segment": {
+        "start": 1289.96,
+        "duration": 3.0,
+        "url": "https://media2-us-east.cloudokyo.cloud/video/v9/ea/50/27/ea5027ee-8ee9-45fb-8da4-47e1664a59af/h264_1080p.mp4",
+        "offset": 390245163,
+        "length": 867787,
+        "init": {
+          "url": "https://media2-us-east.cloudokyo.cloud/video/v9/ea/50/27/ea5027ee-8ee9-45fb-8da4-47e1664a59af/h264_1080p.mp4",
+          "length": 753
+        }
+      },
+      "segmentSha256": "b5dc4928e18f21f676dfd968f591cb12bb23309f46d069cfbea03547f61e8253",
+      "evidence": "《神断狄仁杰》第29集21:30，灰衣黑帽高十二与狄公谈话；前一集入堡时本人自报“我姓高，高十二”，同一服饰面貌延续。",
+      "originalDimensions": [
+        1920,
+        1080
+      ],
+      "action": "add",
+      "local": "portraits/checked-gaoshier-20261117.jpg",
+      "downloadSha256": "80159ac8cdfdf1c32f76235c7df23fae2d1c8e74fcb4c7d3915c8b1175fd4c42",
+      "sha256": "63a384f31f5f66e382d52d80c52c4a313467c3365148c2ca96b9b639698f5bbd",
+      "dimensions": [
+        960,
+        540
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "cardFocus": "9% 20%",
+      "searchQueries": [
+        "高十二 神探狄仁杰 剧照",
+        "高十二 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/高十二/64054491",
+        "可访问分集正片抽帧，并核对台词与情节：https://www.ganjingworld.com/video/1gkt7aq65op4pfhHamveoBhd412k1c"
+      ]
+    },
+    {
+      "id": "yangguafu",
+      "name": "杨寡妇",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/杨寡妇/64051405",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/2934349b033b5bb5c9eaea94088bc239b6003af3161a",
+      "evidence": "杨寡妇独立角色条目明确标注《神断狄仁杰》本人遇害画面；与29集杨寡妇家命案、尸身及衣物核对。原剧仅此类可确认画面，未借其他女性替代。",
+      "originalFile": "candidate-杨寡妇-1.jpg",
+      "originalDimensions": [
+        1455,
+        828
+      ],
+      "action": "add",
+      "local": "portraits/checked-yangguafu-20261117.jpg",
+      "downloadSha256": "d9a2ea27101bbbe386f9cd2f236c83e17ee3463203116c7554903e0b3f00e198",
+      "sha256": "963fa29f998125bff9c720cca0cfc0e202e975bb09420599ed04ad0305bc16b4",
+      "dimensions": [
+        960,
+        546
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "杨寡妇 神探狄仁杰 剧照",
+        "杨寡妇 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/杨寡妇/64051405",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/杨寡妇/64051405"
+      ]
+    },
+    {
+      "id": "yuesheng",
+      "name": "月生",
+      "kind": "frame",
+      "source": "https://www.ganjingworld.com/video/1fcumpg9her6x7QJCGSMO9dNj1lu1c",
+      "videoTitle": "神断狄仁杰第25集",
+      "captureSeconds": 2069.301,
+      "requestedSeconds": 2070,
+      "segment": {
+        "start": 2067.0316129999824,
+        "duration": 2.969633,
+        "url": "https://media3-us-west.cloudokyo.cloud/video/v4/10/bd/2f/10bd2f34-fa21-44ea-9c38-21d200f0cdc2/v1080p/segment.ts",
+        "offset": 352433072,
+        "length": 354568,
+        "init": null
+      },
+      "segmentSha256": "c762e1f8b04bbba56df4f9802f6ce59ad18c4630fbe52c6e8ed2148747b66e75",
+      "evidence": "《神断狄仁杰》第25集34:30，刘陈氏携子的茶棚场景；本场自述“这是我儿子月生”，左侧白帽男孩即月生；非月娥。",
+      "originalDimensions": [
+        1440,
+        1080
+      ],
+      "action": "add",
+      "local": "portraits/checked-yuesheng-20261117.jpg",
+      "downloadSha256": "346513b38d671269c5bbc52b78c45884628279b332264997f8c05796b729c342",
+      "sha256": "c7175d151e3928c56095e9cfc1f37f7b50cf42d519670d2e9ce890598b6fb1df",
+      "dimensions": [
+        960,
+        720
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "cardFocus": "13% 40%",
+      "searchQueries": [
+        "月生 神探狄仁杰 剧照",
+        "月生 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/月生/69040143",
+        "可访问分集正片抽帧，并核对台词与情节：https://www.ganjingworld.com/video/1fcumpg9her6x7QJCGSMO9dNj1lu1c"
+      ]
+    },
+    {
+      "id": "ashina-buzhen",
+      "name": "阿史那步真",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/阿史那步真/8451898",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd5266d01632472353802bd40735fa9807",
+      "evidence": "历史人物条目的影视形象段，图注明确“《神断狄仁杰》中的阿史那步真”；与第15集继往绝可汗回忆、铁勒和贺鲁身世叙述中的年长王族本人互证，非同演员乌勒质。",
+      "originalFile": "ashina-4.jpg",
+      "originalDimensions": [
+        1280,
+        720
+      ],
+      "action": "add",
+      "local": "portraits/checked-ashina-buzhen-20261117.jpg",
+      "downloadSha256": "b034a7b9ac2ad2e1617a9f26151a64a55a6c8fee2491ec8529f0a3a8e2bc90f5",
+      "sha256": "70f60ccbceb39f608deb8a866ba4c318a1fc49190e1bd777d6f0f8c93f181d34",
+      "dimensions": [
+        960,
+        540
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "阿史那步真 神探狄仁杰 剧照",
+        "阿史那步真 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/阿史那步真/8451898",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/阿史那步真/8451898"
+      ]
+    },
+    {
+      "id": "le-shi",
+      "name": "乐氏",
+      "kind": "frame",
+      "source": "https://www.ganjingworld.com/video/1gkqir15hin1UebOTkqDq0LCn1f71c",
+      "videoTitle": "神断狄仁杰第15集",
+      "captureSeconds": 1584.5,
+      "requestedSeconds": 1585,
+      "segment": {
+        "start": 1583.96,
+        "duration": 1.24,
+        "url": "https://media3-us-east.cloudokyo.cloud/video/v9/62/fa/01/62fa01f0-83d8-4e02-93bd-c1d1a308b062/h264_1080p.mp4",
+        "offset": 384697774,
+        "length": 201795,
+        "init": {
+          "url": "https://media3-us-east.cloudokyo.cloud/video/v9/62/fa/01/62fa01f0-83d8-4e02-93bd-c1d1a308b062/h264_1080p.mp4",
+          "length": 753
+        }
+      },
+      "segmentSha256": "b15a7160aeabeb150fd9ad9b5c971deac644433337f3175f18490b9150d13a16",
+      "evidence": "《神断狄仁杰》第15集26:25，狄公传“李永之妻乐氏”，她入内指认真铁勒的相貌；左侧素衣女子即乐氏。演员总目（新浪博客4bf31f5a0100ehtd）所列苏丹／乐氏用于交叉核对。",
+      "originalDimensions": [
+        1920,
+        1080
+      ],
+      "action": "add",
+      "local": "portraits/checked-le-shi-20261117.jpg",
+      "downloadSha256": "fa808706e97175878eec44b0e37289df5034ccc2726a330f6799a50993b05a86",
+      "sha256": "a5e5eda9e9f4486494fb01198e7c264f0b3526ca27d440e9f0e4b7f19e21eeb7",
+      "dimensions": [
+        960,
+        540
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "cardFocus": "13% 20%",
+      "searchQueries": [
+        "乐氏 神探狄仁杰 剧照",
+        "乐氏 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/乐姓/8974427",
+        "可访问分集正片抽帧，并核对台词与情节：https://www.ganjingworld.com/video/1gkqir15hin1UebOTkqDq0LCn1f71c"
+      ]
+    },
+    {
+      "id": "zhaochuanchen",
+      "name": "赵传臣",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/赵传臣/59009455",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/f703738da9773912b31b48d10f499118367adab4447b",
+      "evidence": "赵传臣独立角色条目概述图；第一部官员本人画面，与幽州受审线、陆继东演员表对应。",
+      "originalFile": "candidate-赵传臣-1.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "action": "add",
+      "local": "portraits/checked-zhaochuanchen-20261117.jpg",
+      "downloadSha256": "2f3d2e9888e1ee8808785abb713aa0232c36313e960c0288b19aca468994d0d1",
+      "sha256": "ee7516492f2977fe252562648a0a72b0c8140d1e2d1a36ca476b425ee8058f76",
+      "dimensions": [
+        960,
+        540
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "赵传臣 神探狄仁杰 剧照",
+        "赵传臣 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/赵传臣/59009455",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/赵传臣/59009455"
+      ]
+    },
+    {
+      "id": "moling",
+      "name": "魔灵",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/魔灵/6858697",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9f2f070828381f30e9242e7ac25c5b086e061c955ae8",
+      "evidence": "魔灵独立角色条目概述图，第二部大杨山持链爪与李元芳对战的本人画面；武器、服装、剧名及李尊角色关系一致。",
+      "originalFile": "moling-0.jpg",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "action": "add",
+      "local": "portraits/checked-moling-20261117.jpg",
+      "downloadSha256": "b19a63e963804a9c9f43a5aaf87540b56840f56dbd12ecedf6a673d76258a7a5",
+      "sha256": "c8d6987076747e046cc2d7ebfed5d6ddbc8abc809f36cfdcb272f0cffb2cfa7a",
+      "dimensions": [
+        960,
+        540
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "魔灵 神探狄仁杰 剧照",
+        "魔灵 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/魔灵/6858697",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/魔灵/6858697"
+      ]
+    },
+    {
+      "id": "dichun-double",
+      "name": "假狄春",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/动灵/2530740",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/962bd40735fae6cd7b89c1b264ee182442a7d833a1e9",
+      "evidence": "动灵独立条目原剧图；与央视第二部第10集37:30假狄春被识破后的真容画面互证。不复用真狄春的现有照片。",
+      "originalFile": "candidate-动灵-1.jpg",
+      "originalDimensions": [
+        1100,
+        619
+      ],
+      "action": "add",
+      "local": "portraits/checked-dichun-double-20261117.jpg",
+      "downloadSha256": "c7c139decf43c0f399e6efd75ee93bf7aa4ee3f2bb367c8c877ed21ab0e2efd4",
+      "sha256": "8e783bad0f9eb0ef046e052956f8d65b933e54fbc3a7971086683f15a4576700",
+      "dimensions": [
+        960,
+        540
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "假狄春 神探狄仁杰 剧照",
+        "假狄春 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/动灵/2530740",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/动灵/2530740"
+      ]
+    },
+    {
+      "id": "wuping-xiancheng",
+      "name": "五平县丞",
+      "kind": "still",
+      "source": "https://bkso.baidu.com/item/五平县丞/65392173",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9d82d158ccbf6c81800ae8e41c67a63533fa828bea3f",
+      "evidence": "五平县丞独立条目概述图，明确限定第二部角色、卢明演员；非第一部同演员饰演的李规。",
+      "originalFile": "candidate-五平县丞-1.jpg",
+      "originalDimensions": [
+        1087,
+        812
+      ],
+      "action": "add",
+      "local": "portraits/checked-wuping-xiancheng-20261117.jpg",
+      "downloadSha256": "d03911848d8bab30431f1e01c711fc01ecbe110c96379c22f177707f39f16db4",
+      "sha256": "455aff9c5a956cf6609916cd31fa89fa9a63fd39502e7bd3d5bb962edce3d6d2",
+      "dimensions": [
+        960,
+        717
+      ],
+      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "searchQueries": [
+        "五平县丞 神探狄仁杰 剧照",
+        "五平县丞 神探狄仁杰 角色"
+      ],
+      "channels": [
+        "公开搜索：角色名＋本剧限定，排除同名人物和演员生活照",
+        "四部系列／分部演员表和独立角色资料交叉核对",
+        "独立角色图集：https://bkso.baidu.com/item/五平县丞/65392173",
+        "公开图片条目原图及剧情／演员资料核对：https://bkso.baidu.com/item/五平县丞/65392173"
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "xugu",
+      "name": "虚谷子",
+      "reason": "独立条目概述图实际为文字解说封面，不能当剧照；演员身份无可靠映射，正片候选无法指认。",
+      "channels": [
+        "百度独立条目12795298及系列演员表",
+        "虚谷子／虚谷子道人剧照检索",
+        "央视第一部滴血雄鹰后段正片线索。"
+      ],
+      "searchQueries": [
+        "虚谷子 神探狄仁杰 剧照",
+        "虚谷子 神探狄仁杰 角色"
+      ]
+    },
+    {
+      "id": "lihan",
+      "name": "李翰",
+      "reason": "同名搜索混入2024版《大唐狄公案》；本版线索多为死亡、密信叙述。第三部29集回述中的其他人不能当李翰。",
+      "channels": [
+        "百度李翰独立条目及第三部演员表",
+        "神探狄仁杰李翰／李翰尸体等检索",
+        "央视第三部29集相关回述画面。"
+      ],
+      "searchQueries": [
+        "李翰 神探狄仁杰 剧照",
+        "李翰 神探狄仁杰 角色"
+      ]
+    },
+    {
+      "id": "wangtiehan",
+      "name": "王铁汉",
+      "reason": "同名百科主条目为历史将领；演员名资料有分歧。正片军士群像未建立足够明确的姓名与面孔对应，未采用。",
+      "channels": [
+        "第二部演员表、百度同名条目",
+        "电视猫角色页KCwgL2U=为默认图",
+        "央视第二部1—5、9—13集候选",
+        "哔哩哔哩塘报被劫专题BV1eW5e6REq1页面/API受限412，未取得可核实画面。"
+      ],
+      "searchQueries": [
+        "王铁汉 神探狄仁杰 剧照",
+        "王铁汉 神探狄仁杰 角色"
+      ]
+    },
+    {
+      "id": "wusima",
+      "name": "吴司马",
+      "reason": "独立条目无可用角色图，电视猫为默认头像；第三部前段官员群像不能可靠区分吴司马与其他官员。",
+      "channels": [
+        "百度独立条目58565513和第三部演员表",
+        "电视猫MXFUUg==",
+        "央视第三部1—3集及吴司马／吴司马剧照检索。"
+      ],
+      "searchQueries": [
+        "吴司马 神探狄仁杰 剧照",
+        "吴司马 神探狄仁杰 角色"
+      ]
+    },
+    {
+      "id": "maola",
+      "name": "毛拉",
+      "reason": "独立条目无图；正片中提到毛拉并不构成面孔证据。已排除第四部44集写信的沙尔汗，未找到能明确指认毛拉的画面。",
+      "channels": [
+        "百度独立条目65515358与神断演员表",
+        "毛拉／月氏长者毛拉／神断毛拉剧照检索",
+        "公开视频第四部43—44集和字幕线索。"
+      ],
+      "searchQueries": [
+        "毛拉 神探狄仁杰 剧照",
+        "毛拉 神探狄仁杰 角色"
+      ]
+    },
+    {
+      "id": "modu",
+      "name": "莫度",
+      "reason": "独立条目虽有候选图，但面貌、服装与所述突厥主战派首领身份无法互证；演员未可靠确认，不能仅凭条目配图采用。",
+      "channels": [
+        "百度莫度独立条目59216393、第一部／系列演员表及电视猫第一部演员页",
+        "莫度／莫度可汗／使团惊魂莫度剧照检索；新浪第一部开场台词、Plex第一部12集剧情索引交叉检索",
+        "第一部突厥政变剧情线索及第二部默啜相关正片互证；找到的资料不足以将候选面孔指认为莫度"
+      ],
+      "searchQueries": [
+        "莫度 神探狄仁杰 剧照",
+        "莫度 神探狄仁杰 角色"
+      ]
+    }
+  ]
+}

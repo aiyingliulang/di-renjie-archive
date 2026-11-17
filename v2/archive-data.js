@@ -1501,11 +1501,11 @@ window.ARCHIVE={
       "keys": "李显 武周太子",
       "sigil": "李",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "",
-      "photoLabel": "原剧人物画面",
+      "photo": "portraits/checked-lixian-20261117.jpg",
+      "photoLabel": "原剧角色照",
       "spoiler": "许世德试图用旧案构陷他，蛇灵又安排人员接近太子。不同资料对第二部演员记载有分歧，本站保留来源差异说明，不将李贤的身份移给李显。",
       "faction": "武周皇室",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "aliases": [],
       "reviewedOn": "2026-11-12",
       "reviewSources": [
@@ -1515,7 +1515,8 @@ window.ARCHIVE={
         "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
-      "reviewNote": "第一部记王心圣；第二部维基演员表记王新胜，百度演员表记王心圣，第二部演员名待片尾确认。"
+      "reviewNote": "第一部记王心圣；第二部维基演员表记王新胜，百度演员表记王心圣，第二部演员名待片尾确认。",
+      "photoSource": "https://tv.cctv.com/2010/01/07/VIDE1354264504140931.shtml"
     },
     {
       "id": "heyun",
@@ -1582,11 +1583,11 @@ window.ARCHIVE={
       "keys": "简小郎 高如进 江小郎 永昌县丞与旧案证人 高如进 江小郎",
       "sigil": "简",
       "source": "https://jingyan.baidu.com/article/27fa7326a1b1d307f8271fb9.html",
-      "photo": "",
-      "photoLabel": "原剧人物画面",
+      "photo": "portraits/checked-jianxiaolang-20261117.jpg",
+      "photoLabel": "原剧角色照",
       "spoiler": "高如进即简小郎，原版亦作江小郎，是同一人的化名。本站合并原先重复条目，旧的高如进链接仍可进入本档案；他参与散播怪谈，后指认相关人员。",
       "faction": "旧案参与者与证人",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "aliases": [
         "高如进",
         "江小郎"
@@ -1600,7 +1601,8 @@ window.ARCHIVE={
         "https://baike.baidu.com/item/神探狄仁杰/576",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第一部",
         "https://zh.wikipedia.org/wiki/神探狄仁杰"
-      ]
+      ],
+      "photoSource": "https://www.baike.com/wikiid/3328870958139814094"
     },
     {
       "id": "likai",
@@ -2892,7 +2894,7 @@ window.ARCHIVE={
       "spoiler": "她与王知远、太平公主一线相关，宫廷异象最终可用人为布置解释；其死亡不能当作鬼神存在的证据。",
       "faction": "身份与立场见剧透",
       "sigil": "春",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "春香 宫女",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
@@ -2901,7 +2903,10 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "reviewNote": "演员另见陈瑞、陈燃写法，待片尾字幕核对。"
+      "reviewNote": "演员另见陈瑞、陈燃写法，待片尾字幕核对。",
+      "photo": "portraits/checked-chunxiang-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/春香/62181765",
+      "photoLabel": "原剧角色照"
     },
     {
       "id": "quanshancai",
@@ -3007,14 +3012,18 @@ window.ARCHIVE={
       "spoiler": "杨方、杨芳作为同一角色的资料异写处理；组织渗透护卫队的情节需分清本人和冒充者。",
       "faction": "狄公护卫",
       "sigil": "杨",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "杨方 狄公护卫军头",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+      "photo": "portraits/checked-yangfang-20261117.jpg",
+      "photoSource": "https://tv.cctv.com/2009/12/18/VIDE1355687010356117.shtml",
+      "photoLabel": "原剧画面（右侧为杨方）",
+      "photoFocus": true
     },
     {
       "id": "renkuo",
@@ -3053,14 +3062,17 @@ window.ARCHIVE={
       "spoiler": "与肖清芳及哈日勒等人勾结，企图弑君篡位；他属于第二部的叛乱一方，与第一部莫度及《神断》贺鲁不是同一角色。",
       "faction": "突厥王室叛乱一方",
       "sigil": "默",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "默啜 吉利可汗长子",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+      "photo": "portraits/checked-mochuo-20261117.jpg",
+      "photoSource": "https://tv.cctv.com/2010/01/08/VIDE1355687041093667.shtml",
+      "photoLabel": "原剧角色照"
     },
     {
       "id": "huangzhen",
@@ -3074,7 +3086,7 @@ window.ARCHIVE={
       "spoiler": "副将的供述应与军队去向和其他证据交叉核对；不因职属关系把上级和下属的责任自动等同。",
       "faction": "前线军方",
       "sigil": "黄",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "黄真 赵文翙副将",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
@@ -3082,7 +3094,10 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "reviewNote": "百度记丛林，维基记丛山，演员姓名待片尾复核。"
+      "reviewNote": "百度记丛林，维基记丛山，演员姓名待片尾复核。",
+      "photo": "portraits/checked-huangzhen-20261117.jpg",
+      "photoSource": "https://tv.cctv.com/2009/12/18/VIDE1355686967625888.shtml",
+      "photoLabel": "原剧角色照"
     },
     {
       "id": "lichanghe",
@@ -3216,14 +3231,17 @@ window.ARCHIVE={
       "spoiler": "他是内贼，后被李楷固杀死；参与内部破坏的经历与王孝杰遭陷害的处境应分开。",
       "faction": "身份与立场见剧透",
       "sigil": "孙",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "孙副将 王孝杰副将",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+      "photo": "portraits/checked-sunfujiang-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/孙副将/58633654",
+      "photoLabel": "原剧角色照"
     },
     {
       "id": "wuqishi",
@@ -3261,7 +3279,7 @@ window.ARCHIVE={
       "spoiler": "参与屠杀百姓后被捕，是查明军中人为破坏的线索之一；其行动不能代表所有前线军士的立场。",
       "faction": "身份与立场见剧透",
       "sigil": "朱",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "朱风 右威卫军官",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
@@ -3269,7 +3287,10 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "reviewNote": "高鹏、高朋为参考表中的异写，待片尾核对。"
+      "reviewNote": "高鹏、高朋为参考表中的异写，待片尾核对。",
+      "photo": "portraits/checked-zhufeng-20261117.jpg",
+      "photoSource": "https://tv.cctv.com/2009/12/18/VIDE1355687010356117.shtml",
+      "photoLabel": "原剧画面（前景为朱风）"
     },
     {
       "id": "wangtiehan",
@@ -3353,14 +3374,17 @@ window.ARCHIVE={
       "spoiler": "被安排冒充苏显儿，后被李元芳杀死；她不是改名后的如燕本人，相关真假身份应按不同角色计数。",
       "faction": "蛇灵替身一线",
       "sigil": "苏",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "苏显儿替身 身份辨认相关女子",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+      "photo": "portraits/checked-suxianer-double-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/假苏显儿/64054499",
+      "photoLabel": "原剧角色照"
     },
     {
       "id": "wuxiang",
@@ -3809,14 +3833,18 @@ window.ARCHIVE={
       "spoiler": "演员表采用沈韬或沈涛均指向本角色；同一演员另饰不同护卫不代表两个角色具有相同经历。",
       "faction": "狄公护卫",
       "sigil": "沈",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "沈韬 狄公护卫军头",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+      "photo": "portraits/checked-shentao-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/沈韬/2435944",
+      "photoLabel": "原剧画面（右侧为沈韬）",
+      "photoFocus": true
     },
     {
       "id": "xiaobao",
@@ -3948,14 +3976,17 @@ window.ARCHIVE={
       "spoiler": "为贪腐官员，与邗沟盐案利益链相关，最终被处决；同由王心圣饰演的太子李显和贺鲁并非此人。",
       "faction": "扬州官商利益一方",
       "sigil": "崔",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "崔亮 扬州刺史",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+      "photo": "portraits/checked-cuiliang-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/崔亮/16399413",
+      "photoLabel": "原剧角色照"
     },
     {
       "id": "wuwendeng",
@@ -4017,14 +4048,17 @@ window.ARCHIVE={
       "spoiler": "何府中的说辞需与李紫君、文清等人的行动分别比较，熟悉内情不等于已证明参与全部阴谋。",
       "faction": "何府",
       "sigil": "何",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "何竟 何府管家",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+      "photo": "portraits/checked-hejing-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/何竟/58563317",
+      "photoLabel": "原剧角色照"
     },
     {
       "id": "gebiao",
@@ -4158,14 +4192,17 @@ window.ARCHIVE={
       "spoiler": "因告状遭追杀，幸被狄仁杰救下；其遭遇帮助揭露地方对证人和申诉者的压制。",
       "faction": "纤户／证人",
       "sigil": "方",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "方九 扬州纤户",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+      "photo": "portraits/checked-fangjiu-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/方九/58608513",
+      "photoLabel": "原剧角色照"
     },
     {
       "id": "pangsi",
@@ -4323,14 +4360,18 @@ window.ARCHIVE={
       "spoiler": "方九因告状遭追杀，父女所处环境体现地方势力对证人的威胁；未另给小兰编造缺乏来源的官职或组织身份。",
       "faction": "纤户家属",
       "sigil": "小",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "小兰 方九之女",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+      "photo": "portraits/checked-xiaolan-20261117.jpg",
+      "photoSource": "https://tv.cctv.com/2010/01/08/VIDE1355678961918230.shtml",
+      "photoLabel": "原剧画面（红衣女孩为小兰）",
+      "photoFocus": true
     },
     {
       "id": "huyun",
@@ -5243,7 +5284,7 @@ window.ARCHIVE={
       "spoiler": "其报案推动命案进入调查，不能因此把他当作凶手或推定其已经知道赵永荣的全部秘密。",
       "faction": "宣化堡村民／证人",
       "sigil": "高",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "高十二 宣化堡报案人",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
@@ -5251,7 +5292,11 @@ window.ARCHIVE={
         "https://baike.baidu.com/item/神断狄仁杰/8708283",
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
-      "source": "https://baike.baidu.com/item/%E9%AB%98%E5%8D%81%E4%BA%8C/64054491"
+      "source": "https://baike.baidu.com/item/%E9%AB%98%E5%8D%81%E4%BA%8C/64054491",
+      "photo": "portraits/checked-gaoshier-20261117.jpg",
+      "photoSource": "https://www.ganjingworld.com/video/1gkt7aq65op4pfhHamveoBhd412k1c",
+      "photoLabel": "原剧画面（左侧为高十二）",
+      "photoFocus": true
     },
     {
       "id": "jieliedian",
@@ -5337,14 +5382,17 @@ window.ARCHIVE={
       "spoiler": "被赵九在争执中杀害，赵九供出相关秘密后又遭灭口；两起死亡的直接行为者和目的不同。",
       "faction": "宣化堡命案受害者",
       "sigil": "杨",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "杨寡妇 宣化堡命案死者",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神断狄仁杰/8708283",
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
-      "source": "https://baike.baidu.com/item/神断狄仁杰/8708283"
+      "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
+      "photo": "portraits/checked-yangguafu-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/杨寡妇/64051405",
+      "photoLabel": "原剧画面（命案现场）"
     },
     {
       "id": "liaoyin",
@@ -5382,14 +5430,18 @@ window.ARCHIVE={
       "spoiler": "侯寄昌侵占家产后赶走母子，狄公查出真遗书与藏产，帮助刘陈氏及月生恢复应得权益。",
       "faction": "小刘庄受害者家属",
       "sigil": "月",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "月生 刘文庆幼子",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神断狄仁杰/8708283",
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
-      "source": "https://baike.baidu.com/item/神断狄仁杰/8708283"
+      "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
+      "photo": "portraits/checked-yuesheng-20261117.jpg",
+      "photoSource": "https://www.ganjingworld.com/video/1fcumpg9her6x7QJCGSMO9dNj1lu1c",
+      "photoLabel": "原剧画面（左侧男孩为月生）",
+      "photoFocus": true
     },
     {
       "id": "difu",
@@ -5429,7 +5481,7 @@ window.ARCHIVE={
       "spoiler": "角色仅见部分演员表，具体场景待片尾进一步核对；不与驭风者首领乌勒质合并。",
       "faction": "突勒相关者",
       "sigil": "阿",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "阿史那步真 突勒相关人物",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
@@ -5438,7 +5490,10 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "reviewNote": "维基神断演员表列出此角，百度剧集表未单列，具体场面待核，单元关联仅作系列定位。",
-      "caseAssociationStatus": "pending"
+      "caseAssociationStatus": "pending",
+      "photo": "portraits/checked-ashina-buzhen-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/阿史那步真/8451898",
+      "photoLabel": "原剧角色照"
     },
     {
       "id": "liuchenshi",
@@ -5476,7 +5531,7 @@ window.ARCHIVE={
       "spoiler": "详细关系待原剧场景进一步核实，暂不以其他作品同名人物的经历替代。",
       "faction": "洛阳案相关者",
       "sigil": "乐",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "乐氏 洛阳案相关女子",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
@@ -5485,7 +5540,11 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "reviewNote": "系列汇总演员表有此名，详细场景和亲缘待核，暂作洛阳段定位。",
-      "caseAssociationStatus": "pending"
+      "caseAssociationStatus": "pending",
+      "photo": "portraits/checked-le-shi-20261117.jpg",
+      "photoSource": "https://www.ganjingworld.com/video/1gkqir15hin1UebOTkqDq0LCn1f71c",
+      "photoLabel": "原剧画面（左侧为乐氏）",
+      "photoFocus": true
     },
     {
       "id": "yuhong",
@@ -5598,7 +5657,7 @@ window.ARCHIVE={
       "spoiler": "方谦一方曾安排刺杀，李元芳参与保护；是否受到压力影响说法，需要结合实际供述和旁证判断。",
       "faction": "幽州案知情者",
       "sigil": "赵",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "赵传臣 幽州案证人",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
@@ -5607,7 +5666,10 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "reviewNote": "演员尚无可靠交叉确认，不据同名角色猜填。"
+      "reviewNote": "演员尚无可靠交叉确认，不据同名角色猜填。",
+      "photo": "portraits/checked-zhaochuanchen-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/赵传臣/59009455",
+      "photoLabel": "原剧角色照"
     },
     {
       "id": "moling",
@@ -5621,14 +5683,17 @@ window.ARCHIVE={
       "spoiler": "属于蛇灵执行力量，与李元芳发生交锋；不能因六大蛇首部分成员改变立场就认定所有成员均帮助狄公。",
       "faction": "蛇灵",
       "sigil": "魔",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "魔灵 蛇灵高手",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+      "photo": "portraits/checked-moling-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/魔灵/6858697",
+      "photoLabel": "原剧角色照"
     },
     {
       "id": "dichun-double",
@@ -5642,14 +5707,17 @@ window.ARCHIVE={
       "spoiler": "蛇灵借其身份潜入狄公身边，终被识破；假管家的行凶与秘密任务不属于真狄春本人。",
       "faction": "蛇灵渗透一线",
       "sigil": "假",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "假狄春 狄府身份疑点人物",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+      "photo": "portraits/checked-dichun-double-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/动灵/2530740",
+      "photoLabel": "原剧角色照（动灵真容）"
     },
     {
       "id": "wuping-xiancheng",
@@ -5663,14 +5731,17 @@ window.ARCHIVE={
       "spoiler": "侯府对县衙的压力是调查背景，县丞个人责任仍需依具体行动判断；不与蓝衫记中同由卢明饰演的李规合并。",
       "faction": "五平县衙",
       "sigil": "五",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "五平县丞 五平县官署属官",
       "reviewedOn": "2026-11-12",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
+      "photo": "portraits/checked-wuping-xiancheng-20261117.jpg",
+      "photoSource": "https://bkso.baidu.com/item/五平县丞/65392173",
+      "photoLabel": "原剧角色照"
     }
   ],
   "quizzes": [
@@ -6016,6 +6087,20 @@ window.ARCHIVE={
         "dichun-double",
         "wuping-xiancheng"
       ]
+    },
+    "images003": {
+      "date": "2026-11-17",
+      "added": 23,
+      "missing": 6,
+      "missingIds": [
+        "xugu",
+        "lihan",
+        "wangtiehan",
+        "wusima",
+        "maola",
+        "modu"
+      ],
+      "ledger": "content/image-review-003.json"
     }
   }
 };

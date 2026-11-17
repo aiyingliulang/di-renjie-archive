@@ -60,7 +60,20 @@ const crypto = require('node:crypto');
 assert.equal(imageReview.images.filter(x => x.action === 'replace').length, 27);
 assert.equal(imageReview.images.filter(x => x.action === 'add').length, 102);
 assert.equal(imageReview.unresolved.length, 29);
-assert.deepEqual(imageReview.unresolved.map(x => x.id).sort(), [...people.values()].filter(p => !p.photo).map(p => p.id).sort());
+const supplement = JSON.parse(fs.readFileSync(path.join(root, 'content/image-review-003.json')));
+assert.deepEqual(imageReview.unresolved.map(x => x.id).sort(), supplement.baseline.missingIds.slice().sort());
+assert.equal(supplement.images.length, 23);
+assert.equal(supplement.unresolved.length, 6);
+assert.equal([...people.values()].filter(p => p.photo).length, 182);
+assert.deepEqual(supplement.unresolved.map(x => x.id).sort(), [...people.values()].filter(p => !p.photo).map(p => p.id).sort());
+assert.deepEqual([...supplement.images, ...supplement.unresolved].map(x => x.id).sort(), supplement.baseline.missingIds.slice().sort());
+for (const entry of supplement.images) {
+  assert.equal(people.get(entry.id).photo, entry.local);
+  assert.equal(people.get(entry.id).photoSource, entry.source);
+  assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root, 'v2', entry.local))).digest('hex'), entry.sha256);
+  assert(entry.evidence && entry.channels.length >= 3);
+}
+for (const entry of supplement.unresolved) assert(entry.reason && entry.channels.length >= 3);
 for (const entry of imageReview.images) {
   const p = people.get(entry.id);
   assert.equal(p.photo, entry.local);
@@ -80,4 +93,4 @@ for (const entry of ['index.html', 'v2/index.html']) {
   assert(!html.includes('portrait-supplement.js'));
   assert(!html.includes('portrait-corrections-20261112.js'));
 }
-console.log('PASS: 188 people; 127 added; 62 original IDs preserved; every biography ≥100 Han characters; 10 cases and reciprocal links; 27 portraits replaced; 102 added; 29 documented gaps; image hashes, sponsor and both entries valid.');
+console.log('PASS: 188 people; 127 added; 62 original IDs preserved; every biography ≥100 Han characters; 10 cases and reciprocal links; 27 portraits replaced; 102 historical additions; 23 further additions; 6 documented gaps; image hashes, sponsor and both entries valid.');
