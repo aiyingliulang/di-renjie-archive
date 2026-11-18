@@ -3295,24 +3295,28 @@ window.ARCHIVE={
     {
       "id": "wangtiehan",
       "name": "王铁汉",
-      "actor": "陈奕霖",
+      "actor": "陈磊",
       "cases": [
         "border"
       ],
       "role": "王孝杰副将",
-      "text": "王孝杰的副将，属于崇州案前线军队的人物网络，与同为副将或军官的孙副将、李楷固等人需要分别辨认。战场失利后，不同人的亲历与塘报所述存在出入，狄仁杰需逐一核对时间、驻地和行动。王铁汉条目保存其职属与演员表中的信息，使军中人物不会因戏份较少而被省略；对尚缺可靠记载的家世和后续官职，本站不作推断，也不将同一演员饰演的方九经历合入。",
-      "spoiler": "网络演员表存在陈磊与陈奕霖等写法差异，暂依百度演员表并列核对说明，后续可用片尾字幕进一步确认。",
+      "text": "王孝杰的副将，属于崇州案前线军队的人物网络，与同为副将或军官的孙副将、李楷固等人需要分别辨认。战场失利后，不同人的亲历与塘报所述存在出入，狄仁杰需逐一核对时间、驻地和行动。王铁汉条目保存其职属与演员表中的信息，使军中人物不会因戏份较少而被省略；对尚缺可靠记载的家世和后续官职，本站不作推断，也不将方九的经历合入。",
+      "spoiler": "贺兰驿塘报被截后获救，在狄府向狄仁杰说明送报经过。后续对塘报和边军证言的复核，关系到崇州败局的真实原因。",
       "faction": "武周军方",
       "sigil": "王",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "王铁汉 王孝杰副将",
-      "reviewedOn": "2026-11-12",
+      "reviewedOn": "2026-11-18",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第二部",
+        "https://tv.cctv.com/2010/01/08/VIDE1355687032031458.shtml"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "reviewNote": "百度记陈奕霖，维基记陈磊，演员姓名待片尾核对。"
+      "reviewNote": "央视第二部第2集片尾署名陈磊，部分网络演员表记陈奕霖。",
+      "photo": "portraits/checked-wangtiehan-20261118.webp",
+      "photoSource": "https://tv.cctv.com/2010/01/08/VIDE1355687032031458.shtml",
+      "photoLabel": "原剧画面（第2集）"
     },
     {
       "id": "huangshengyan",
@@ -3883,14 +3887,18 @@ window.ARCHIVE={
       "spoiler": "地方官署的日常职责与黑衣社的秘密活动需要根据行为区分，不凭同在凉州就作相同阵营判断。",
       "faction": "凉州官署",
       "sigil": "吴",
-      "photoSourceStatus": "missing",
+      "photoSourceStatus": "verified",
       "keys": "吴司马 凉州司马",
-      "reviewedOn": "2026-11-12",
+      "reviewedOn": "2026-11-18",
       "reviewSources": [
         "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
+        "https://zh.wikipedia.org/wiki/神探狄仁杰第三部",
+        "https://tv.cctv.com/2009/12/18/VIDE1355678968682339.shtml"
       ],
-      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912"
+      "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
+      "photo": "portraits/checked-wusima-20261118.webp",
+      "photoSource": "https://tv.cctv.com/2009/12/18/VIDE1355678968682339.shtml",
+      "photoLabel": "原剧画面（第16集）"
     },
     {
       "id": "yaner",
@@ -6101,6 +6109,18 @@ window.ARCHIVE={
         "modu"
       ],
       "ledger": "content/image-review-003.json"
+    },
+    "images004": {
+      "date": "2026-11-18",
+      "added": 2,
+      "missing": 4,
+      "missingIds": [
+        "xugu",
+        "lihan",
+        "maola",
+        "modu"
+      ],
+      "ledger": "content/image-review-004.json"
     }
   }
 };

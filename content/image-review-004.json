@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-18",
+  "baseline": {
+    "commit": "0c24b0b0c2f5b3d2407667e75ca2be3c4f911fb0",
+    "people": 188,
+    "pictured": 182,
+    "missingIds": [
+      "xugu",
+      "lihan",
+      "wangtiehan",
+      "wusima",
+      "maola",
+      "modu"
+    ]
+  },
+  "added": 2,
+  "pictured": 184,
+  "missing": 4,
+  "images": [
+    {
+      "id": "wangtiehan",
+      "name": "王铁汉",
+      "kind": "frame",
+      "source": "https://tv.cctv.com/2010/01/08/VIDE1355687032031458.shtml",
+      "videoTitle": "神探狄仁杰 第二部 第2集",
+      "captureSeconds": 2183.38,
+      "segment": {
+        "start": 2181.88,
+        "url": "https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/e9f307d3a9394b1f70e221a4366a5e56/218.ts"
+      },
+      "segmentSha256": "776e0b4e56fe4aa7f5ac61d8367a541d7d0bc815698b948b654f8ee18a566358",
+      "originalDimensions": [
+        480,
+        360
+      ],
+      "local": "portraits/checked-wangtiehan-20261118.webp",
+      "sha256": "f1eb5ac72db35437674d9bc761847a852ba94fb63d02c0ba8700a70df67647ab",
+      "dimensions": [
+        480,
+        360
+      ],
+      "encoding": "WebP quality 86",
+      "evidence": "34:41白衣送报者当面自报姓名，接着回答贺兰驿塘报。36:23同场同人单人近景。45:19片尾演员表明确列王铁汉、陈磊。第3集另有白衣伤员曾泰，须区分。",
+      "corroboration": [
+        "https://www.iqiyi.com/a_aup2ptlblt.html",
+        "https://blog.sina.com.cn/s/blog_50df2ec50100afiu.html",
+        "https://www.tvzn.com/1626/yanyuanbiao.html"
+      ]
+    },
+    {
+      "id": "wusima",
+      "name": "吴司马",
+      "kind": "frame",
+      "source": "https://tv.cctv.com/2009/12/18/VIDE1355678968682339.shtml",
+      "videoTitle": "神探狄仁杰 第三部 第16集",
+      "captureSeconds": 1054.78,
+      "segment": {
+        "start": 1052.28,
+        "url": "https://hls.cntv.lxdns.com/asp/hls/450/0303000a/3/default/58c64b241fe64dee52fae9884ba79876/105.ts"
+      },
+      "segmentSha256": "612a8c44bcce6978b1aaf4f6ce6311e921034b7ccdd11557c206bbe16c1657eb",
+      "originalDimensions": [
+        480,
+        360
+      ],
+      "local": "portraits/checked-wusima-20261118.webp",
+      "sha256": "fc7cef4ec2e508d55b92bb828a85c2f77af6def0c284f4006d140338545036a6",
+      "dimensions": [
+        124,
+        218
+      ],
+      "encoding": "WebP quality 86",
+      "evidence": "17:19起绿袍乌帽官员从画面右侧上前，单独向曾泰报告紫运街疫情。17:35裁取同一人物；18:08曾泰点名吴司马，他在前景拱手答应并领命封闭城门。分集梗概将紫运街报告者记为巡城司马，电视猫演员表列吕怀飞。",
+      "corroboration": [
+        "https://wap.tvzn.com/4937/juqingjieshao3.html",
+        "https://www.tvmao.com/character/MXFUUg%3D%3D"
+      ],
+      "crop": [
+        340,
+        76,
+        124,
+        218
+      ]
+    }
+  ],
+  "unresolved": [
+    "xugu",
+    "lihan",
+    "maola",
+    "modu"
+  ]
+}

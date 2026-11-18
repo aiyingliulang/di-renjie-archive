@@ -64,8 +64,6 @@ const supplement = JSON.parse(fs.readFileSync(path.join(root, 'content/image-rev
 assert.deepEqual(imageReview.unresolved.map(x => x.id).sort(), supplement.baseline.missingIds.slice().sort());
 assert.equal(supplement.images.length, 23);
 assert.equal(supplement.unresolved.length, 6);
-assert.equal([...people.values()].filter(p => p.photo).length, 182);
-assert.deepEqual(supplement.unresolved.map(x => x.id).sort(), [...people.values()].filter(p => !p.photo).map(p => p.id).sort());
 assert.deepEqual([...supplement.images, ...supplement.unresolved].map(x => x.id).sort(), supplement.baseline.missingIds.slice().sort());
 for (const entry of supplement.images) {
   assert.equal(people.get(entry.id).photo, entry.local);
@@ -74,6 +72,26 @@ for (const entry of supplement.images) {
   assert(entry.evidence && entry.channels.length >= 3);
 }
 for (const entry of supplement.unresolved) assert(entry.reason && entry.channels.length >= 3);
+const latest = JSON.parse(fs.readFileSync(path.join(root, 'content/image-review-004.json')));
+assert.deepEqual(latest.baseline.missingIds.slice().sort(), supplement.unresolved.map(x => x.id).sort());
+assert.deepEqual([...latest.images.map(x => x.id), ...latest.unresolved].sort(), latest.baseline.missingIds.slice().sort());
+assert.deepEqual(latest.unresolved.slice().sort(), [...people.values()].filter(p => !p.photo).map(p => p.id).sort());
+assert.deepEqual(latest.unresolved, [...d.contentReview.images004.missingIds]);
+assert.equal(latest.pictured, d.people.filter(p => p.photo).length);
+assert.equal(latest.added, latest.images.length);
+assert.equal(latest.missing, latest.unresolved.length);
+for (const entry of latest.images) {
+  const p = people.get(entry.id);
+  assert.equal(p.photoSourceStatus, 'verified');
+  assert.equal(p.photo, entry.local);
+  assert.equal(p.photoSource, entry.source);
+  assert.match(entry.local, /^portraits\/checked-[a-z-]+-20261118\.webp$/);
+  assert(entry.evidence && entry.corroboration.length >= 2);
+  assert(entry.dimensions.every(size => size > 0 && size <= 2560));
+  const photo = fs.readFileSync(path.join(root, 'v2', entry.local));
+  assert.equal(photo.toString('ascii', 8, 12), 'WEBP');
+  assert.equal(crypto.createHash('sha256').update(photo).digest('hex'), entry.sha256);
+}
 for (const entry of imageReview.images) {
   const p = people.get(entry.id);
   assert.equal(p.photo, entry.local);
@@ -93,4 +111,4 @@ for (const entry of ['index.html', 'v2/index.html']) {
   assert(!html.includes('portrait-supplement.js'));
   assert(!html.includes('portrait-corrections-20261112.js'));
 }
-console.log('PASS: 188 people; 127 added; 62 original IDs preserved; every biography ≥100 Han characters; 10 cases and reciprocal links; 27 portraits replaced; 102 historical additions; 23 further additions; 6 documented gaps; image hashes, sponsor and both entries valid.');
+console.log(`PASS: 188 people; 127 added; 62 original IDs preserved; every biography ≥100 Han characters; 10 cases and reciprocal links; ${latest.pictured} pictured, ${latest.missing} documented gaps; image hashes, sponsor and both entries valid.`);
