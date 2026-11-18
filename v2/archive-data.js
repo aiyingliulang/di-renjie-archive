@@ -89,22 +89,22 @@ window.ARCHIVE={
       "catalogSource": "https://baike.baidu.com/item/神探狄仁杰/576",
       "gallery": [
         {
-          "path": "portraits/虎敬晖.jpg",
+          "path": "portraits/虎敬晖.webp",
           "label": "虎敬晖 · 本案角色照",
           "source": "https://baike.baidu.com/item/%E8%99%8E%E6%95%AC%E6%99%96"
         },
         {
-          "path": "stills/one-3.jpg",
+          "path": "stills/one-3.webp",
           "label": "第 3 集画面",
           "source": "https://tv.cctv.com/2010/01/08/VIDE1354264495592777.shtml"
         },
         {
-          "path": "stills/one-5.jpg",
+          "path": "stills/one-5.webp",
           "label": "第 5 集画面",
           "source": "https://tv.cctv.com/2010/01/08/VIDE1354264548722865.shtml"
         },
         {
-          "path": "stills/one-10.jpg",
+          "path": "stills/one-10.webp",
           "label": "第 10 集画面",
           "source": "https://tv.cctv.com/2010/01/01/VIDER9hHzZlCz0VCb9SPdfPy100101.shtml"
         },
@@ -119,7 +119,7 @@ window.ARCHIVE={
         13
       ],
       "cover": {
-        "path": "portraits/虎敬晖.jpg",
+        "path": "portraits/虎敬晖.webp",
         "label": "虎敬晖 · 本案角色照",
         "source": "https://baike.baidu.com/item/%E8%99%8E%E6%95%AC%E6%99%96"
       },
@@ -171,7 +171,7 @@ window.ARCHIVE={
       "catalogSource": "https://baike.baidu.com/item/神探狄仁杰/576",
       "gallery": [
         {
-          "path": "portraits/方莹玉.jpg",
+          "path": "portraits/方莹玉.webp",
           "label": "莹玉 · 本案角色照",
           "source": "https://baike.baidu.com/item/%E6%96%B9%E8%8E%B9%E7%8E%89"
         },
@@ -181,12 +181,12 @@ window.ARCHIVE={
           "source": "https://tv.cctv.com/2010/01/07/VIDE1354264448073726.shtml"
         },
         {
-          "path": "stills/one-17.jpg",
+          "path": "stills/one-17.webp",
           "label": "第 17 集画面",
           "source": "https://tv.cctv.com/2010/01/07/VIDE1354264535615622.shtml"
         },
         {
-          "path": "stills/one-20.jpg",
+          "path": "stills/one-20.webp",
           "label": "第 20 集画面",
           "source": "https://tv.cctv.com/2010/01/07/VIDE1354264544556784.shtml"
         },
@@ -201,7 +201,7 @@ window.ARCHIVE={
         22
       ],
       "cover": {
-        "path": "portraits/方莹玉.jpg",
+        "path": "portraits/方莹玉.webp",
         "label": "莹玉 · 本案角色照",
         "source": "https://baike.baidu.com/item/%E6%96%B9%E8%8E%B9%E7%8E%89"
       },
@@ -254,22 +254,22 @@ window.ARCHIVE={
       "catalogSource": "https://baike.baidu.com/item/神探狄仁杰/576",
       "gallery": [
         {
-          "path": "stills/one-23.jpg",
+          "path": "stills/one-23.webp",
           "label": "第 23 集画面",
           "source": "https://tv.cctv.com/2010/01/07/VIDE1354264528997496.shtml"
         },
         {
-          "path": "stills/one-25.jpg",
+          "path": "stills/one-25.webp",
           "label": "第 25 集画面",
           "source": "https://tv.cctv.com/2010/01/07/VIDE1354264523246389.shtml"
         },
         {
-          "path": "stills/one-26.jpg",
+          "path": "stills/one-26.webp",
           "label": "第 26 集画面",
           "source": "https://tv.cctv.com/2010/01/07/VIDE1354264434506453.shtml"
         },
         {
-          "path": "stills/one-27.jpg",
+          "path": "stills/one-27.webp",
           "label": "第 27 集画面",
           "source": "https://tv.cctv.com/2010/01/07/VIDE1354264504140931.shtml"
         }
@@ -279,7 +279,7 @@ window.ARCHIVE={
         27
       ],
       "cover": {
-        "path": "stills/one-25.jpg",
+        "path": "stills/one-25.webp",
         "label": "第 25 集画面",
         "source": "https://tv.cctv.com/2010/01/07/VIDE1354264523246389.shtml"
       },
@@ -350,7 +350,7 @@ window.ARCHIVE={
       "catalogSource": "https://baike.baidu.com/item/神探狄仁杰第二部",
       "gallery": [
         {
-          "path": "portraits/likai.jpg",
+          "path": "portraits/likai.webp",
           "label": "李楷固 · 本案角色照",
           "source": "https://baike.baidu.com/item/李楷固"
         }
@@ -361,7 +361,7 @@ window.ARCHIVE={
       ],
       "range": "1–13",
       "cover": {
-        "path": "portraits/likai.jpg",
+        "path": "portraits/likai.webp",
         "label": "李楷固 · 本案角色照",
         "source": "https://baike.baidu.com/item/李楷固"
       },
@@ -428,7 +428,7 @@ window.ARCHIVE={
       "catalogSource": "https://baike.baidu.com/item/神探狄仁杰第二部",
       "gallery": [
         {
-          "path": "portraits/虺文忠.jpg",
+          "path": "portraits/虺文忠.webp",
           "label": "虺文忠 · 本案角色照",
           "source": "https://baike.baidu.com/item/%E8%99%BA%E6%96%87%E5%BF%A0"
         }
@@ -439,7 +439,7 @@ window.ARCHIVE={
       ],
       "range": "14–29",
       "cover": {
-        "path": "portraits/虺文忠.jpg",
+        "path": "portraits/虺文忠.webp",
         "label": "虺文忠 · 本案角色照",
         "source": "https://baike.baidu.com/item/%E8%99%BA%E6%96%87%E5%BF%A0"
       },
@@ -496,7 +496,7 @@ window.ARCHIVE={
       "catalogSource": "https://baike.baidu.com/item/神探狄仁杰第二部",
       "gallery": [
         {
-          "path": "portraits/锦娘.jpg",
+          "path": "portraits/锦娘.webp",
           "label": "锦娘 · 本案角色照",
           "source": "https://baike.baidu.com/item/%E9%94%A6%E5%A8%98"
         }
@@ -507,7 +507,7 @@ window.ARCHIVE={
       ],
       "range": "30–40",
       "cover": {
-        "path": "portraits/锦娘.jpg",
+        "path": "portraits/锦娘.webp",
         "label": "锦娘 · 本案角色照",
         "source": "https://baike.baidu.com/item/%E9%94%A6%E5%A8%98"
       },
@@ -576,37 +576,37 @@ window.ARCHIVE={
       "catalogSource": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
       "gallery": [
         {
-          "path": "portraits/小桃-2.jpg",
+          "path": "portraits/小桃-2.webp",
           "label": "小桃 · 本案角色照",
           "source": "https://baike.baidu.com/item/%E5%B0%8F%E6%A1%83"
         },
         {
-          "path": "stills/three-1.jpg",
+          "path": "stills/three-1.webp",
           "label": "第 1 集画面",
           "source": "https://tv.cctv.com/2010/01/08/VIDE1355678987877709.shtml"
         },
         {
-          "path": "stills/three-2.jpg",
+          "path": "stills/three-2.webp",
           "label": "第 2 集画面",
           "source": "https://tv.cctv.com/2010/01/08/VIDE1355678992533897.shtml"
         },
         {
-          "path": "stills/three-7.jpg",
+          "path": "stills/three-7.webp",
           "label": "第 7 集画面",
           "source": "https://tv.cctv.com/2010/01/08/VIDE1355678983040529.shtml"
         },
         {
-          "path": "stills/three-11.jpg",
+          "path": "stills/three-11.webp",
           "label": "第 11 集画面",
           "source": "https://tv.cctv.com/2009/12/18/VIDE1355678999409168.shtml"
         },
         {
-          "path": "stills/three-12.jpg",
+          "path": "stills/three-12.webp",
           "label": "第 12 集画面",
           "source": "https://tv.cctv.com/2010/01/08/VIDE1355678959897198.shtml"
         },
         {
-          "path": "stills/three-18.jpg",
+          "path": "stills/three-18.webp",
           "label": "第 18 集画面",
           "source": "https://tv.cctv.com/2009/12/18/VIDE1355678950719760.shtml"
         }
@@ -617,7 +617,7 @@ window.ARCHIVE={
       ],
       "range": "1–18",
       "cover": {
-        "path": "portraits/小桃-2.jpg",
+        "path": "portraits/小桃-2.webp",
         "label": "小桃 · 本案角色照",
         "source": "https://baike.baidu.com/item/%E5%B0%8F%E6%A1%83"
       },
@@ -706,42 +706,42 @@ window.ARCHIVE={
       "catalogSource": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
       "gallery": [
         {
-          "path": "stills/three-25.jpg",
+          "path": "stills/three-25.webp",
           "label": "第 25 集画面",
           "source": "https://tv.cctv.com/2010/01/08/VIDE1355678956022984.shtml"
         },
         {
-          "path": "stills/three-26.jpg",
+          "path": "stills/three-26.webp",
           "label": "第 26 集画面",
           "source": "https://tv.cctv.com/2009/12/18/VIDE1355678964919275.shtml"
         },
         {
-          "path": "stills/three-34.jpg",
+          "path": "stills/three-34.webp",
           "label": "第 34 集画面",
           "source": "https://tv.cctv.com/2009/12/18/VIDE1355678977767481.shtml"
         },
         {
-          "path": "stills/three-37.jpg",
+          "path": "stills/three-37.webp",
           "label": "第 37 集画面",
           "source": "https://tv.cctv.com/2009/12/18/VIDE1355678963882259.shtml"
         },
         {
-          "path": "stills/three-42.jpg",
+          "path": "stills/three-42.webp",
           "label": "第 42 集画面",
           "source": "https://tv.cctv.com/2020/08/11/VIDEqYcMSdCCUXds6wn3G67d200811.shtml"
         },
         {
-          "path": "stills/three-43.jpg",
+          "path": "stills/three-43.webp",
           "label": "第 43 集画面",
           "source": "https://tv.cctv.com/2009/12/18/VIDE1355678969691355.shtml"
         },
         {
-          "path": "stills/three-45.jpg",
+          "path": "stills/three-45.webp",
           "label": "第 45 集画面",
           "source": "https://tv.cctv.com/2010/01/08/VIDE1355678971749387.shtml"
         },
         {
-          "path": "stills/three-47.jpg",
+          "path": "stills/three-47.webp",
           "label": "第 47 集画面",
           "source": "https://tv.cctv.com/2010/01/11/VIDE1355678960917214.shtml"
         }
@@ -752,7 +752,7 @@ window.ARCHIVE={
       ],
       "range": "19–48",
       "cover": {
-        "path": "stills/three-42.jpg",
+        "path": "stills/three-42.webp",
         "label": "第 42 集画面",
         "source": "https://tv.cctv.com/2020/08/11/VIDEqYcMSdCCUXds6wn3G67d200811.shtml"
       },
@@ -826,13 +826,13 @@ window.ARCHIVE={
       "catalogSource": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "gallery": [
         {
-          "path": "portraits/沙尔汗.jpg",
+          "path": "portraits/沙尔汗.webp",
           "label": "沙尔汗 · 本案角色照",
           "source": "https://baike.baidu.com/item/%E6%B2%99%E5%B0%94%E6%B1%97"
         }
       ],
       "cover": {
-        "path": "portraits/沙尔汗.jpg",
+        "path": "portraits/沙尔汗.webp",
         "label": "沙尔汗 · 本案角色照",
         "source": "https://baike.baidu.com/item/%E6%B2%99%E5%B0%94%E6%B1%97"
       },
@@ -918,7 +918,7 @@ window.ARCHIVE={
       "catalogSource": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "gallery": [
         {
-          "path": "portraits/武元敏.jpg",
+          "path": "portraits/武元敏.webp",
           "label": "武元敏 · 本案角色照",
           "source": "https://baike.baidu.com/item/%E6%AD%A6%E5%85%83%E6%95%8F"
         },
@@ -929,7 +929,7 @@ window.ARCHIVE={
         }
       ],
       "cover": {
-        "path": "portraits/武元敏.jpg",
+        "path": "portraits/武元敏.webp",
         "label": "武元敏 · 本案角色照",
         "source": "https://baike.baidu.com/item/%E6%AD%A6%E5%85%83%E6%95%8F"
       },
@@ -967,7 +967,7 @@ window.ARCHIVE={
       ],
       "role": "钦差与宰相",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/di.jpg",
+      "photo": "portraits/di.webp",
       "photoSource": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "spoiler": "在使团案中识破虎敬晖与金木兰；随后揭破蛇灵、黑衣社和铁手团的布局。《神断》中蒙冤脱身，最终还原金银失窃与月氏王室旧事。",
       "faction": "朝廷／调查方",
@@ -1006,7 +1006,7 @@ window.ARCHIVE={
       ],
       "role": "狄公卫队长",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/yuanfang.jpg",
+      "photo": "portraits/yuanfang.webp",
       "photoSource": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "spoiler": "漕渠案中受伤失忆，被小清救起，恢复记忆后追查铁手团；在西行险局中保护和亲使团，击败乌勒质并协助揭破月氏阴谋。",
       "faction": "朝廷／调查方",
@@ -1042,7 +1042,7 @@ window.ARCHIVE={
       ],
       "role": "武周皇帝",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "stills/one-26.jpg",
+      "photo": "stills/one-26.webp",
       "photoSource": "https://tv.cctv.com/2010/01/07/VIDE1354264434506453.shtml",
       "spoiler": "无头将军与蛇灵布局都指向皇权；《神断》中又因伪证怀疑狄仁杰。狄公通过查清证据，使针对君臣关系的离间不能得逞。",
       "faction": "武周朝廷",
@@ -1079,7 +1079,7 @@ window.ARCHIVE={
       ],
       "role": "狄公门生",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/曾泰.jpg",
+      "photo": "portraits/曾泰.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%9B%BE%E6%B3%B0",
       "spoiler": "曾有梅花内卫经历，经狄公开导后转而协助调查。黑衣社案中封锁州境，阻止失饷外运；此后继续参与漕渠和西行案件。",
       "faction": "朝廷／调查方",
@@ -1112,7 +1112,7 @@ window.ARCHIVE={
       ],
       "role": "狄府管家",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/狄春-1.jpg",
+      "photo": "portraits/狄春-1.webp",
       "photoSource": "https://baike.baidu.com/item/%E7%8B%84%E6%98%A5",
       "spoiler": "第二部开篇的狄春被蛇灵成员冒充，行为习惯的差异帮助狄公识破渗透；真假狄春应区分，不能把冒充者的行动算到管家本人身上。",
       "faction": "狄府／调查方",
@@ -1141,7 +1141,7 @@ window.ARCHIVE={
       ],
       "role": "狄公随行晚辈",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/ruyan.jpg",
+      "photo": "portraits/ruyan.webp",
       "photoSource": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "spoiler": "她原名苏显儿，是蛇灵六大蛇首中的变灵，奉命潜伏后转而帮助狄公，最终被正式认作侄女；这一身份变化与她对李元芳的感情密切相关。",
       "faction": "由蛇灵转向调查方",
@@ -1170,7 +1170,7 @@ window.ARCHIVE={
       ],
       "role": "随行将军",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/虎敬晖.jpg",
+      "photo": "portraits/虎敬晖.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%99%8E%E6%95%AC%E6%99%96",
       "spoiler": "他就是蝮蛇，与金木兰一方有联系；身份被识破后，他最终保护狄仁杰，并在与金木兰的冲突中身亡。不能只按“随行将军”把他归为单一阵营。",
       "faction": "身份与立场见剧透",
@@ -1194,7 +1194,7 @@ window.ARCHIVE={
       ],
       "role": "翌阳郡主",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-qingxia-20261113.jpg",
+      "photo": "portraits/checked-qingxia-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "李青霞即金木兰，是幽州阴谋的重要主使，和虎敬晖的关系牵动案情；她利用郡主身份掩护行动，并企图借两国冲突推翻武周。",
       "faction": "身份与立场见剧透",
@@ -1225,7 +1225,7 @@ window.ARCHIVE={
       ],
       "role": "右威卫大将军",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-wang-20261113.jpg",
+      "photo": "portraits/checked-wang-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "崇州案中遭奸细陷害并落入敌手，获救后帮助查明败局；《神断》中参与围捕洛阳潜伏者并守卫敦煌，对抗贺鲁一方的军事行动。",
       "faction": "武周军方",
@@ -1253,7 +1253,7 @@ window.ARCHIVE={
       ],
       "role": "将作大监",
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/沙尔汗.jpg",
+      "photo": "portraits/沙尔汗.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%B2%99%E5%B0%94%E6%B1%97",
       "spoiler": "沙尔汗、亚喀与塞班是相貌相同的兄弟，不能只因同一演员就合为一人；假死、替身及冒充忠节构成金银案与月氏复仇局的重要手法。",
       "faction": "王室旧案与金银阴谋",
@@ -1278,7 +1278,7 @@ window.ARCHIVE={
       "keys": "方谦 刘金 幽州刺史 刘金",
       "sigil": "方",
       "source": "https://baike.baidu.com/item/刘金/58950175",
-      "photo": "portraits/checked-fangqian-20261113.jpg",
+      "photo": "portraits/checked-fangqian-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "方谦即逃犯刘金，曾以人皮面具用刘金身份被捕，另有人冒充方谦任职；假方谦死后，从密道出现并声称被囚三年的人仍是刘金，最终被虎敬晖灭口。不能再增一个无辜的“真方谦”。",
       "faction": "身份与立场见剧透",
@@ -1310,7 +1310,7 @@ window.ARCHIVE={
       "keys": "吴益之 幽州司马",
       "sigil": "吴",
       "source": "https://baike.baidu.com/item/吴益之/58634716",
-      "photo": "portraits/checked-wuyizhi-20261113.jpg",
+      "photo": "portraits/checked-wuyizhi-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "与冒名方谦的一方勾结，涉及慰抚款和对证人的灭口谋划；最终阴谋败露。其身份为幽州司马，不应仅笼统标作“幽州官署”。",
       "faction": "幽州阴谋一方",
@@ -1340,7 +1340,7 @@ window.ARCHIVE={
       "keys": "吉利可汗 李二 突厥可汗 李二",
       "sigil": "吉",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-jili-20261113.jpg",
+      "photo": "portraits/checked-jili-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "第一部中流落幽州并获狄公救助的李二，就是吉利可汗，不再重复建人。《神断》中被假黄金大盘暗藏的毒箭所害，贺鲁趁机夺权；第一部莫度与第二部默啜不是同一人。",
       "faction": "突厥和议派",
@@ -1376,7 +1376,7 @@ window.ARCHIVE={
       "keys": "刘查礼 湖州刘氏家主",
       "sigil": "刘",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-liuchali-20261113.jpg",
+      "photo": "portraits/checked-liuchali-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "刘家父子及莹玉的关系中包含隐瞒和伤害；《蓝衫记》又牵涉越王旧藏，狄公需要同时查家事与外来势力，不能把全部命案只归于争风吃醋。",
       "faction": "刘府／卷入夺书案",
@@ -1402,7 +1402,7 @@ window.ARCHIVE={
       "keys": "刘传林 刘查礼之子",
       "sigil": "刘",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/刘传林.jpg",
+      "photo": "portraits/刘传林.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%88%98%E4%BC%A0%E6%9E%97",
       "spoiler": "他的经历使狄公重审刘府看似已经有结论的命案，并循莹玉及刘查礼的说法查到《蓝衫记》；人物生死与行迹须随案情逐层辨认。",
       "faction": "刘府／家宅命案",
@@ -1426,7 +1426,7 @@ window.ARCHIVE={
       "keys": "莹玉 刘府年轻女子",
       "sigil": "莹",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/方莹玉.jpg",
+      "photo": "portraits/方莹玉.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%96%B9%E8%8E%B9%E7%8E%89",
       "spoiler": "她与刘家父子的关系牵涉感情与隐瞒，帮助狄公重新理解家宅命案；人物常见名称为莹玉或方莹玉，两者在本站合为同一档案。",
       "faction": "刘府／家宅命案",
@@ -1450,7 +1450,7 @@ window.ARCHIVE={
       "keys": "许世德 内卫办案人员",
       "sigil": "许",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/许世德.jpg",
+      "photo": "portraits/许世德.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%AE%B8%E4%B8%96%E5%BE%B7",
       "spoiler": "他借越王旧事和《蓝衫记》追查旧藏，并试图构陷李显；内卫身份不能证明其行为正当，最终被狄公揭破谋划。",
       "faction": "内卫身份下的夺书者",
@@ -1474,7 +1474,7 @@ window.ARCHIVE={
       "keys": "刘大 刘府管家",
       "sigil": "刘",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-liuda-20261113.jpg",
+      "photo": "portraits/checked-liuda-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "刘府中人与主人并非共享同一动机；有关家宅命案和夺书的供述，需同许世德一线分别辨明，不把仆役身份直接等同于全部阴谋的主使。",
       "faction": "刘府",
@@ -1501,7 +1501,7 @@ window.ARCHIVE={
       "keys": "李显 武周太子",
       "sigil": "李",
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-lixian-20261117.jpg",
+      "photo": "portraits/checked-lixian-20261117.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "许世德试图用旧案构陷他，蛇灵又安排人员接近太子。不同资料对第二部演员记载有分歧，本站保留来源差异说明，不将李贤的身份移给李显。",
       "faction": "武周皇室",
@@ -1530,7 +1530,7 @@ window.ARCHIVE={
       "keys": "何云 飞龙使",
       "sigil": "何",
       "source": "https://ent.sina.cn/tv/2008-01-21/detail-icczmvun3670466.d.html",
-      "photo": "portraits/checked-heyun-20261113.jpg",
+      "photo": "portraits/checked-heyun-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "何云以飞龙使身份参与无头将军布局，与王知远、太平公主一线有关；他利用旧事和人员安排制造恐怖，案件指向人为操纵而非鬼神。",
       "faction": "宫廷阴谋一方",
@@ -1583,7 +1583,7 @@ window.ARCHIVE={
       "keys": "简小郎 高如进 江小郎 永昌县丞与旧案证人 高如进 江小郎",
       "sigil": "简",
       "source": "https://jingyan.baidu.com/article/27fa7326a1b1d307f8271fb9.html",
-      "photo": "portraits/checked-jianxiaolang-20261117.jpg",
+      "photo": "portraits/checked-jianxiaolang-20261117.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "高如进即简小郎，原版亦作江小郎，是同一人的化名。本站合并原先重复条目，旧的高如进链接仍可进入本档案；他参与散播怪谈，后指认相关人员。",
       "faction": "旧案参与者与证人",
@@ -1616,7 +1616,7 @@ window.ARCHIVE={
       "keys": "李楷固 右威卫右营将军",
       "sigil": "李",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/likai.jpg",
+      "photo": "portraits/likai.webp",
       "photoSource": "https://baike.baidu.com/item/李楷固",
       "spoiler": "在查清崇州败局和营救受困人员时协助狄公，识别军中内贼。契丹出身并不等于参与针对武周的阴谋。",
       "faction": "武周军方",
@@ -1639,7 +1639,7 @@ window.ARCHIVE={
       "keys": "赵文翙 营州大都督",
       "sigil": "赵",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/zhaowen.jpg",
+      "photo": "portraits/zhaowen.webp",
       "photoSource": "https://baike.baidu.com/item/赵文翙",
       "spoiler": "赵文翙的军队遭遇并非简单的个人失误，黄真及其他将领的行为需要单独核对；狄公查明失联和败局背后的人为安排。",
       "faction": "武周军方",
@@ -1662,7 +1662,7 @@ window.ARCHIVE={
       "keys": "丘静 崇州刺史",
       "sigil": "丘",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/qiujing.jpg",
+      "photo": "portraits/qiujing.webp",
       "photoSource": "https://baike.baidu.com/item/丘静",
       "spoiler": "实为内奸，与针对前线军队的阴谋相连；其官职是崇州刺史，不能只标作泛泛的地方官。其说法最终被狄公识破。",
       "faction": "身份与立场见剧透",
@@ -1711,7 +1711,7 @@ window.ARCHIVE={
       "keys": "袁天罡 司天监旧人",
       "sigil": "袁",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-yuantiangang-20261113.jpg",
+      "photo": "portraits/checked-yuantiangang-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "袁天罡是蛇灵创始人，与肖清芳争夺组织控制；他利用替身及所谓异象布局，企图借洛河谋害武则天。",
       "faction": "蛇灵旧主",
@@ -1736,7 +1736,7 @@ window.ARCHIVE={
       "keys": "虺文忠 江湖高手",
       "sigil": "虺",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/虺文忠.jpg",
+      "photo": "portraits/虺文忠.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%99%BA%E6%96%87%E5%BF%A0",
       "spoiler": "蛇灵六大蛇首之首闪灵，与袁天罡的谋划相关，最终与李元芳交锋而亡；他的帮助和情报不能直接视作向狄公归顺。",
       "faction": "蛇灵",
@@ -1759,7 +1759,7 @@ window.ARCHIVE={
       "keys": "小梅 蛇灵追踪中的女子",
       "sigil": "小",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/小梅.jpg",
+      "photo": "portraits/小梅.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%B0%8F%E6%A2%85",
       "spoiler": "小梅与小凤合为血灵，并非一个始终无辜的被追杀者。姐妹与蛇灵行动相关，身份揭明后分别走向不同结局。",
       "faction": "身份与立场见剧透",
@@ -1808,7 +1808,7 @@ window.ARCHIVE={
       "keys": "鲁成 袁天罡相关人物",
       "sigil": "鲁",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-lucheng-20261113.jpg",
+      "photo": "portraits/checked-lucheng-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "他是袁天罡的替身，并非蛇灵创始人本人；被肖清芳杀害。相貌相似应作为调查线索，而不是合并两人的依据。",
       "faction": "蛇灵替身一线",
@@ -1834,7 +1834,7 @@ window.ARCHIVE={
       "keys": "薛青麟 赵富才 假薛青麟 平南侯 赵富才 假薛青麟",
       "sigil": "薛",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/薛青麟.jpg",
+      "photo": "portraits/薛青麟.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%96%9B%E9%9D%92%E9%BA%9F",
       "spoiler": "现任平南侯实为冒名者赵富才；林永忠才是真薛青麟。侯府中的灭口与旧案隐瞒相连，不能把两人的经历混写。",
       "faction": "身份与立场见剧透",
@@ -1860,7 +1860,7 @@ window.ARCHIVE={
       "keys": "锦娘 侯府出逃女子",
       "sigil": "锦",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/锦娘.jpg",
+      "photo": "portraits/锦娘.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%94%A6%E5%A8%98",
       "spoiler": "她是林永忠的女儿，与父亲寻找旧案证据及复仇一线相连；并非与平南侯府偶然发生纠纷的路人。",
       "faction": "旧案受害者家属",
@@ -1884,7 +1884,7 @@ window.ARCHIVE={
       "keys": "林永忠 江州长史",
       "sigil": "林",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-linyongzhong-20261113.jpg",
+      "photo": "portraits/checked-linyongzhong-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "他是真正的薛青麟，围绕被夺走的身份与女儿锦娘展开复仇；调查中须分开判断其受害经历和亲手参与的命案。",
       "faction": "身份与立场见剧透",
@@ -1910,7 +1910,7 @@ window.ARCHIVE={
       "keys": "温开 江州刺史",
       "sigil": "温",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-wenkai-20261113.jpg",
+      "photo": "portraits/checked-wenkai-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "他有内卫阁领身份，小云是潜入侯府的内卫人员；寻找密信既是查案行动，也与朝廷对旧案的处置有关。不同来源对其演员名字有差异，本站另列说明。",
       "faction": "朝廷／地方官署与内卫",
@@ -1936,7 +1936,7 @@ window.ARCHIVE={
       "keys": "杜二 平南侯府管家",
       "sigil": "杜",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/verified-duer-20261112.jpg",
+      "photo": "portraits/verified-duer-20261112.webp",
       "photoSource": "https://baike.baidu.com/item/杜二/65744850",
       "photoLabel": "原剧角色画面",
       "spoiler": "替冒名平南侯一方行事。侯府眼前的欺压与十年前身份替换的真相应分层展开，不应把杜二写成旧案的唯一主谋。",
@@ -1960,7 +1960,7 @@ window.ARCHIVE={
       "keys": "小云 侯府寻信女子",
       "sigil": "小",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-xiaoyun-20261113.jpg",
+      "photo": "portraits/checked-xiaoyun-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "小云是内卫人员，与温开一线相关；她与锦娘都在寻信，并不意味着她们属于同一阵营或具有同一种复仇动机。",
       "faction": "身份与立场见剧透",
@@ -1985,7 +1985,7 @@ window.ARCHIVE={
       "keys": "冯万春 江州旧案知情者",
       "sigil": "冯",
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-fengwanchun-20261113.jpg",
+      "photo": "portraits/checked-fengwanchun-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "曾任江州长史，参与黄国公冤案，后来出家。其被追索与旧案参与者连续遇害相连，不能只写成毫无利害的普通证人。",
       "faction": "旧案参与者",
@@ -2010,7 +2010,7 @@ window.ARCHIVE={
       "keys": "小桃 凉州同行少女",
       "sigil": "小",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/小桃-2.jpg",
+      "photo": "portraits/小桃-2.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%B0%8F%E6%A1%83",
       "spoiler": "小桃就是黑衣天王，黑衣社首领；薇儿为乾位圣骑士。两人的真实立场与表面接近狄公的行为不同，组织败露后同亡。",
       "faction": "身份与立场见剧透",
@@ -2033,7 +2033,7 @@ window.ARCHIVE={
       "keys": "薇儿 洪家堡相关女子",
       "sigil": "薇",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/薇儿.jpg",
+      "photo": "portraits/薇儿.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%96%87%E5%84%BF",
       "spoiler": "薇儿是黑衣社乾位圣骑士，接近狄公带有组织任务；与小桃一同走向败亡。人物关系须同王氏兄弟及燕儿分别辨明。",
       "faction": "身份与立场见剧透",
@@ -2056,7 +2056,7 @@ window.ARCHIVE={
       "keys": "王锴 凉州归义伯",
       "sigil": "王",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-wangkai-20261113.jpg",
+      "photo": "portraits/checked-wangkai-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "他与黑衣社为敌，并安排梅香刺探组织；其弟王蔷却是黑衣社坤位圣骑士。兄弟立场相异，构成洪家堡线索的重要反转。",
       "faction": "洪家堡／黑衣社对立方",
@@ -2081,7 +2081,7 @@ window.ARCHIVE={
       "keys": "王蔷 王锴之弟",
       "sigil": "王",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-wangqiang-20261113.jpg",
+      "photo": "portraits/checked-wangqiang-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "他是黑衣社坤位圣骑士，参与组织行动，最终在黑暗之山被捕；与哥哥王锴并不属于同一阵营。",
       "faction": "身份与立场见剧透",
@@ -2106,7 +2106,7 @@ window.ARCHIVE={
       "keys": "房哲 铁甲军统帅",
       "sigil": "房",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-fangzhe-20261113.jpg",
+      "photo": "portraits/checked-fangzhe-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "其副将廖文清是黑衣社内奸。铁甲军所见异常与黑衣社布局有关，不能只归因于地震或把统帅和内奸当成同一阵营。",
       "faction": "武周军方",
@@ -2131,7 +2131,7 @@ window.ARCHIVE={
       "keys": "廖文清 房哲副将",
       "sigil": "廖",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-liaowenqing-20261113.jpg",
+      "photo": "portraits/checked-liaowenqing-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "廖文清是黑衣社安插在押运军中的内奸，利用副将身份参与布局；地方官署与军中内应是两种不同关系，应明确区分。",
       "faction": "身份与立场见剧透",
@@ -2156,7 +2156,7 @@ window.ARCHIVE={
       "keys": "小清（葛亚清） 葛亚清 小清 葛天霸幼女 葛亚清 小清",
       "sigil": "小",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "stills/three-34.jpg",
+      "photo": "stills/three-34.webp",
       "photoSource": "https://tv.cctv.com/2009/12/18/VIDE1355678977767481.shtml",
       "photoFocus": "85% 25%",
       "spoiler": "她被铁手团杀手龙风所害，促使葛天霸和云姑改变立场；与姐姐外貌相同，不应混为同一人物或给两人分配相同经历。",
@@ -2183,7 +2183,7 @@ window.ARCHIVE={
       "keys": "云姑（葛亚云） 葛亚云 云姑 葛天霸长女 葛亚云 云姑",
       "sigil": "云",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/云姑.jpg",
+      "photo": "portraits/云姑.webp",
       "photoSource": "https://baike.baidu.com/item/%E4%BA%91%E5%A7%91",
       "spoiler": "原为铁手团杀手，因小清遇害转而帮助狄公，最终与李元芳合力对抗宗主元齐；她的转变不同于小清始终救助元芳的经历。",
       "faction": "由铁手团转向调查方",
@@ -2209,7 +2209,7 @@ window.ARCHIVE={
       "keys": "葛天霸 卧虎庄庄主",
       "sigil": "葛",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-getianba-20261113.jpg",
+      "photo": "portraits/checked-getianba-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "曾受铁手团控制，后因小清被害而转向帮助调查；其父女关系不能抹去此前的组织联系，也不能将后来的协助当作从未参与过阴谋。",
       "faction": "立场变化见剧透",
@@ -2234,7 +2234,7 @@ window.ARCHIVE={
       "keys": "鲁吉英 山阳县令",
       "sigil": "鲁",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/鲁吉英.jpg",
+      "photo": "portraits/鲁吉英.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%B2%81%E5%90%89%E8%8B%B1",
       "spoiler": "又名林阳，是铁手团重要成员，参与杀害并构陷李翰的谋划。其与调查者同行的行为带有误导目的，不能仅归作地方协查官。",
       "faction": "身份与立场见剧透",
@@ -2284,7 +2284,7 @@ window.ARCHIVE={
       "keys": "宁氏 宁无双 李翰之妻 宁无双",
       "sigil": "宁",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-ningshi-20261113.jpg",
+      "photo": "portraits/checked-ningshi-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "面对鲁吉英手下的诱骗时作出识别，协助狄公揭破李翰遭杀害及构陷的经过；与曲栅栅饰演的如燕是不同角色，不能因演员相同而混写。",
       "faction": "受害者家属／调查方",
@@ -2311,7 +2311,7 @@ window.ARCHIVE={
       "keys": "何五奇 扬州盐商",
       "sigil": "何",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-hezhiqi-20261113.jpg",
+      "photo": "portraits/checked-hezhiqi-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "其不法盐业活动及与阎小玉的关系牵涉黑吃黑命案，文清一线利用杀人和嫁祸控制财物；最终成为利益争夺的受害者。",
       "faction": "扬州盐业利益一方",
@@ -2336,7 +2336,7 @@ window.ARCHIVE={
       "keys": "何夫人 李紫君 何五奇之妻 李紫君",
       "sigil": "何",
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-hefu-20261113.jpg",
+      "photo": "portraits/checked-hefu-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "她是李紫君，不应另增一个同名之外的“何夫人”重复计算；何家命案需同文清、阎小玉及财物去向一起审视。",
       "faction": "何府",
@@ -2393,7 +2393,7 @@ window.ARCHIVE={
       "keys": "武元敏 南平郡王之女",
       "sigil": "武",
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/武元敏.jpg",
+      "photo": "portraits/武元敏.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%AD%A6%E5%85%83%E6%95%8F",
       "spoiler": "识见沙府以银铸车壁的动作；西行后经历吉利可汗被害和使团突围，最终与武攸德决裂，认狄公为义父。",
       "faction": "和亲使团／调查方",
@@ -2417,7 +2417,7 @@ window.ARCHIVE={
       "keys": "武攸德 南平郡王 南山",
       "sigil": "武",
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/checked-wuyoude-20261113.jpg",
+      "photo": "portraits/checked-wuyoude-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "他就是内奸南山，与贺鲁、沙府一线勾结，借和亲等安排自保并构陷狄仁杰；最终身份和罪行被揭破。",
       "faction": "身份与立场见剧透",
@@ -2446,7 +2446,7 @@ window.ARCHIVE={
       "keys": "钟五娘 沙尔汗之妻",
       "sigil": "钟",
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/钟五娘.jpg",
+      "photo": "portraits/钟五娘.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%92%9F%E4%BA%94%E5%A8%98",
       "spoiler": "在狄公蒙冤受困后设法相救，并帮助辨认沙府内情；沙尔汗与兄弟的替身活动不能直接等同于她也参与谋划。",
       "faction": "沙府家属／帮助调查者",
@@ -2470,7 +2470,7 @@ window.ARCHIVE={
       "keys": "贺鲁 突勒主战派王子",
       "sigil": "贺",
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/checked-helu-20261113.jpg",
+      "photo": "portraits/checked-helu-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "与武攸德等内应勾结，围绕假黄金大盘和寿宴夺权，吉利可汗遇害后率军攻击使团；最终计划被破。",
       "faction": "突勒主战派",
@@ -2496,7 +2496,7 @@ window.ARCHIVE={
       "keys": "有则理惠 日本遣唐使团武士",
       "sigil": "有",
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/checked-lihui-20261113.jpg",
+      "photo": "portraits/checked-lihui-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "她与义直古麻吕先有释放贺鲁、乌勒质的行动，后来在突勒牙帐危局中保护武元敏、帮助使团突围；前后选择应分开说明。",
       "faction": "日本遣唐使团",
@@ -2522,7 +2522,7 @@ window.ARCHIVE={
       "keys": "乌勒质 贺鲁麾下驭风者首领",
       "sigil": "乌",
       "source": "https://baike.baidu.com/item/乌勒质/8990053",
-      "photo": "portraits/checked-wulezhi-20261113.jpg",
+      "photo": "portraits/checked-wulezhi-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "参与善金局血案及挟持狄公出城，后被押往突勒又获救；在吉利可汗遇害当夜攻击使团，最终被李元芳击杀。",
       "faction": "贺鲁／驭风者",
@@ -2548,7 +2548,7 @@ window.ARCHIVE={
       "keys": "娜鲁 月氏王后",
       "sigil": "娜",
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/checked-nalu-20261113.jpg",
+      "photo": "portraits/checked-nalu-20261113.webp",
       "photoLabel": "原剧角色照",
       "spoiler": "与沙伯略旧王室有关，同沙尔汗一方的复仇安排相连，参与杀害差斥及其亲属；她与假忠节的关系是宫廷阴谋的关键。",
       "faction": "月氏王室复仇一线",
@@ -2608,7 +2608,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
       "reviewNote": "与张春相关的狱中情节归蓝衫记，非幽州线；仅凭系列汇总表不能推定登场单元。",
-      "photo": "portraits/checked-wangwu-20261113.jpg",
+      "photo": "portraits/checked-wangwu-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E7%8E%8B%E4%BA%94/62181914",
       "photoLabel": "原剧角色照"
     },
@@ -2633,7 +2633,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-yufeng-20261113.jpg",
+      "photo": "portraits/checked-yufeng-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E4%BA%8E%E9%A3%8E/1939945",
       "photoLabel": "原剧角色照"
     },
@@ -2658,7 +2658,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-ludayou-20261113.jpg",
+      "photo": "portraits/checked-ludayou-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%99%86%E5%A4%A7%E6%9C%89/50910712",
       "photoLabel": "原剧角色照"
     },
@@ -2683,7 +2683,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-zhanglaosi-20261113.jpg",
+      "photo": "portraits/checked-zhanglaosi-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BC%A0%E8%80%81%E5%9B%9B/62241841",
       "photoLabel": "原剧角色照"
     },
@@ -2722,7 +2722,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
       "reviewNote": "不同部演员分别列出；案件关联包含朝廷层面的相关事务，不表示每集均出场。",
-      "photo": "portraits/checked-zhangjianzhi-20261113.jpg",
+      "photo": "portraits/checked-zhangjianzhi-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BC%A0%E6%9F%AC%E4%B9%8B/65484885",
       "photoLabel": "原剧角色照"
     },
@@ -2752,7 +2752,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-wusansi-20261113.jpg",
+      "photo": "portraits/checked-wusansi-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%AD%A6%E4%B8%89%E6%80%9D/65484894",
       "photoLabel": "原剧角色照"
     },
@@ -2777,7 +2777,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-ligui-20261113.jpg",
+      "photo": "portraits/checked-ligui-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%9D%8E%E8%A7%84/53128242",
       "photoLabel": "原剧角色照"
     },
@@ -2803,7 +2803,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
       "reviewNote": "与王五相关的狱中情节归蓝衫记，非幽州线；现有演员表未充分注明其职务。",
-      "photo": "portraits/checked-zhangchun-20261113.jpg",
+      "photo": "portraits/checked-zhangchun-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BC%A0%E6%98%A5/62181881",
       "photoLabel": "原剧角色照"
     },
@@ -2828,7 +2828,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-taiping-20261113.jpg",
+      "photo": "portraits/checked-taiping-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%A4%AA%E5%B9%B3%E5%85%AC%E4%B8%BB/62194470",
       "photoLabel": "原剧角色照"
     },
@@ -2853,7 +2853,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-wangzhiyuan-20261113.jpg",
+      "photo": "portraits/checked-wangzhiyuan-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E7%8E%8B%E7%9F%A5%E8%BF%9C/10258866",
       "photoLabel": "原剧角色照"
     },
@@ -2878,7 +2878,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
-      "photo": "portraits/checked-pangjiugong-20261113.jpg",
+      "photo": "portraits/checked-pangjiugong-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BA%9E%E4%B9%9D%E5%85%AC/58985371",
       "photoLabel": "原剧角色照"
     },
@@ -2904,7 +2904,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
       "reviewNote": "演员另见陈瑞、陈燃写法，待片尾字幕核对。",
-      "photo": "portraits/checked-chunxiang-20261117.jpg",
+      "photo": "portraits/checked-chunxiang-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/春香/62181765",
       "photoLabel": "原剧角色照"
     },
@@ -2928,7 +2928,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-quanshancai-20261113.jpg",
+      "photo": "portraits/checked-quanshancai-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%9D%83%E5%96%84%E6%89%8D/58953421",
       "photoLabel": "原剧角色照"
     },
@@ -2961,7 +2961,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-zhanghuan-20261113.jpg",
+      "photo": "portraits/checked-zhanghuan-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BC%A0%E7%8E%AF/8469363",
       "photoLabel": "原剧角色照"
     },
@@ -2995,7 +2995,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
       "reviewNote": "第二、三、四部演员表对演员名和异名有分歧，所列姓名保留来源差异，不合并同演员的其他角色。",
-      "photo": "portraits/checked-lilang-20261113.jpg",
+      "photo": "portraits/checked-lilang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%9D%8E%E6%9C%97/4524343",
       "photoLabel": "原剧角色照"
     },
@@ -3020,7 +3020,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-yangfang-20261117.jpg",
+      "photo": "portraits/checked-yangfang-20261117.webp",
       "photoSource": "https://tv.cctv.com/2009/12/18/VIDE1355687010356117.shtml",
       "photoLabel": "原剧画面（右侧为杨方）",
       "photoFocus": true
@@ -3046,7 +3046,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-renkuo-20261113.jpg",
+      "photo": "portraits/checked-renkuo-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E4%BB%81%E9%98%94/8362068",
       "photoLabel": "原剧角色照"
     },
@@ -3070,7 +3070,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-mochuo-20261117.jpg",
+      "photo": "portraits/checked-mochuo-20261117.webp",
       "photoSource": "https://tv.cctv.com/2010/01/08/VIDE1355687041093667.shtml",
       "photoLabel": "原剧角色照"
     },
@@ -3095,7 +3095,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
       "reviewNote": "百度记丛林，维基记丛山，演员姓名待片尾复核。",
-      "photo": "portraits/checked-huangzhen-20261117.jpg",
+      "photo": "portraits/checked-huangzhen-20261117.webp",
       "photoSource": "https://tv.cctv.com/2009/12/18/VIDE1355686967625888.shtml",
       "photoLabel": "原剧角色照"
     },
@@ -3119,7 +3119,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-lichanghe-20261113.jpg",
+      "photo": "portraits/checked-lichanghe-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%9D%8E%E6%98%8C%E9%B9%A4/58633576",
       "photoLabel": "原剧角色照"
     },
@@ -3143,7 +3143,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-suhonghui-20261113.jpg",
+      "photo": "portraits/checked-suhonghui-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%8B%8F%E5%AE%8F%E6%99%96/58950169",
       "photoLabel": "原剧角色照"
     },
@@ -3167,7 +3167,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-harile-20261113.jpg",
+      "photo": "portraits/checked-harile-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%93%88%E6%97%A5%E5%8B%92/58554852",
       "photoLabel": "原剧角色照"
     },
@@ -3191,7 +3191,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-daleha-20261113.jpg",
+      "photo": "portraits/checked-daleha-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/神探狄仁杰第二部",
       "photoLabel": "原剧角色照"
     },
@@ -3215,7 +3215,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-songwuji-20261113.jpg",
+      "photo": "portraits/checked-songwuji-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/神探狄仁杰第二部",
       "photoLabel": "原剧角色照"
     },
@@ -3239,7 +3239,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-sunfujiang-20261117.jpg",
+      "photo": "portraits/checked-sunfujiang-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/孙副将/58633654",
       "photoLabel": "原剧角色照"
     },
@@ -3263,7 +3263,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-wuqishi-20261113.jpg",
+      "photo": "portraits/checked-wuqishi-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E4%B9%8C%E9%AA%91%E6%96%BD/58633471",
       "photoLabel": "原剧角色照"
     },
@@ -3288,7 +3288,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
       "reviewNote": "高鹏、高朋为参考表中的异写，待片尾核对。",
-      "photo": "portraits/checked-zhufeng-20261117.jpg",
+      "photo": "portraits/checked-zhufeng-20261117.webp",
       "photoSource": "https://tv.cctv.com/2009/12/18/VIDE1355687010356117.shtml",
       "photoLabel": "原剧画面（前景为朱风）"
     },
@@ -3334,7 +3334,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-huangshengyan-20261113.jpg",
+      "photo": "portraits/checked-huangshengyan-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%BB%84%E8%83%9C%E5%BD%A6/58563276",
       "photoLabel": "原剧角色照"
     },
@@ -3358,7 +3358,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-jingkong-20261113.jpg",
+      "photo": "portraits/checked-jingkong-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%9D%99%E7%A9%BA/58633562",
       "photoLabel": "原剧角色照"
     },
@@ -3382,7 +3382,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-suxianer-double-20261117.jpg",
+      "photo": "portraits/checked-suxianer-double-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/假苏显儿/64054499",
       "photoLabel": "原剧角色照"
     },
@@ -3406,7 +3406,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-wuxiang-20261113.jpg",
+      "photo": "portraits/checked-wuxiang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%90%B4%E7%A5%A5/59013038",
       "photoLabel": "原剧角色照"
     },
@@ -3430,7 +3430,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-huanbin-20261113.jpg",
+      "photo": "portraits/checked-huanbin-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%A1%93%E6%96%8C/5809005",
       "photoLabel": "原剧角色照"
     },
@@ -3454,7 +3454,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-xiaohui-20261113.jpg",
+      "photo": "portraits/checked-xiaohui-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%B0%8F%E6%85%A7/59008190",
       "photoLabel": "原剧角色照"
     },
@@ -3478,7 +3478,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-hanguang-abbot-20261113.jpg",
+      "photo": "portraits/checked-hanguang-abbot-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%AF%92%E5%85%89%E5%AF%BA%E6%96%B9%E4%B8%88/64069388",
       "photoLabel": "原剧角色照"
     },
@@ -3502,7 +3502,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-zhangyi-20261113.jpg",
+      "photo": "portraits/checked-zhangyi-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BC%A0%E4%B9%89/65507884",
       "photoLabel": "原剧角色照"
     },
@@ -3526,7 +3526,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-zhangxiangong-20261113.jpg",
+      "photo": "portraits/checked-zhangxiangong-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BC%A0%E8%B4%A4%E6%8B%B1/58826821",
       "photoLabel": "原剧角色照"
     },
@@ -3550,7 +3550,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-gebin-20261113.jpg",
+      "photo": "portraits/checked-gebin-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%91%9B%E6%96%8C/58820442",
       "photoLabel": "原剧角色照"
     },
@@ -3574,7 +3574,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-wushun-20261113.jpg",
+      "photo": "portraits/checked-wushun-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%90%B4%E9%A1%BA/58820431",
       "photoLabel": "原剧角色照"
     },
@@ -3598,7 +3598,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-huangwenyue-20261113.jpg",
+      "photo": "portraits/checked-huangwenyue-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%BB%84%E6%96%87%E8%B6%8A/58820545",
       "photoLabel": "原剧角色照"
     },
@@ -3624,7 +3624,7 @@ window.ARCHIVE={
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
       "reviewNote": "维基第二部表有此名，详细身份、亲缘及场景待核。",
       "caseAssociationStatus": "pending",
-      "photo": "portraits/checked-lanxiang-20261113.jpg",
+      "photo": "portraits/checked-lanxiang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%85%B0%E9%A6%99/65511063",
       "photoLabel": "原剧角色照"
     },
@@ -3648,7 +3648,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-lichangshi-20261113.jpg",
+      "photo": "portraits/checked-lichangshi-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%9D%8E%E9%95%BF%E5%8F%B2/58565422",
       "photoLabel": "原剧角色照"
     },
@@ -3672,7 +3672,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-xiaojuan-20261113.jpg",
+      "photo": "portraits/checked-xiaojuan-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%B0%8F%E5%A8%9F/58565443",
       "photoLabel": "原剧角色照"
     },
@@ -3696,7 +3696,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-cuihong-laobao-20261113.jpg",
+      "photo": "portraits/checked-cuihong-laobao-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E7%BF%A0%E7%BA%A2%E9%99%A2%E8%80%81%E9%B8%A8/64117210",
       "photoLabel": "原剧角色照"
     },
@@ -3720,7 +3720,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-fengyang-20261113.jpg",
+      "photo": "portraits/checked-fengyang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%A3%8E%E6%89%AC/58565356",
       "photoLabel": "原剧角色照"
     },
@@ -3744,7 +3744,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-jiawa-20261113.jpg",
+      "photo": "portraits/checked-jiawa-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E7%94%B2%E7%93%A6/58566151",
       "photoLabel": "原剧角色照"
     },
@@ -3768,7 +3768,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-lazha-20261113.jpg",
+      "photo": "portraits/checked-lazha-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%8B%89%E6%89%8E/61263548",
       "photoLabel": "原剧角色照"
     },
@@ -3792,7 +3792,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-panyue-20261113.jpg",
+      "photo": "portraits/checked-panyue-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%BD%98%E8%B6%8A/83735",
       "photoLabel": "原剧角色照"
     },
@@ -3816,7 +3816,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-qihu-20261113.jpg",
+      "photo": "portraits/checked-qihu-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%BD%90%E8%99%8E/8362660",
       "photoLabel": "原剧角色照"
     },
@@ -3841,7 +3841,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-shentao-20261117.jpg",
+      "photo": "portraits/checked-shentao-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/沈韬/2435944",
       "photoLabel": "原剧画面（右侧为沈韬）",
       "photoFocus": true
@@ -3867,7 +3867,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-xiaobao-20261113.jpg",
+      "photo": "portraits/checked-xiaobao-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%82%96%E8%B1%B9/8362943",
       "photoLabel": "原剧角色照"
     },
@@ -3912,7 +3912,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-yaner-20261113.jpg",
+      "photo": "portraits/checked-yaner-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E7%87%95%E5%84%BF/58566251",
       "photoLabel": "原剧角色照"
     },
@@ -3936,7 +3936,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-meixiang-20261113.jpg",
+      "photo": "portraits/checked-meixiang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%A2%85%E9%A6%99/58566221",
       "photoLabel": "原剧角色照"
     },
@@ -3960,7 +3960,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-wenqing-20261113.jpg",
+      "photo": "portraits/checked-wenqing-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%96%87%E6%B8%85/12016220",
       "photoLabel": "原剧角色照"
     },
@@ -3984,7 +3984,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-cuiliang-20261117.jpg",
+      "photo": "portraits/checked-cuiliang-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/崔亮/16399413",
       "photoLabel": "原剧角色照"
     },
@@ -4008,7 +4008,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-wuwendeng-20261113.jpg",
+      "photo": "portraits/checked-wuwendeng-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%90%B4%E6%96%87%E7%99%BB/19957562",
       "photoLabel": "原剧角色照"
     },
@@ -4032,7 +4032,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-fengkeyan-20261113.jpg",
+      "photo": "portraits/checked-fengkeyan-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%B0%81%E5%8F%AF%E8%A8%80/1139655",
       "photoLabel": "原剧角色照"
     },
@@ -4056,7 +4056,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-hejing-20261117.jpg",
+      "photo": "portraits/checked-hejing-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/何竟/58563317",
       "photoLabel": "原剧角色照"
     },
@@ -4080,7 +4080,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-gebiao-20261113.jpg",
+      "photo": "portraits/checked-gebiao-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%91%9B%E5%BD%AA/58608352",
       "photoLabel": "原剧角色照"
     },
@@ -4104,7 +4104,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-dengtong-20261113.jpg",
+      "photo": "portraits/checked-dengtong-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%82%93%E9%80%9A/58608745",
       "photoLabel": "原剧角色照"
     },
@@ -4128,7 +4128,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-sunxiwang-20261113.jpg",
+      "photo": "portraits/checked-sunxiwang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%AD%99%E5%96%9C%E6%9C%9B/58593684",
       "photoLabel": "原剧角色照"
     },
@@ -4152,7 +4152,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-yanxiaoyu-20261113.jpg",
+      "photo": "portraits/checked-yanxiaoyu-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%98%8E%E5%B0%8F%E7%8E%89/58608402",
       "photoLabel": "原剧角色照"
     },
@@ -4176,7 +4176,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-longfeng-20261113.jpg",
+      "photo": "portraits/checked-longfeng-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%BE%99%E9%A3%8E/10447126",
       "photoLabel": "原剧角色照"
     },
@@ -4200,7 +4200,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-fangjiu-20261117.jpg",
+      "photo": "portraits/checked-fangjiu-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/方九/58608513",
       "photoLabel": "原剧角色照"
     },
@@ -4224,7 +4224,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-pangsi-20261113.jpg",
+      "photo": "portraits/checked-pangsi-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BA%9E%E5%9B%9B/20717706",
       "photoLabel": "原剧角色照"
     },
@@ -4248,7 +4248,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-yangjiucheng-20261113.jpg",
+      "photo": "portraits/checked-yangjiucheng-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%9D%A8%E4%B9%9D%E6%88%90/58564164",
       "photoLabel": "原剧角色照"
     },
@@ -4272,7 +4272,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-pengchun-20261113.jpg",
+      "photo": "portraits/checked-pengchun-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BD%AD%E6%98%A5/58608520",
       "photoLabel": "原剧角色照"
     },
@@ -4296,7 +4296,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-jihu-20261113.jpg",
+      "photo": "portraits/checked-jihu-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%AD%A3%E8%99%8E/58608550",
       "photoLabel": "原剧角色照"
     },
@@ -4320,7 +4320,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-changmama-20261113.jpg",
+      "photo": "portraits/checked-changmama-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%B8%B8%E5%A6%88%E5%A6%88/58608581",
       "photoLabel": "原剧角色照"
     },
@@ -4344,7 +4344,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-wutouer-20261113.jpg",
+      "photo": "portraits/checked-wutouer-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%90%B4%E5%A4%B4%E5%84%BF/58608642",
       "photoLabel": "原剧角色照"
     },
@@ -4368,7 +4368,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-xiaolan-20261117.jpg",
+      "photo": "portraits/checked-xiaolan-20261117.webp",
       "photoSource": "https://tv.cctv.com/2010/01/08/VIDE1355678961918230.shtml",
       "photoLabel": "原剧画面（红衣女孩为小兰）",
       "photoFocus": true
@@ -4393,7 +4393,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-huyun-20261113.jpg",
+      "photo": "portraits/checked-huyun-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%99%8E%E4%BA%91/9841139",
       "photoLabel": "原剧角色照"
     },
@@ -4417,7 +4417,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-zhangshen-20261113.jpg",
+      "photo": "portraits/checked-zhangshen-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BC%A0%E4%BC%B8/58608716",
       "photoLabel": "原剧角色照"
     },
@@ -4441,7 +4441,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-wangzhou-20261113.jpg",
+      "photo": "portraits/checked-wangzhou-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E7%8E%8B%E5%91%A8/58608741",
       "photoLabel": "原剧角色照"
     },
@@ -4465,7 +4465,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-yuzhong-20261113.jpg",
+      "photo": "portraits/checked-yuzhong-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
       "photoLabel": "原剧角色照"
     },
@@ -4489,7 +4489,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-pengqiu-20261113.jpg",
+      "photo": "portraits/checked-pengqiu-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BD%AD%E7%A7%8B/58608790",
       "photoLabel": "原剧角色照"
     },
@@ -4513,7 +4513,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-guolaolu-20261113.jpg",
+      "photo": "portraits/checked-guolaolu-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%83%AD%E8%80%81%E9%B2%81/58608831",
       "photoLabel": "原剧角色照"
     },
@@ -4537,7 +4537,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-yanshoucheng-20261113.jpg",
+      "photo": "portraits/checked-yanshoucheng-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
       "photoLabel": "原剧角色照"
     },
@@ -4561,7 +4561,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-hekou-lizhang-20261113.jpg",
+      "photo": "portraits/checked-hekou-lizhang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%B2%B3%E5%8F%A3%E9%95%87%E9%87%8C%E9%95%BF/64504691",
       "photoLabel": "原剧角色照"
     },
@@ -4585,7 +4585,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-chuner-20261113.jpg",
+      "photo": "portraits/checked-chuner-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%98%A5%E5%84%BF/58609110",
       "photoLabel": "原剧角色照"
     },
@@ -4609,7 +4609,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-fengtuhu-20261113.jpg",
+      "photo": "portraits/checked-fengtuhu-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%86%AF%E5%B1%A0%E6%88%B7/58609140",
       "photoLabel": "原剧角色照"
     },
@@ -4634,7 +4634,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-yaochong-20261113.jpg",
+      "photo": "portraits/checked-yaochong-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%A7%9A%E5%B4%87/61260530",
       "photoLabel": "原剧角色照"
     },
@@ -4658,7 +4658,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-baochong-20261113.jpg",
+      "photo": "portraits/checked-baochong-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%B1%B9%E5%86%B2/58561437",
       "photoLabel": "原剧角色照"
     },
@@ -4683,7 +4683,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
       "reviewNote": "第三部表记周晓，系列汇总表记刘计划，演员姓名待片尾核对。",
-      "photo": "portraits/checked-jiaogang-20261113.jpg",
+      "photo": "portraits/checked-jiaogang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%9B%9F%E5%88%9A/58561478",
       "photoLabel": "原剧角色照"
     },
@@ -4707,7 +4707,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第三部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第三部/409912",
-      "photo": "portraits/checked-houqiang-20261113.jpg",
+      "photo": "portraits/checked-houqiang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E7%8A%BC%E5%BC%BA/58561496",
       "photoLabel": "原剧角色照"
     },
@@ -4733,7 +4733,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E4%BA%9A%E5%96%80/5527662",
-      "photo": "portraits/checked-yaka-20261113.jpg",
+      "photo": "portraits/checked-yaka-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E4%BA%9A%E5%96%80/5527662",
       "photoLabel": "原剧角色照"
     },
@@ -4759,7 +4759,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E5%A1%9E%E7%8F%AD/19916047",
-      "photo": "portraits/checked-saiban-20261113.jpg",
+      "photo": "portraits/checked-saiban-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%A1%9E%E7%8F%AD/19916047",
       "photoLabel": "原剧角色照"
     },
@@ -4784,7 +4784,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E5%BF%A0%E8%8A%82/1162592",
-      "photo": "portraits/checked-zhongjie-20261113.jpg",
+      "photo": "portraits/checked-zhongjie-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%BF%A0%E8%8A%82/1162592",
       "photoLabel": "原剧角色照"
     },
@@ -4809,7 +4809,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E6%B2%99%E4%BC%AF%E7%95%A5/9630420",
-      "photo": "portraits/checked-shabolue-20261113.jpg",
+      "photo": "portraits/checked-shabolue-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%B2%99%E4%BC%AF%E7%95%A5/9630420",
       "photoLabel": "原剧角色照"
     },
@@ -4835,7 +4835,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E4%B9%89%E7%9B%B4%E5%8F%A4%E9%BA%BB%E5%90%95/9631593",
-      "photo": "portraits/checked-zhigumalu-20261113.jpg",
+      "photo": "portraits/checked-zhigumalu-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E4%B9%89%E7%9B%B4%E5%8F%A4%E9%BA%BB%E5%90%95/9631593",
       "photoLabel": "原剧角色照"
     },
@@ -4860,7 +4860,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/checked-fenghuang-20261113.jpg",
+      "photo": "portraits/checked-fenghuang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%87%A4%E5%87%B0/5471780",
       "photoLabel": "原剧角色照"
     },
@@ -4885,7 +4885,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E8%B5%B5%E6%B0%B8%E8%8D%A3/9631031",
-      "photo": "portraits/checked-zhaoyongrong-20261113.jpg",
+      "photo": "portraits/checked-zhaoyongrong-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%B5%B5%E6%B0%B8%E8%8D%A3/9631031",
       "photoLabel": "原剧角色照"
     },
@@ -4911,7 +4911,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E6%98%A5%E7%BA%A2/62058297",
-      "photo": "portraits/checked-chunhong-20261113.jpg",
+      "photo": "portraits/checked-chunhong-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%98%A5%E7%BA%A2/62058297",
       "photoLabel": "原剧角色照"
     },
@@ -4937,7 +4937,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E5%A1%94%E5%85%8B/9953241",
-      "photo": "portraits/checked-take-20261113.jpg",
+      "photo": "portraits/checked-take-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%A1%94%E5%85%8B/9953241",
       "photoLabel": "原剧角色照"
     },
@@ -4962,7 +4962,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E9%93%81%E5%8B%92/10219014",
-      "photo": "portraits/checked-tiele-20261113.jpg",
+      "photo": "portraits/checked-tiele-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%93%81%E5%8B%92/10219014",
       "photoLabel": "原剧角色照"
     },
@@ -4988,7 +4988,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E8%97%A4%E5%8E%9F/1067815",
-      "photo": "portraits/checked-tengyuan-20261113.jpg",
+      "photo": "portraits/checked-tengyuan-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%97%A4%E5%8E%9F/1067815",
       "photoLabel": "原剧角色照"
     },
@@ -5014,7 +5014,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E9%BD%90%E6%A0%BC/2433858",
-      "photo": "portraits/checked-qige-20261113.jpg",
+      "photo": "portraits/checked-qige-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E9%BD%90%E6%A0%BC/2433858",
       "photoLabel": "原剧角色照"
     },
@@ -5040,7 +5040,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/%E8%B7%AF%E6%AD%A3/65490199",
       "reviewNote": "百度个人条目记内侍省监，维基演员表记礼部侍郎；不擅自决定其具体职名。",
-      "photo": "portraits/checked-luzheng-20261113.jpg",
+      "photo": "portraits/checked-luzheng-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%B7%AF%E6%AD%A3/65490199",
       "photoLabel": "原剧角色照"
     },
@@ -5066,7 +5066,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/%E6%8B%94%E6%B1%97%E9%82%A3/51049574",
       "reviewNote": "百度记杜昊，维基记陈奕霖，演员姓名待片尾核对。",
-      "photo": "portraits/checked-bahanna-20261113.jpg",
+      "photo": "portraits/checked-bahanna-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%8B%94%E6%B1%97%E9%82%A3/51049574",
       "photoLabel": "原剧角色照"
     },
@@ -5091,7 +5091,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E9%87%91%E7%8E%89%E7%BF%A0/22287",
-      "photo": "portraits/checked-jinyucui-20261113.jpg",
+      "photo": "portraits/checked-jinyucui-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/神探狄仁杰/576",
       "photoLabel": "原剧角色照"
     },
@@ -5117,7 +5117,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/%E7%90%BC%E5%A1%94/9658825",
       "reviewNote": "剧集演员表记刘文迪，百度个人条目记刘宣孜，待片尾核对。",
-      "photo": "portraits/checked-qiongta-20261113.jpg",
+      "photo": "portraits/checked-qiongta-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "photoLabel": "原剧角色照"
     },
@@ -5142,7 +5142,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E5%A7%94%E5%AE%83/9750053",
-      "photo": "portraits/checked-weita-20261113.jpg",
+      "photo": "portraits/checked-weita-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%A7%94%E5%AE%83/9750053",
       "photoLabel": "原剧角色照"
     },
@@ -5167,7 +5167,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E4%BE%AF%E5%AF%84%E6%98%8C/62405350",
-      "photo": "portraits/checked-houjichang-20261113.jpg",
+      "photo": "portraits/checked-houjichang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E4%BE%AF%E5%AF%84%E6%98%8C/62405350",
       "photoLabel": "原剧角色照"
     },
@@ -5192,7 +5192,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E5%88%81%E5%B8%B8/62422936",
-      "photo": "portraits/checked-diaochang-20261113.jpg",
+      "photo": "portraits/checked-diaochang-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%88%81%E5%B8%B8/62422936",
       "photoLabel": "原剧角色照"
     },
@@ -5217,7 +5217,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E5%B8%83%E5%B1%B1/58633939",
-      "photo": "portraits/checked-bushan-20261113.jpg",
+      "photo": "portraits/checked-bushan-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%B8%83%E5%B1%B1/58633939",
       "photoLabel": "原剧角色照"
     },
@@ -5242,7 +5242,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E8%B5%B5%E4%B9%9D/65511158",
-      "photo": "portraits/checked-zhaojiu-20261113.jpg",
+      "photo": "portraits/checked-zhaojiu-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E8%B5%B5%E4%B9%9D/65511158",
       "photoLabel": "原剧角色照"
     },
@@ -5268,7 +5268,7 @@ window.ARCHIVE={
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "reviewNote": "演员表可核，具体身份和亲缘待核，暂作河西段定位。",
       "caseAssociationStatus": "pending",
-      "photo": "portraits/checked-yuee-20261113.jpg",
+      "photo": "portraits/checked-yuee-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%9C%88%E5%A8%A5/65514038",
       "photoLabel": "原剧角色照"
     },
@@ -5293,7 +5293,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E9%AB%98%E5%8D%81%E4%BA%8C/64054491",
-      "photo": "portraits/checked-gaoshier-20261117.jpg",
+      "photo": "portraits/checked-gaoshier-20261117.webp",
       "photoSource": "https://www.ganjingworld.com/video/1gkt7aq65op4pfhHamveoBhd412k1c",
       "photoLabel": "原剧画面（左侧为高十二）",
       "photoFocus": true
@@ -5319,7 +5319,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E7%BE%AF%E5%88%97%E9%A2%A0/58563303",
-      "photo": "portraits/checked-jieliedian-20261113.jpg",
+      "photo": "portraits/checked-jieliedian-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E7%BE%AF%E5%88%97%E9%A2%A0/58563303",
       "photoLabel": "原剧角色照"
     },
@@ -5343,7 +5343,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/checked-xiaogui-20261113.jpg",
+      "photo": "portraits/checked-xiaogui-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%B0%8F%E6%A1%82/65514033",
       "photoLabel": "原剧角色照"
     },
@@ -5390,7 +5390,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/checked-yangguafu-20261117.jpg",
+      "photo": "portraits/checked-yangguafu-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/杨寡妇/64051405",
       "photoLabel": "原剧画面（命案现场）"
     },
@@ -5414,7 +5414,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/checked-liaoyin-20261113.jpg",
+      "photo": "portraits/checked-liaoyin-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E4%BA%86%E5%9B%A0/62059668",
       "photoLabel": "原剧角色照"
     },
@@ -5438,7 +5438,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/checked-yuesheng-20261117.jpg",
+      "photo": "portraits/checked-yuesheng-20261117.webp",
       "photoSource": "https://www.ganjingworld.com/video/1fcumpg9her6x7QJCGSMO9dNj1lu1c",
       "photoLabel": "原剧画面（左侧男孩为月生）",
       "photoFocus": true
@@ -5465,7 +5465,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/%E7%8B%84%E7%A6%8F/58686179",
-      "photo": "portraits/checked-difu-20261113.jpg",
+      "photo": "portraits/checked-difu-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E7%8B%84%E7%A6%8F/58686179",
       "photoLabel": "原剧角色照"
     },
@@ -5491,7 +5491,7 @@ window.ARCHIVE={
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "reviewNote": "维基神断演员表列出此角，百度剧集表未单列，具体场面待核，单元关联仅作系列定位。",
       "caseAssociationStatus": "pending",
-      "photo": "portraits/checked-ashina-buzhen-20261117.jpg",
+      "photo": "portraits/checked-ashina-buzhen-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/阿史那步真/8451898",
       "photoLabel": "原剧角色照"
     },
@@ -5515,7 +5515,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/checked-liuchenshi-20261113.jpg",
+      "photo": "portraits/checked-liuchenshi-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E5%88%98%E9%99%88%E6%B0%8F/65515424",
       "photoLabel": "原剧角色照"
     },
@@ -5541,7 +5541,7 @@ window.ARCHIVE={
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "reviewNote": "系列汇总演员表有此名，详细场景和亲缘待核，暂作洛阳段定位。",
       "caseAssociationStatus": "pending",
-      "photo": "portraits/checked-le-shi-20261117.jpg",
+      "photo": "portraits/checked-le-shi-20261117.webp",
       "photoSource": "https://www.ganjingworld.com/video/1gkqir15hin1UebOTkqDq0LCn1f71c",
       "photoLabel": "原剧画面（左侧为乐氏）",
       "photoFocus": true
@@ -5566,7 +5566,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神斷狄仁傑"
       ],
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "photo": "portraits/checked-yuhong-20261113.jpg",
+      "photo": "portraits/checked-yuhong-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E7%8E%89%E7%BA%A2/62417638",
       "photoLabel": "原剧角色照"
     },
@@ -5592,7 +5592,7 @@ window.ARCHIVE={
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
       "reviewNote": "系列汇总演员表有此名，详细职责待核，暂作善金局段定位。",
       "caseAssociationStatus": "pending",
-      "photo": "portraits/checked-shazhanggu-20261113.jpg",
+      "photo": "portraits/checked-shazhanggu-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/%E6%B2%99%E6%8E%8C%E5%9B%BA/65667261",
       "photoLabel": "原剧角色照"
     },
@@ -5618,7 +5618,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰"
       ],
       "source": "https://baike.baidu.com/item/假方谦/64076088",
-      "photo": "portraits/checked-fangqian-double-20261113.jpg",
+      "photo": "portraits/checked-fangqian-double-20261113.webp",
       "photoSource": "https://baike.baidu.com/item/假方谦/64076088",
       "photoLabel": "原剧角色照"
     },
@@ -5667,7 +5667,7 @@ window.ARCHIVE={
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰/576",
       "reviewNote": "演员尚无可靠交叉确认，不据同名角色猜填。",
-      "photo": "portraits/checked-zhaochuanchen-20261117.jpg",
+      "photo": "portraits/checked-zhaochuanchen-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/赵传臣/59009455",
       "photoLabel": "原剧角色照"
     },
@@ -5691,7 +5691,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-moling-20261117.jpg",
+      "photo": "portraits/checked-moling-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/魔灵/6858697",
       "photoLabel": "原剧角色照"
     },
@@ -5715,7 +5715,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-dichun-double-20261117.jpg",
+      "photo": "portraits/checked-dichun-double-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/动灵/2530740",
       "photoLabel": "原剧角色照（动灵真容）"
     },
@@ -5739,7 +5739,7 @@ window.ARCHIVE={
         "https://zh.wikipedia.org/wiki/神探狄仁杰第二部"
       ],
       "source": "https://baike.baidu.com/item/神探狄仁杰第二部/1612537",
-      "photo": "portraits/checked-wuping-xiancheng-20261117.jpg",
+      "photo": "portraits/checked-wuping-xiancheng-20261117.webp",
       "photoSource": "https://bkso.baidu.com/item/五平县丞/65392173",
       "photoLabel": "原剧角色照"
     }
@@ -5873,157 +5873,157 @@ window.ARCHIVE={
       "id": "虎敬晖",
       "url": "https://bkimg.cdn.bcebos.com/smart/63d0f703918fa0ec08fa4cfcdfcd4eee3d6d54fb6db5-bkimg-process,v_1,rw_3248,rh_2160,maxl_427?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E8%99%8E%E6%95%AC%E6%99%96",
-      "local": "portraits/虎敬晖.jpg"
+      "local": "portraits/虎敬晖.webp"
     },
     {
       "id": "刘传林",
       "url": "https://bkimg.cdn.bcebos.com/smart/77c6a7efce1b9d16fdfa730f6a83a38f8c5494eece15-bkimg-process,v_1,rw_867,rh_500,maxl_492?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E5%88%98%E4%BC%A0%E6%9E%97",
-      "local": "portraits/刘传林.jpg"
+      "local": "portraits/刘传林.webp"
     },
     {
       "id": "许世德",
       "url": "https://bkimg.cdn.bcebos.com/smart/6609c93d70cf3bc79f3dbda1b35bada1cd11728bfc71-bkimg-process,v_1,rw_1266,rh_1024,maxl_351?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E8%AE%B8%E4%B8%96%E5%BE%B7",
-      "local": "portraits/许世德.jpg"
+      "local": "portraits/许世德.webp"
     },
     {
       "id": "方莹玉",
       "url": "https://bkimg.cdn.bcebos.com/smart/c8177f3e6709c93d70cf9eb79f66efdcd100baa1fe62-bkimg-process,v_1,rw_1728,rh_1080,maxl_454?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E6%96%B9%E8%8E%B9%E7%8E%89",
-      "local": "portraits/方莹玉.jpg"
+      "local": "portraits/方莹玉.webp"
     },
     {
       "id": "肖清芳",
       "url": "https://bkimg.cdn.bcebos.com/pic/738b4710b912c8fcc3ce503ee1588545d688d53f8bb7?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,w_618",
       "source": "https://baike.baidu.com/item/%E8%82%96%E6%B8%85%E8%8A%B3",
-      "local": "portraits/肖清芳.jpg"
+      "local": null
     },
     {
       "id": "虺文忠",
       "url": "https://bkimg.cdn.bcebos.com/smart/95eef01f3a292df5e0fe1cc0456b4b6034a85fdfd5e9-bkimg-process,v_1,rw_2560,rh_1440,maxl_504?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E8%99%BA%E6%96%87%E5%BF%A0",
-      "local": "portraits/虺文忠.jpg"
+      "local": "portraits/虺文忠.webp"
     },
     {
       "id": "小梅",
       "url": "https://bkimg.cdn.bcebos.com/smart/4034970a304e251f95ca753c5ddcde177f3e6609f5e6-bkimg-process,v_1,rw_858,rh_800,maxl_304?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E5%B0%8F%E6%A2%85",
-      "local": "portraits/小梅.jpg"
+      "local": "portraits/小梅.webp"
     },
     {
       "id": "薛青麟",
       "url": "https://bkimg.cdn.bcebos.com/smart/4610b912c8fcc3cec3fd5a34991ec188d43f87948a3b-bkimg-process,v_1,rw_1820,rh_1024,maxl_504?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E8%96%9B%E9%9D%92%E9%BA%9F",
-      "local": "portraits/薛青麟.jpg"
+      "local": "portraits/薛青麟.webp"
     },
     {
       "id": "锦娘",
       "url": "https://bkimg.cdn.bcebos.com/smart/2f738bd4b31c8701a18b60863424892f070828385105-bkimg-process,v_1,rw_16,rh_9,maxl_504?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E9%94%A6%E5%A8%98",
-      "local": "portraits/锦娘.jpg"
+      "local": "portraits/锦娘.webp"
     },
     {
       "id": "小桃",
       "url": "https://bkimg.cdn.bcebos.com/smart/838ba61ea8d3fd1f4134196e3c15321f95cad1c8f116-bkimg-process,v_1,rw_1514,rh_1024,maxl_419?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E5%B0%8F%E6%A1%83",
-      "local": "portraits/小桃.jpg"
+      "local": null
     },
     {
       "id": "薇儿",
       "url": "https://bkimg.cdn.bcebos.com/smart/86d6277f9e2f070828381d3a147eaf99a9014c0854cc-bkimg-process,v_1,rw_1440,rh_1436,maxl_284?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E8%96%87%E5%84%BF",
-      "local": "portraits/薇儿.jpg"
+      "local": "portraits/薇儿.webp"
     },
     {
       "id": "葛亚清",
       "url": "https://bkimg.cdn.bcebos.com/smart/a8773912b31bb051f81969133420cdb44aed2e734acf-bkimg-process,v_1,rw_600,rh_449,maxl_379?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E8%91%9B%E4%BA%9A%E6%B8%85",
-      "local": "portraits/葛亚清.jpg"
+      "local": null
     },
     {
       "id": "云姑",
       "url": "https://bkimg.cdn.bcebos.com/smart/730e0cf3d7ca7bcb0a46d089b9527c63f6246b600258-bkimg-process,v_1,rw_1522,rh_1440,maxl_300?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E4%BA%91%E5%A7%91",
-      "local": "portraits/云姑.jpg"
+      "local": "portraits/云姑.webp"
     },
     {
       "id": "鲁吉英",
       "url": "https://bkimg.cdn.bcebos.com/smart/f703738da9773912b31b5cd6fb429118367adab4444a-bkimg-process,v_1,rw_1280,rh_720,maxl_504?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E9%B2%81%E5%90%89%E8%8B%B1",
-      "local": "portraits/鲁吉英.jpg"
+      "local": "portraits/鲁吉英.webp"
     },
     {
       "id": "沙尔汗",
       "url": "https://bkimg.cdn.bcebos.com/smart/10dfa9ec8a13632762d0f88192d4b7ec08fa513d6974-bkimg-process,v_1,rw_395,rh_252,maxl_791?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E6%B2%99%E5%B0%94%E6%B1%97",
-      "local": "portraits/沙尔汗.jpg"
+      "local": "portraits/沙尔汗.webp"
     },
     {
       "id": "武元敏",
       "url": "https://bkimg.cdn.bcebos.com/smart/d62a6059252dd42a283419f30f604cb5c9ea15ce126a-bkimg-process,v_1,rw_189,rh_259,maxl_519?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E6%AD%A6%E5%85%83%E6%95%8F",
-      "local": "portraits/武元敏.jpg"
+      "local": "portraits/武元敏.webp"
     },
     {
       "id": "钟五娘",
       "url": "https://bkimg.cdn.bcebos.com/smart/6f061d950a7b02087bf4b6d52f82e5d3572c11df62c9-bkimg-process,v_1,rw_3,rh_4,maxl_284?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E9%92%9F%E4%BA%94%E5%A8%98",
-      "local": "portraits/钟五娘.jpg"
+      "local": "portraits/钟五娘.webp"
     },
     {
       "id": "狄春",
       "url": "https://bkimg.cdn.bcebos.com/smart/9f510fb30f2442a7d93318042e19ba4bd11373f0a445-bkimg-process,v_1,rw_2806,rh_1656,maxl_481?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E7%8B%84%E6%98%A5",
-      "local": "portraits/狄春.jpg"
+      "local": null
     },
     {
       "id": "曾泰",
       "url": "https://bkimg.cdn.bcebos.com/smart/738b4710b912c8fcc3ce71d702598545d688d43f8b2c-bkimg-process,v_1,rw_963,rh_1282,maxl_284?x-bce-process=image/format,f_auto",
       "source": "https://baike.baidu.com/item/%E6%9B%BE%E6%B3%B0",
-      "local": "portraits/曾泰.jpg"
+      "local": "portraits/曾泰.webp"
     },
     {
       "id": "di",
       "url": "https://bkimg.cdn.bcebos.com/pic/c995d143ad4bd11373f0bb5ec1f2b30f4bfbfbedaf10",
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "local": "portraits/di.jpg"
+      "local": "portraits/di.webp"
     },
     {
       "id": "yuanfang",
       "url": "https://bkimg.cdn.bcebos.com/pic/a9d3fd1f4134970a304e24430e97c6c8a786c917f710",
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "local": "portraits/yuanfang.jpg"
+      "local": "portraits/yuanfang.webp"
     },
     {
       "id": "wu",
       "url": "https://bkimg.cdn.bcebos.com/pic/adaf2edda3cc7cd98d100cbb6a59363fb80e7bec3b03",
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "local": "portraits/wu.jpg"
+      "local": null
     },
     {
       "id": "ruyan",
       "url": "https://bkimg.cdn.bcebos.com/pic/d62a6059252dd42a2834032b016c4cb5c9ea14ce12ae",
       "source": "https://baike.baidu.com/item/神断狄仁杰/8708283",
-      "local": "portraits/ruyan.jpg"
+      "local": "portraits/ruyan.webp"
     },
     {
       "id": "likai",
       "url": "https://bkimg.cdn.bcebos.com/pic/79f0f736afc379310a55e84a6e92a04543a98226bb00",
       "source": "https://baike.baidu.com/item/李楷固",
-      "local": "portraits/likai.jpg"
+      "local": "portraits/likai.webp"
     },
     {
       "id": "zhaowen",
       "url": "https://bkimg.cdn.bcebos.com/pic/9f2f070828381f30e9244794ab5b5b086e061d955ac1",
       "source": "https://baike.baidu.com/item/赵文翙",
-      "local": "portraits/zhaowen.jpg"
+      "local": "portraits/zhaowen.webp"
     },
     {
       "id": "qiujing",
       "url": "https://bkimg.cdn.bcebos.com/pic/d52a2834349b033b5bb5c6f4389721d3d539b60017de",
       "source": "https://baike.baidu.com/item/丘静",
-      "local": "portraits/qiujing.jpg"
+      "local": "portraits/qiujing.webp"
     },
     {
       "id": "four",

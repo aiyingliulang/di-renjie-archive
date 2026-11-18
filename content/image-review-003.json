@@ -63,14 +63,14 @@
         360
       ],
       "action": "add",
-      "local": "portraits/checked-lixian-20261117.jpg",
+      "local": "portraits/checked-lixian-20261117.webp",
       "downloadSha256": "0f7e7fcfae87e9cf74bcaceb9feebf625b176b817f8cb9e1ffcb9a21ce6d0748",
-      "sha256": "799ad616a0d2d683b5a19ead287f654d8723e8cb58cea6f69942044626a1b710",
+      "sha256": "68bff9e0301dedaa4bba82bda57b389bc4b7b83d59280f6aad3ef55ec1f54ff2",
       "dimensions": [
         480,
         360
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "李显 神探狄仁杰 剧照",
         "李显 神探狄仁杰 角色"
@@ -95,14 +95,14 @@
         314
       ],
       "action": "add",
-      "local": "portraits/checked-jianxiaolang-20261117.jpg",
+      "local": "portraits/checked-jianxiaolang-20261117.webp",
       "downloadSha256": "1304176778c112d7eebe11aa186b871256d4778c31e999ff50f901c332c8f856",
-      "sha256": "678faa6edc92f30bc2f6cc379e91054cd71fcd1d18515d66b72e76327c48f5ec",
+      "sha256": "f3fc79374c464463743cdac7b3894602f593d5a935e87e0f93ff6fb559c2dad1",
       "dimensions": [
         360,
         314
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "简小郎 神探狄仁杰 剧照",
         "简小郎 神探狄仁杰 角色"
@@ -127,14 +127,14 @@
         1656
       ],
       "action": "add",
-      "local": "portraits/checked-chunxiang-20261117.jpg",
+      "local": "portraits/checked-chunxiang-20261117.webp",
       "downloadSha256": "c28910e92299d576cf6c4c5918815b6e29a865018a661e55d350212d0eebaf16",
-      "sha256": "9446f90f5d253de64651d4a5bbe5a50c2e81ee9ba9389e039998320b67c87479",
+      "sha256": "f927802c824b8caa715bd1f8b77a41299ffc45b83514f21a113064085547d9bf",
       "dimensions": [
         960,
         644
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "春香 神探狄仁杰 剧照",
         "春香 神探狄仁杰 角色"
@@ -166,14 +166,14 @@
         360
       ],
       "action": "add",
-      "local": "portraits/checked-yangfang-20261117.jpg",
+      "local": "portraits/checked-yangfang-20261117.webp",
       "downloadSha256": "146933883845369fc40ced30b7120a54ae5c14be785e56f22fe8a2dfbf4589c1",
-      "sha256": "ea4be118840e787aad8664bda52bf8c2c6e5cd8b6a3e49dedcde95070dcf0ecb",
+      "sha256": "071aa30a23a8373547a3c6ab3c039a908211868368776d0fadae9a371871d641",
       "dimensions": [
         480,
         360
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "cardFocus": "88% 20%",
       "searchQueries": [
         "杨方 神探狄仁杰 剧照",
@@ -206,14 +206,14 @@
         360
       ],
       "action": "add",
-      "local": "portraits/checked-mochuo-20261117.jpg",
+      "local": "portraits/checked-mochuo-20261117.webp",
       "downloadSha256": "d3c7649c9477501959a5547d140d70890e2d36b28d09d2c443a97e1af28a1275",
-      "sha256": "a0dda77696eaad336abe7cd407954a91c301acf48829960cebb431e25e44121f",
+      "sha256": "37d8e9641129e996c1c4b4596bf7da129db8c5ef5c47c430eba9bcd7ffd86578",
       "dimensions": [
         480,
         360
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "默啜 神探狄仁杰 剧照",
         "默啜 神探狄仁杰 角色"
@@ -245,14 +245,14 @@
         360
       ],
       "action": "add",
-      "local": "portraits/checked-huangzhen-20261117.jpg",
+      "local": "portraits/checked-huangzhen-20261117.webp",
       "downloadSha256": "514a77f13597ca611040cbe27d89d7b3284090ecf50c6a07d73f07c84c553800",
-      "sha256": "026bf4163c519d77d14738a5c002a38fad0b3338de2d7c5754157ff5fcb7dba4",
+      "sha256": "278614974e2b4e127612b9215d7c70080274024a9d359ca059447f8e356f9489",
       "dimensions": [
         480,
         360
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "黄真 神探狄仁杰 剧照",
         "黄真 神探狄仁杰 角色"
@@ -277,14 +277,14 @@
         720
       ],
       "action": "add",
-      "local": "portraits/checked-sunfujiang-20261117.jpg",
+      "local": "portraits/checked-sunfujiang-20261117.webp",
       "downloadSha256": "99ca0507b1dad5cf6491b4d74e86cf5d5c6c8212e585dab023239a71ef05003b",
-      "sha256": "05dea95cd4492375e7da553ea74da7052e691b3d27189dbd9d6653ecccf89a80",
+      "sha256": "273568d1337face89418923dd40aebd14e4e93fac1e1a7cdc9257c8fcdd849fc",
       "dimensions": [
         960,
         540
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "孙副将 神探狄仁杰 剧照",
         "孙副将 神探狄仁杰 角色"
@@ -316,14 +316,14 @@
         360
       ],
       "action": "add",
-      "local": "portraits/checked-zhufeng-20261117.jpg",
+      "local": "portraits/checked-zhufeng-20261117.webp",
       "downloadSha256": "2c4264ef3e7e27654f34fcb8c27d5f7862885111c10c1abd223c34b200d9ca41",
-      "sha256": "4342f864a9acf307ec97d9fce7a39b3f85bd989c0f16c7a79e69adcfbd72073e",
+      "sha256": "cdc937894e6b46684a809284a30d69aeae141681ff26ab054f2f275ee1e7dad0",
       "dimensions": [
         480,
         360
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "朱风 神探狄仁杰 剧照",
         "朱风 神探狄仁杰 角色"
@@ -348,14 +348,14 @@
         2160
       ],
       "action": "add",
-      "local": "portraits/checked-suxianer-double-20261117.jpg",
+      "local": "portraits/checked-suxianer-double-20261117.webp",
       "downloadSha256": "a9d702e23902d518c7d49c6992fb95b4090cd48fdda4d658cc00837aef0de180",
-      "sha256": "4eec6d946508d3e9d138ecadcb0ca6dd8cf1b747f17f2f6b5fa466965cdd1cb0",
+      "sha256": "72fb0b403053a7aa86685c56f6b875bd2e6c63a21f21a2d91b1c323956218e0b",
       "dimensions": [
         960,
         540
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "苏显儿替身 神探狄仁杰 剧照",
         "苏显儿替身 神探狄仁杰 角色"
@@ -380,14 +380,14 @@
         562
       ],
       "action": "add",
-      "local": "portraits/checked-shentao-20261117.jpg",
+      "local": "portraits/checked-shentao-20261117.webp",
       "downloadSha256": "033beabc15f4493e128778b968063647fc782a59d67931f07d885c28e9c49c74",
-      "sha256": "7c010feb21e38f96ccfb753d9bc8cd7144bf9fb4aa8189b4a2737023d0e32ac7",
+      "sha256": "8c76e3c54347aefefdc5e2a8be46d694e5116926046b80d0022812b4350b56d0",
       "dimensions": [
         960,
         540
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "cardFocus": "84% 20%",
       "searchQueries": [
         "沈韬 神探狄仁杰 剧照",
@@ -413,14 +413,14 @@
         632
       ],
       "action": "add",
-      "local": "portraits/checked-cuiliang-20261117.jpg",
+      "local": "portraits/checked-cuiliang-20261117.webp",
       "downloadSha256": "6c39f7538c9eb9d51f531bb4d7a2a2d43cd25b4883e28d3b3ac2acec6526b65c",
-      "sha256": "839ae9f2e8a2917045913ec12bc1f039e08ff5c49fb7afb97ed14ae11f76991a",
+      "sha256": "c68c0cc718180e7c0b1c3d7d6db6bc6eb8712686842c3567598b8f2104be8e30",
       "dimensions": [
         742,
         632
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "崔亮 神探狄仁杰 剧照",
         "崔亮 神探狄仁杰 角色"
@@ -445,14 +445,14 @@
         1440
       ],
       "action": "add",
-      "local": "portraits/checked-hejing-20261117.jpg",
+      "local": "portraits/checked-hejing-20261117.webp",
       "downloadSha256": "5ffe10192f21e1f5e20beff64de380dfec79856d9a4a097564fa64a06e10db78",
-      "sha256": "b787309a6d47600ab4d864603236471f337a256d924a8f0bc2461a4d685f11a6",
+      "sha256": "79fd4f1b70451682c4d56fe0f655c07edf78c5010e242570bb878e7dbb03e40d",
       "dimensions": [
         960,
         540
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "何竟 神探狄仁杰 剧照",
         "何竟 神探狄仁杰 角色"
@@ -477,14 +477,14 @@
         828
       ],
       "action": "add",
-      "local": "portraits/checked-fangjiu-20261117.jpg",
+      "local": "portraits/checked-fangjiu-20261117.webp",
       "downloadSha256": "0eac745d7285269a0966a062e0e5852dc9c100f71cd46adf8a2deac7d848feb3",
-      "sha256": "d2d52a763f4b2e44361b4ead1a3353cda8ccf37284fcac2071c51629946aa4ab",
+      "sha256": "fa2bce06b4c01707a9e3093803af36809ca7d61aa0f34589a80ef80e65588ddc",
       "dimensions": [
         960,
         784
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "方九 神探狄仁杰 剧照",
         "方九 神探狄仁杰 角色"
@@ -516,14 +516,14 @@
         480
       ],
       "action": "add",
-      "local": "portraits/checked-xiaolan-20261117.jpg",
+      "local": "portraits/checked-xiaolan-20261117.webp",
       "downloadSha256": "689faee8e1d32e84adaa5f73d954debf045c17c7eaaf1306fbbaf91554a248a4",
-      "sha256": "69a8d8ff86a5c79b1310ee2055a53c75b8db6d5d11543ebb039b4bbc5f551029",
+      "sha256": "846434f572b1f9e6f121db76e1d9e9d8d0d57922965293499c92a076dd411097",
       "dimensions": [
         640,
         480
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "cardFocus": "80% 70%",
       "searchQueries": [
         "小兰 神探狄仁杰 剧照",
@@ -562,14 +562,14 @@
         1080
       ],
       "action": "add",
-      "local": "portraits/checked-gaoshier-20261117.jpg",
+      "local": "portraits/checked-gaoshier-20261117.webp",
       "downloadSha256": "80159ac8cdfdf1c32f76235c7df23fae2d1c8e74fcb4c7d3915c8b1175fd4c42",
-      "sha256": "63a384f31f5f66e382d52d80c52c4a313467c3365148c2ca96b9b639698f5bbd",
+      "sha256": "dea7ff746c2bde8a79a4363cf5cdbb02e4a3af0ea73804e83398519494417ff2",
       "dimensions": [
         960,
         540
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "cardFocus": "9% 20%",
       "searchQueries": [
         "高十二 神探狄仁杰 剧照",
@@ -595,14 +595,14 @@
         828
       ],
       "action": "add",
-      "local": "portraits/checked-yangguafu-20261117.jpg",
+      "local": "portraits/checked-yangguafu-20261117.webp",
       "downloadSha256": "d9a2ea27101bbbe386f9cd2f236c83e17ee3463203116c7554903e0b3f00e198",
-      "sha256": "963fa29f998125bff9c720cca0cfc0e202e975bb09420599ed04ad0305bc16b4",
+      "sha256": "e131c9a365468923283cb71ca4dd8502d8122f12af48882b54daaa1ae9346975",
       "dimensions": [
         960,
         546
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "杨寡妇 神探狄仁杰 剧照",
         "杨寡妇 神探狄仁杰 角色"
@@ -637,14 +637,14 @@
         1080
       ],
       "action": "add",
-      "local": "portraits/checked-yuesheng-20261117.jpg",
+      "local": "portraits/checked-yuesheng-20261117.webp",
       "downloadSha256": "346513b38d671269c5bbc52b78c45884628279b332264997f8c05796b729c342",
-      "sha256": "c7175d151e3928c56095e9cfc1f37f7b50cf42d519670d2e9ce890598b6fb1df",
+      "sha256": "57be4e0c68c791f378260ce7a7587da1b33ff26dd94d007db69b14a8f6392068",
       "dimensions": [
         960,
         720
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "cardFocus": "13% 40%",
       "searchQueries": [
         "月生 神探狄仁杰 剧照",
@@ -670,14 +670,14 @@
         720
       ],
       "action": "add",
-      "local": "portraits/checked-ashina-buzhen-20261117.jpg",
+      "local": "portraits/checked-ashina-buzhen-20261117.webp",
       "downloadSha256": "b034a7b9ac2ad2e1617a9f26151a64a55a6c8fee2491ec8529f0a3a8e2bc90f5",
-      "sha256": "70f60ccbceb39f608deb8a866ba4c318a1fc49190e1bd777d6f0f8c93f181d34",
+      "sha256": "9bfd79c8e38f8e70f5177bfb8c32b36fc9a7022fb7b4492b30380a1e4b9762c1",
       "dimensions": [
         960,
         540
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "阿史那步真 神探狄仁杰 剧照",
         "阿史那步真 神探狄仁杰 角色"
@@ -715,14 +715,14 @@
         1080
       ],
       "action": "add",
-      "local": "portraits/checked-le-shi-20261117.jpg",
+      "local": "portraits/checked-le-shi-20261117.webp",
       "downloadSha256": "fa808706e97175878eec44b0e37289df5034ccc2726a330f6799a50993b05a86",
-      "sha256": "a5e5eda9e9f4486494fb01198e7c264f0b3526ca27d440e9f0e4b7f19e21eeb7",
+      "sha256": "e12696f807afbb56e941ce8ab7cbf3a9813f2cfd6990be113d20a754ed95fe00",
       "dimensions": [
         960,
         540
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "cardFocus": "13% 20%",
       "searchQueries": [
         "乐氏 神探狄仁杰 剧照",
@@ -748,14 +748,14 @@
         2160
       ],
       "action": "add",
-      "local": "portraits/checked-zhaochuanchen-20261117.jpg",
+      "local": "portraits/checked-zhaochuanchen-20261117.webp",
       "downloadSha256": "2f3d2e9888e1ee8808785abb713aa0232c36313e960c0288b19aca468994d0d1",
-      "sha256": "ee7516492f2977fe252562648a0a72b0c8140d1e2d1a36ca476b425ee8058f76",
+      "sha256": "ea844aee68bcc517320102d279f2dbc9ec1630a14c5de3d6e3c3b7f3950e9e67",
       "dimensions": [
         960,
         540
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "赵传臣 神探狄仁杰 剧照",
         "赵传臣 神探狄仁杰 角色"
@@ -780,14 +780,14 @@
         2160
       ],
       "action": "add",
-      "local": "portraits/checked-moling-20261117.jpg",
+      "local": "portraits/checked-moling-20261117.webp",
       "downloadSha256": "b19a63e963804a9c9f43a5aaf87540b56840f56dbd12ecedf6a673d76258a7a5",
-      "sha256": "c8d6987076747e046cc2d7ebfed5d6ddbc8abc809f36cfdcb272f0cffb2cfa7a",
+      "sha256": "42f324b80b0d3f44f9b8aa562d8ce96afc84df201f59bce8941460cbc760c590",
       "dimensions": [
         960,
         540
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "魔灵 神探狄仁杰 剧照",
         "魔灵 神探狄仁杰 角色"
@@ -812,14 +812,14 @@
         619
       ],
       "action": "add",
-      "local": "portraits/checked-dichun-double-20261117.jpg",
+      "local": "portraits/checked-dichun-double-20261117.webp",
       "downloadSha256": "c7c139decf43c0f399e6efd75ee93bf7aa4ee3f2bb367c8c877ed21ab0e2efd4",
-      "sha256": "8e783bad0f9eb0ef046e052956f8d65b933e54fbc3a7971086683f15a4576700",
+      "sha256": "1063b8863995e463e4aa8803d98bd4f93fec7c3dc355975973e30a148c123bec",
       "dimensions": [
         960,
         540
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "假狄春 神探狄仁杰 剧照",
         "假狄春 神探狄仁杰 角色"
@@ -844,14 +844,14 @@
         812
       ],
       "action": "add",
-      "local": "portraits/checked-wuping-xiancheng-20261117.jpg",
+      "local": "portraits/checked-wuping-xiancheng-20261117.webp",
       "downloadSha256": "d03911848d8bab30431f1e01c711fc01ecbe110c96379c22f177707f39f16db4",
-      "sha256": "455aff9c5a956cf6609916cd31fa89fa9a63fd39502e7bd3d5bb962edce3d6d2",
+      "sha256": "6cac8fba97e23bfca424ea9440730cc7bc331c2063cfdafacc5be83f511a340f",
       "dimensions": [
         960,
         717
       ],
-      "encoding": "JPEG quality 84; longest edge ≤960px; preserve complete source frame; no generative processing",
+      "encoding": "WebP quality 86; longest edge ≤2560px; preserve the complete frame",
       "searchQueries": [
         "五平县丞 神探狄仁杰 剧照",
         "五平县丞 神探狄仁杰 角色"
